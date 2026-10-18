@@ -149,6 +149,7 @@ CREATE TABLE IF NOT EXISTS skills (
   bookmarks    INTEGER NOT NULL DEFAULT 0,
   preview_url  TEXT,                               -- /assets/skills/<slug>/media/preview-1.webp
   video_url    TEXT,                               -- /previews/<slug>.mp4, resolved via MEDIA_BASE_URL
+  gallery_json TEXT NOT NULL DEFAULT '[]',         -- ordered detail-page preview images
   version      TEXT,
   placeholder  TEXT,                               -- 预览图加载前的占位色
   tools_json   TEXT NOT NULL DEFAULT '[]',         -- [{name, src}]

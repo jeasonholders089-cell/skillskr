@@ -52,6 +52,7 @@ export function migrate(handle: DatabaseSync = db()): void {
 function applyAlterations(handle: DatabaseSync): void {
   ensureColumn(handle, "webhook_events", "tenant_id", "TEXT");
   ensureColumn(handle, "skills", "video_url", "TEXT");
+  ensureColumn(handle, "skills", "gallery_json", "TEXT NOT NULL DEFAULT '[]'");
   ensureColumn(handle, "skills", "version", "TEXT");
 }
 

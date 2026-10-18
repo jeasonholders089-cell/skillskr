@@ -163,6 +163,33 @@ export function skillDetailPage(input: {
         <span>${escapeHtml(skill.output)}</span>
         ${skill.version ? `<span>v${escapeHtml(skill.version)}</span>` : ""}
       </div>
+      ${
+        skill.gallery.length > 1
+          ? `<section class="detail-gallery" aria-labelledby="detail-gallery-title">
+        <div class="detail-gallery__head">
+          <h2 class="detail-gallery__title" id="detail-gallery-title">All previews</h2>
+          <span class="detail-gallery__count">${skill.gallery.length} images</span>
+        </div>
+        <div class="detail-gallery__grid">
+          ${skill.gallery
+            .slice(1)
+            .map(
+              (src, index) =>
+                `<a class="detail-gallery__item" href="${escapeHtml(
+                  src
+                )}" target="_blank" rel="noopener" aria-label="Open preview ${index + 2} of ${
+                  skill.gallery.length
+                }">
+              <img src="${escapeHtml(src)}" alt="${escapeHtml(
+                skill.title
+              )} preview ${index + 2}" loading="lazy" decoding="async" width="1280" height="720">
+            </a>`
+            )
+            .join("")}
+        </div>
+      </section>`
+          : ""
+      }
     </div>
     <aside class="detail-side">
       <div class="detail-card">

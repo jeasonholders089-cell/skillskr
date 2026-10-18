@@ -19,6 +19,7 @@ export interface SkillRow {
   bookmarks: number;
   preview_url: string | null;
   video_url: string | null;
+  gallery_json: string;
   version: string | null;
   placeholder: string | null;
   tools_json: string;
@@ -38,6 +39,7 @@ export interface PublicSkill {
   bookmarks: number;
   preview: string | null;
   video: string | null;
+  gallery: string[];
   version: string | null;
   placeholder: string | null;
   tools: Array<{ name: string; src: string }>;
@@ -52,6 +54,9 @@ function assetUrl(value: string | null): string | null {
 }
 
 export function toPublicSkill(row: SkillRow): PublicSkill {
+  const gallery = (JSON.parse(row.gallery_json ?? "[]") as string[])
+    .map((value) => assetUrl(value))
+    .filter((value): value is string => Boolean(value));
   return {
     slug: row.slug,
     title: row.title,
@@ -63,6 +68,7 @@ export function toPublicSkill(row: SkillRow): PublicSkill {
     bookmarks: row.bookmarks,
     preview: assetUrl(row.preview_url),
     video: assetUrl(row.video_url),
+    gallery,
     version: row.version,
     placeholder: row.placeholder,
     tools: JSON.parse(row.tools_json) as Array<{ name: string; src: string }>,
@@ -82,6 +88,7 @@ interface SeedSkill {
   summary?: string | null;
   preview: string | null;
   video?: string | null;
+  gallery?: string[];
   version?: string | null;
   placeholder: string | null;
   tools: Array<{ name: string; src: string }>;
@@ -103,9 +110,9 @@ export function seedSkills(): void {
     for (const skill of seed) {
       run(
         `INSERT INTO skills (slug, title, summary, output, is_free, is_new, installs, bookmarks,
-                             preview_url, video_url, version, placeholder, tools_json, shelves_json,
+                             preview_url, video_url, gallery_json, version, placeholder, tools_json, shelves_json,
                              created_at, updated_at)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
          ON CONFLICT (slug) DO UPDATE SET
            title = excluded.title,
            summary = excluded.summary,
@@ -116,6 +123,7 @@ export function seedSkills(): void {
            bookmarks = excluded.bookmarks,
            preview_url = excluded.preview_url,
            video_url = excluded.video_url,
+           gallery_json = excluded.gallery_json,
            version = excluded.version,
            placeholder = excluded.placeholder,
            tools_json = excluded.tools_json,
@@ -131,6 +139,7 @@ export function seedSkills(): void {
         skill.bookmarks,
         skill.preview,
         skill.video ?? null,
+        JSON.stringify(skill.gallery ?? []),
         skill.version ?? null,
         skill.placeholder,
         JSON.stringify(skill.tools ?? []),

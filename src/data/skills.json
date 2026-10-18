@@ -10,6 +10,10 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hyperframes-capability-keynote-launch.webp",
   "video": "/previews/bs-hyperframes-capability-keynote-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-capability-keynote-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-capability-keynote-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -26,6 +30,12 @@
   "bookmarks": 1,
   "preview": "/covers/bs-academic-argument-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-academic-argument-deck/preview-1.webp",
+   "/gallery/bs-academic-argument-deck/preview-2.webp",
+   "/gallery/bs-academic-argument-deck/preview-3.webp",
+   "/gallery/bs-academic-argument-deck/preview-4.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -42,6 +52,12 @@
   "bookmarks": 4,
   "preview": "/covers/bs-brand-story-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-brand-story-deck/preview-1.webp",
+   "/gallery/bs-brand-story-deck/preview-2.webp",
+   "/gallery/bs-brand-story-deck/preview-3.webp",
+   "/gallery/bs-brand-story-deck/preview-4.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#d97757",
   "tools": [
@@ -74,6 +90,12 @@
   "bookmarks": 4,
   "preview": "/covers/bs-editable-visual-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-editable-visual-deck/preview-1.webp",
+   "/gallery/bs-editable-visual-deck/preview-2.webp",
+   "/gallery/bs-editable-visual-deck/preview-3.webp",
+   "/gallery/bs-editable-visual-deck/preview-4.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#6a9bcc",
   "tools": [
@@ -106,6 +128,10 @@
   "bookmarks": 19,
   "preview": "/covers/bs-hyperframes-agent-chorus-reel.webp",
   "video": "/previews/bs-hyperframes-agent-chorus-reel.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-agent-chorus-reel/preview-1.webp",
+   "/gallery/bs-hyperframes-agent-chorus-reel/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#7f8b65",
   "tools": [
@@ -144,6 +170,10 @@
   "bookmarks": 2,
   "preview": "/covers/bs-hyperframes-frame-token-launch.webp",
   "video": "/previews/bs-hyperframes-frame-token-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-frame-token-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-frame-token-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#629987",
   "tools": [
@@ -180,6 +210,10 @@
   "bookmarks": 18,
   "preview": "/covers/bs-hyperframes-device-canvas-launch.webp",
   "video": "/previews/bs-hyperframes-device-canvas-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-device-canvas-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-device-canvas-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#e4d0cf",
   "tools": [
@@ -218,6 +252,10 @@
   "bookmarks": 8,
   "preview": "/covers/bs-hyperframes-halftone-canvas-launch.webp",
   "video": "/previews/bs-hyperframes-halftone-canvas-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-halftone-canvas-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-halftone-canvas-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#d1b198",
   "tools": [
@@ -254,6 +292,10 @@
   "bookmarks": 16,
   "preview": "/covers/bs-hyperframes-chat-to-result-launch.webp",
   "video": "/previews/bs-hyperframes-chat-to-result-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-chat-to-result-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-chat-to-result-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -270,6 +312,10 @@
   "bookmarks": 4,
   "preview": "/covers/bs-hyperframes-format-shift-launch.webp",
   "video": "/previews/bs-hyperframes-format-shift-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-format-shift-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-format-shift-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#7f8b65",
   "tools": [
@@ -306,6 +352,10 @@
   "bookmarks": 5,
   "preview": "/covers/bs-hyperframes-liquid-logo-reveal.webp",
   "video": "/previews/bs-hyperframes-liquid-logo-reveal.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-liquid-logo-reveal/preview-1.webp",
+   "/gallery/bs-hyperframes-liquid-logo-reveal/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -322,6 +372,10 @@
   "bookmarks": 4,
   "preview": "/covers/bs-hyperframes-code-change-launch.webp",
   "video": "/previews/bs-hyperframes-code-change-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-code-change-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-code-change-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -338,6 +392,12 @@
   "bookmarks": 0,
   "preview": "/covers/bs-architectural-project-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-architectural-project-deck/preview-1.webp",
+   "/gallery/bs-architectural-project-deck/preview-2.webp",
+   "/gallery/bs-architectural-project-deck/preview-3.webp",
+   "/gallery/bs-architectural-project-deck/preview-4.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -354,6 +414,10 @@
   "bookmarks": 5,
   "preview": "/covers/bs-hyperframes-objection-reversal-launch.webp",
   "video": "/previews/bs-hyperframes-objection-reversal-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-objection-reversal-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-objection-reversal-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -370,6 +434,10 @@
   "bookmarks": 3,
   "preview": "/covers/bs-hyperframes-pain-gag-reveal-launch.webp",
   "video": "/previews/bs-hyperframes-pain-gag-reveal-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-pain-gag-reveal-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-pain-gag-reveal-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#c0d1c9",
   "tools": [
@@ -406,6 +474,10 @@
   "bookmarks": 3,
   "preview": "/covers/bs-hyperframes-partnership-aroll-launch.webp",
   "video": "/previews/bs-hyperframes-partnership-aroll-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-partnership-aroll-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-partnership-aroll-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -422,6 +494,10 @@
   "bookmarks": 5,
   "preview": "/covers/bs-hyperframes-square-morph-launch.webp",
   "video": "/previews/bs-hyperframes-square-morph-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-square-morph-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-square-morph-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -438,6 +514,10 @@
   "bookmarks": 3,
   "preview": "/covers/bs-hyperframes-persistent-chat-launch.webp",
   "video": "/previews/bs-hyperframes-persistent-chat-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-persistent-chat-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-persistent-chat-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -454,6 +534,10 @@
   "bookmarks": 4,
   "preview": "/covers/bs-hyperframes-technical-drawing-promo.webp",
   "video": "/previews/bs-hyperframes-technical-drawing-promo.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-technical-drawing-promo/preview-1.webp",
+   "/gallery/bs-hyperframes-technical-drawing-promo/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#d97757",
   "tools": [
@@ -490,6 +574,10 @@
   "bookmarks": 40,
   "preview": "/covers/bs-hyperframes-velocity-sting.webp",
   "video": "/previews/bs-hyperframes-velocity-sting.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-velocity-sting/preview-1.webp",
+   "/gallery/bs-hyperframes-velocity-sting/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#d97757",
   "tools": [
@@ -526,6 +614,11 @@
   "bookmarks": 6,
   "preview": "/covers/bs-interactive-system-map.webp",
   "video": "/previews/bs-interactive-system-map.mp4",
+  "gallery": [
+   "/gallery/bs-interactive-system-map/preview-1.webp",
+   "/gallery/bs-interactive-system-map/preview-2.webp",
+   "/gallery/bs-interactive-system-map/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -542,6 +635,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-research-project-homepage.webp",
   "video": "/previews/bs-research-project-homepage.mp4",
+  "gallery": [
+   "/gallery/bs-research-project-homepage/preview-1.webp",
+   "/gallery/bs-research-project-homepage/preview-2.webp",
+   "/gallery/bs-research-project-homepage/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -558,6 +656,10 @@
   "bookmarks": 2,
   "preview": "/covers/bs-hyperframes-texture-swatch-launch.webp",
   "video": "/previews/bs-hyperframes-texture-swatch-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-texture-swatch-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-texture-swatch-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -574,6 +676,12 @@
   "bookmarks": 1,
   "preview": "/covers/bs-research-paper-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-research-paper-deck/preview-1.webp",
+   "/gallery/bs-research-paper-deck/preview-2.webp",
+   "/gallery/bs-research-paper-deck/preview-3.webp",
+   "/gallery/bs-research-paper-deck/preview-4.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -590,6 +698,12 @@
   "bookmarks": 1,
   "preview": "/covers/bs-image-narrative-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-image-narrative-deck/preview-1.webp",
+   "/gallery/bs-image-narrative-deck/preview-2.webp",
+   "/gallery/bs-image-narrative-deck/preview-3.webp",
+   "/gallery/bs-image-narrative-deck/preview-4.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#d1b198",
   "tools": [
@@ -622,6 +736,12 @@
   "bookmarks": 3,
   "preview": "/covers/bs-research-talk-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-research-talk-deck/preview-1.webp",
+   "/gallery/bs-research-talk-deck/preview-2.webp",
+   "/gallery/bs-research-talk-deck/preview-3.webp",
+   "/gallery/bs-research-talk-deck/preview-4.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -638,6 +758,12 @@
   "bookmarks": 1,
   "preview": "/covers/bs-consulting-storyline-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-consulting-storyline-deck/preview-1.webp",
+   "/gallery/bs-consulting-storyline-deck/preview-2.webp",
+   "/gallery/bs-consulting-storyline-deck/preview-3.webp",
+   "/gallery/bs-consulting-storyline-deck/preview-4.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#e4d0cf",
   "tools": [
@@ -674,6 +800,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-skin-mechanism-visual.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-skin-mechanism-visual/preview-1.webp",
+   "/gallery/bs-skin-mechanism-visual/preview-2.webp",
+   "/gallery/bs-skin-mechanism-visual/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -690,6 +821,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-regional-flavor-map.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-regional-flavor-map/preview-1.webp",
+   "/gallery/bs-regional-flavor-map/preview-2.webp",
+   "/gallery/bs-regional-flavor-map/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -706,6 +842,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-optical-bench-diagram.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-optical-bench-diagram/preview-1.webp",
+   "/gallery/bs-optical-bench-diagram/preview-2.webp",
+   "/gallery/bs-optical-bench-diagram/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -722,6 +863,10 @@
   "bookmarks": 4,
   "preview": "/covers/bs-hyperframes-sound-reveal-launch.webp",
   "video": "/previews/bs-hyperframes-sound-reveal-launch.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-sound-reveal-launch/preview-1.webp",
+   "/gallery/bs-hyperframes-sound-reveal-launch/preview-2.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -738,6 +883,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-vehicle-anatomy-poster.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-vehicle-anatomy-poster/preview-1.webp",
+   "/gallery/bs-vehicle-anatomy-poster/preview-2.webp",
+   "/gallery/bs-vehicle-anatomy-poster/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -754,6 +904,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-ev-system-exploded-view.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-ev-system-exploded-view/preview-1.webp",
+   "/gallery/bs-ev-system-exploded-view/preview-2.webp",
+   "/gallery/bs-ev-system-exploded-view/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -770,6 +925,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-bioactive-pathway-poster.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-bioactive-pathway-poster/preview-1.webp",
+   "/gallery/bs-bioactive-pathway-poster/preview-2.webp",
+   "/gallery/bs-bioactive-pathway-poster/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -786,6 +946,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-raw-ink-storyboard.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-raw-ink-storyboard/preview-1.webp",
+   "/gallery/bs-raw-ink-storyboard/preview-2.webp",
+   "/gallery/bs-raw-ink-storyboard/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -802,6 +967,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-marine-research-poster.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-marine-research-poster/preview-1.webp",
+   "/gallery/bs-marine-research-poster/preview-2.webp",
+   "/gallery/bs-marine-research-poster/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -818,6 +988,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-paper-cut-science-explainer.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-paper-cut-science-explainer/preview-1.webp",
+   "/gallery/bs-paper-cut-science-explainer/preview-2.webp",
+   "/gallery/bs-paper-cut-science-explainer/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -834,6 +1009,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-layered-material-cutaway.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-layered-material-cutaway/preview-1.webp",
+   "/gallery/bs-layered-material-cutaway/preview-2.webp",
+   "/gallery/bs-layered-material-cutaway/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -850,6 +1030,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-industrial-identity-artifact.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-industrial-identity-artifact/preview-1.webp",
+   "/gallery/bs-industrial-identity-artifact/preview-2.webp",
+   "/gallery/bs-industrial-identity-artifact/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -866,6 +1051,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-hand-rendered-explainer.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-hand-rendered-explainer/preview-1.webp",
+   "/gallery/bs-hand-rendered-explainer/preview-2.webp",
+   "/gallery/bs-hand-rendered-explainer/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -882,6 +1072,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-fantasy-concept-map.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-fantasy-concept-map/preview-1.webp",
+   "/gallery/bs-fantasy-concept-map/preview-2.webp",
+   "/gallery/bs-fantasy-concept-map/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -898,6 +1093,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-cue-column-study-sheet.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cue-column-study-sheet/preview-1.webp",
+   "/gallery/bs-cue-column-study-sheet/preview-2.webp",
+   "/gallery/bs-cue-column-study-sheet/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -914,6 +1114,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-continuity-asset-set.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-continuity-asset-set/preview-1.webp",
+   "/gallery/bs-continuity-asset-set/preview-2.webp",
+   "/gallery/bs-continuity-asset-set/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -930,6 +1135,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-isometric-research-collage.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-isometric-research-collage/preview-1.webp",
+   "/gallery/bs-isometric-research-collage/preview-2.webp",
+   "/gallery/bs-isometric-research-collage/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -946,6 +1156,12 @@
   "bookmarks": 2,
   "preview": "/covers/bs-article-brief-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-article-brief-deck/preview-1.webp",
+   "/gallery/bs-article-brief-deck/preview-2.webp",
+   "/gallery/bs-article-brief-deck/preview-3.webp",
+   "/gallery/bs-article-brief-deck/preview-4.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#b36d85",
   "tools": [
@@ -982,6 +1198,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-composition-study-generator.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-composition-study-generator/preview-1.webp",
+   "/gallery/bs-composition-study-generator/preview-2.webp",
+   "/gallery/bs-composition-study-generator/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -998,6 +1219,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-city-street-map-illustrator.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-city-street-map-illustrator/preview-1.webp",
+   "/gallery/bs-city-street-map-illustrator/preview-2.webp",
+   "/gallery/bs-city-street-map-illustrator/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1014,6 +1240,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-cinematic-shot-grid.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cinematic-shot-grid/preview-1.webp",
+   "/gallery/bs-cinematic-shot-grid/preview-2.webp",
+   "/gallery/bs-cinematic-shot-grid/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1030,6 +1261,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-article-illustration-set.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-article-illustration-set/preview-1.webp",
+   "/gallery/bs-article-illustration-set/preview-2.webp",
+   "/gallery/bs-article-illustration-set/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1046,6 +1282,12 @@
   "bookmarks": 3,
   "preview": "/covers/bs-visual-canvas-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-visual-canvas-deck/preview-1.webp",
+   "/gallery/bs-visual-canvas-deck/preview-2.webp",
+   "/gallery/bs-visual-canvas-deck/preview-3.webp",
+   "/gallery/bs-visual-canvas-deck/preview-4.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#d1b198",
   "tools": [
@@ -1078,6 +1320,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-whiteboard-concept-explainer.webp",
   "video": "/previews/bs-whiteboard-concept-explainer.mp4",
+  "gallery": [
+   "/gallery/bs-whiteboard-concept-explainer/preview-1.webp",
+   "/gallery/bs-whiteboard-concept-explainer/preview-2.webp",
+   "/gallery/bs-whiteboard-concept-explainer/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1094,6 +1341,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hero-skyline.webp",
   "video": "/previews/bs-hero-skyline.mp4",
+  "gallery": [
+   "/gallery/bs-hero-skyline/preview-1.webp",
+   "/gallery/bs-hero-skyline/preview-2.webp",
+   "/gallery/bs-hero-skyline/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1110,6 +1362,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-data-visualization-activity-calendar.webp",
   "video": "/previews/bs-data-visualization-activity-calendar.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-activity-calendar/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#c0d1c9",
   "tools": [
@@ -1142,6 +1397,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-event-bars.webp",
   "video": "/previews/bs-data-visualization-event-bars.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-event-bars/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1158,6 +1416,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-balance-chart.webp",
   "video": "/previews/bs-data-visualization-balance-chart.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-balance-chart/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1174,6 +1435,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-kpi-lines.webp",
   "video": "/previews/bs-data-visualization-kpi-lines.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-kpi-lines/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1190,6 +1454,11 @@
   "bookmarks": 6,
   "preview": "/covers/bs-hero-angled-gallery.webp",
   "video": "/previews/bs-hero-angled-gallery.mp4",
+  "gallery": [
+   "/gallery/bs-hero-angled-gallery/preview-1.webp",
+   "/gallery/bs-hero-angled-gallery/preview-2.webp",
+   "/gallery/bs-hero-angled-gallery/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1206,6 +1475,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-funnel-area.webp",
   "video": "/previews/bs-data-visualization-funnel-area.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-funnel-area/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1222,6 +1494,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-paired-columns.webp",
   "video": "/previews/bs-data-visualization-paired-columns.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-paired-columns/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1238,6 +1513,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-appliance-exploded-poster.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-appliance-exploded-poster/preview-1.webp",
+   "/gallery/bs-appliance-exploded-poster/preview-2.webp",
+   "/gallery/bs-appliance-exploded-poster/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1254,6 +1534,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-spreadsheet-grid.webp",
   "video": "/previews/bs-data-visualization-spreadsheet-grid.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-spreadsheet-grid/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1270,6 +1553,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-stacked-columns.webp",
   "video": "/previews/bs-data-visualization-stacked-columns.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-stacked-columns/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1286,6 +1572,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hero-contact-bar.webp",
   "video": "/previews/bs-hero-contact-bar.mp4",
+  "gallery": [
+   "/gallery/bs-hero-contact-bar/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1302,6 +1591,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-summary-lines.webp",
   "video": "/previews/bs-data-visualization-summary-lines.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-summary-lines/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1318,6 +1610,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-hero-dark-stats.webp",
   "video": "/previews/bs-hero-dark-stats.mp4",
+  "gallery": [
+   "/gallery/bs-hero-dark-stats/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1334,6 +1629,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hero-drifting-marks.webp",
   "video": "/previews/bs-hero-drifting-marks.mp4",
+  "gallery": [
+   "/gallery/bs-hero-drifting-marks/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1350,6 +1648,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-records-grid.webp",
   "video": "/previews/bs-data-visualization-records-grid.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-records-grid/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1366,6 +1667,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-hero-film-strip.webp",
   "video": "/previews/bs-hero-film-strip.mp4",
+  "gallery": [
+   "/gallery/bs-hero-film-strip/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1382,6 +1686,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-case-notes.webp",
   "video": "/previews/bs-testimonial-case-notes.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-case-notes/preview-1.webp",
+   "/gallery/bs-testimonial-case-notes/preview-2.webp",
+   "/gallery/bs-testimonial-case-notes/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1398,6 +1707,9 @@
   "bookmarks": 0,
   "preview": "/covers/bs-hero-image-tiles.webp",
   "video": "/previews/bs-hero-image-tiles.mp4",
+  "gallery": [
+   "/gallery/bs-hero-image-tiles/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1414,6 +1726,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hero-integration-grid.webp",
   "video": "/previews/bs-hero-integration-grid.mp4",
+  "gallery": [
+   "/gallery/bs-hero-integration-grid/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1430,6 +1745,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-hero-minimal-motion.webp",
   "video": "/previews/bs-hero-minimal-motion.mp4",
+  "gallery": [
+   "/gallery/bs-hero-minimal-motion/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#7f8b65",
   "tools": [
@@ -1462,6 +1780,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hero-particle-field.webp",
   "video": "/previews/bs-hero-particle-field.mp4",
+  "gallery": [
+   "/gallery/bs-hero-particle-field/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1478,6 +1799,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hero-single-frame.webp",
   "video": "/previews/bs-hero-single-frame.mp4",
+  "gallery": [
+   "/gallery/bs-hero-single-frame/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1494,6 +1818,10 @@
   "bookmarks": 7,
   "preview": "/covers/bs-project-knowledge-graph.webp",
   "video": "/previews/bs-project-knowledge-graph.mp4",
+  "gallery": [
+   "/gallery/bs-project-knowledge-graph/preview-1.webp",
+   "/gallery/bs-project-knowledge-graph/preview-2.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#b36d85",
   "tools": [
@@ -1526,6 +1854,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-compact-grid.webp",
   "video": "/previews/bs-testimonial-compact-grid.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-compact-grid/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1542,6 +1873,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-colour-blocks.webp",
   "video": "/previews/bs-testimonial-colour-blocks.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-colour-blocks/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1558,6 +1892,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-dark-portraits.webp",
   "video": "/previews/bs-testimonial-dark-portraits.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-dark-portraits/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1574,6 +1911,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-editorial-spread.webp",
   "video": "/previews/bs-testimonial-editorial-spread.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-editorial-spread/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1590,6 +1930,9 @@
   "bookmarks": 5,
   "preview": "/covers/bs-hero-ink-ridge.webp",
   "video": "/previews/bs-hero-ink-ridge.mp4",
+  "gallery": [
+   "/gallery/bs-hero-ink-ridge/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1606,6 +1949,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-testimonial-masonry-wall.webp",
   "video": "/previews/bs-testimonial-masonry-wall.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-masonry-wall/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1622,6 +1968,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-fanned-deck.webp",
   "video": "/previews/bs-testimonial-fanned-deck.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-fanned-deck/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1638,6 +1987,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-mosaic.webp",
   "video": "/previews/bs-testimonial-mosaic.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-mosaic/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1654,6 +2006,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-minimal-carousel.webp",
   "video": "/previews/bs-testimonial-minimal-carousel.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-minimal-carousel/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1670,6 +2025,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-numbered-slider.webp",
   "video": "/previews/bs-testimonial-numbered-slider.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-numbered-slider/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1686,6 +2044,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-orbiting-portraits.webp",
   "video": "/previews/bs-testimonial-orbiting-portraits.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-orbiting-portraits/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1702,6 +2063,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-portrait-switcher.webp",
   "video": "/previews/bs-testimonial-portrait-switcher.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-portrait-switcher/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1718,6 +2082,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-portrait-tiles.webp",
   "video": "/previews/bs-testimonial-portrait-tiles.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-portrait-tiles/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1734,6 +2101,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-profile-reel.webp",
   "video": "/previews/bs-testimonial-profile-reel.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-profile-reel/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1750,6 +2120,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-columns.webp",
   "video": "/previews/bs-testimonial-columns.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-columns/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1766,6 +2139,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-single-card.webp",
   "video": "/previews/bs-testimonial-single-card.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-single-card/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1782,6 +2158,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-portrait-overlay.webp",
   "video": "/previews/bs-testimonial-portrait-overlay.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-portrait-overlay/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1798,6 +2177,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-typed-row.webp",
   "video": "/previews/bs-testimonial-typed-row.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-typed-row/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1814,6 +2196,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-rated-row.webp",
   "video": "/previews/bs-testimonial-rated-row.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-rated-row/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1830,6 +2215,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-ticker.webp",
   "video": "/previews/bs-testimonial-ticker.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-ticker/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1846,6 +2234,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-social-feed.webp",
   "video": "/previews/bs-testimonial-social-feed.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-social-feed/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1862,6 +2253,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-data-visualization-spectrum-monitor.webp",
   "video": "/previews/bs-data-visualization-spectrum-monitor.mp4",
+  "gallery": [
+   "/gallery/bs-data-visualization-spectrum-monitor/preview-1.webp",
+   "/gallery/bs-data-visualization-spectrum-monitor/preview-2.webp",
+   "/gallery/bs-data-visualization-spectrum-monitor/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1878,6 +2274,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-annotated-wash-diagram.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-annotated-wash-diagram/preview-1.webp",
+   "/gallery/bs-annotated-wash-diagram/preview-2.webp",
+   "/gallery/bs-annotated-wash-diagram/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1894,6 +2295,12 @@
   "bookmarks": 2,
   "preview": "/covers/bs-learning-loop-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-learning-loop-deck/preview-1.webp",
+   "/gallery/bs-learning-loop-deck/preview-2.webp",
+   "/gallery/bs-learning-loop-deck/preview-3.webp",
+   "/gallery/bs-learning-loop-deck/preview-4.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#d1b198",
   "tools": [
@@ -1930,6 +2337,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-orbit-admin-dashboard.webp",
   "video": "/previews/bs-orbit-admin-dashboard.mp4",
+  "gallery": [
+   "/gallery/bs-orbit-admin-dashboard/preview-1.webp",
+   "/gallery/bs-orbit-admin-dashboard/preview-2.webp",
+   "/gallery/bs-orbit-admin-dashboard/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1946,6 +2358,11 @@
   "bookmarks": 15,
   "preview": "/covers/bs-claude-style-illustration.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-claude-style-illustration/preview-1.webp",
+   "/gallery/bs-claude-style-illustration/preview-2.webp",
+   "/gallery/bs-claude-style-illustration/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1962,6 +2379,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-openai-style-poster.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-openai-style-poster/preview-1.webp",
+   "/gallery/bs-openai-style-poster/preview-2.webp",
+   "/gallery/bs-openai-style-poster/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1978,6 +2400,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-testimonial-tilted-card.webp",
   "video": "/previews/bs-testimonial-tilted-card.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-tilted-card/preview-1.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -1994,6 +2419,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-inkwell-portfolio.webp",
   "video": "/previews/bs-inkwell-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-inkwell-portfolio/preview-1.webp",
+   "/gallery/bs-inkwell-portfolio/preview-2.webp",
+   "/gallery/bs-inkwell-portfolio/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2010,6 +2440,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-fluxon-automation-landing.webp",
   "video": "/previews/bs-fluxon-automation-landing.mp4",
+  "gallery": [
+   "/gallery/bs-fluxon-automation-landing/preview-1.webp",
+   "/gallery/bs-fluxon-automation-landing/preview-2.webp",
+   "/gallery/bs-fluxon-automation-landing/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2026,6 +2461,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-indigo-ledger-landing.webp",
   "video": "/previews/bs-indigo-ledger-landing.mp4",
+  "gallery": [
+   "/gallery/bs-indigo-ledger-landing/preview-1.webp",
+   "/gallery/bs-indigo-ledger-landing/preview-2.webp",
+   "/gallery/bs-indigo-ledger-landing/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2042,6 +2482,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-hairline-grid-portfolio.webp",
   "video": "/previews/bs-hairline-grid-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-hairline-grid-portfolio/preview-1.webp",
+   "/gallery/bs-hairline-grid-portfolio/preview-2.webp",
+   "/gallery/bs-hairline-grid-portfolio/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2058,6 +2503,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-finora-banking-landing.webp",
   "video": "/previews/bs-finora-banking-landing.mp4",
+  "gallery": [
+   "/gallery/bs-finora-banking-landing/preview-1.webp",
+   "/gallery/bs-finora-banking-landing/preview-2.webp",
+   "/gallery/bs-finora-banking-landing/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#d1b198",
   "tools": [
@@ -2090,6 +2540,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-editorial-ink-landing.webp",
   "video": "/previews/bs-editorial-ink-landing.mp4",
+  "gallery": [
+   "/gallery/bs-editorial-ink-landing/preview-1.webp",
+   "/gallery/bs-editorial-ink-landing/preview-2.webp",
+   "/gallery/bs-editorial-ink-landing/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2106,6 +2561,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-editorial-dev-portfolio.webp",
   "video": "/previews/bs-editorial-dev-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-editorial-dev-portfolio/preview-1.webp",
+   "/gallery/bs-editorial-dev-portfolio/preview-2.webp",
+   "/gallery/bs-editorial-dev-portfolio/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2122,6 +2582,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-contexa-cms-landing.webp",
   "video": "/previews/bs-contexa-cms-landing.mp4",
+  "gallery": [
+   "/gallery/bs-contexa-cms-landing/preview-1.webp",
+   "/gallery/bs-contexa-cms-landing/preview-2.webp",
+   "/gallery/bs-contexa-cms-landing/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2138,6 +2603,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-wonky-cute-doodles.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-wonky-cute-doodles/preview-1.webp",
+   "/gallery/bs-wonky-cute-doodles/preview-2.webp",
+   "/gallery/bs-wonky-cute-doodles/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2154,6 +2624,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-vaultic-fintech-landing.webp",
   "video": "/previews/bs-vaultic-fintech-landing.mp4",
+  "gallery": [
+   "/gallery/bs-vaultic-fintech-landing/preview-1.webp",
+   "/gallery/bs-vaultic-fintech-landing/preview-2.webp",
+   "/gallery/bs-vaultic-fintech-landing/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2170,6 +2645,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-tracklane-devtool-landing.webp",
   "video": "/previews/bs-tracklane-devtool-landing.mp4",
+  "gallery": [
+   "/gallery/bs-tracklane-devtool-landing/preview-1.webp",
+   "/gallery/bs-tracklane-devtool-landing/preview-2.webp",
+   "/gallery/bs-tracklane-devtool-landing/preview-3.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2186,6 +2666,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-editorial-studio-saas.webp",
   "video": "/previews/bs-editorial-studio-saas.mp4",
+  "gallery": [
+   "/gallery/bs-editorial-studio-saas/preview-1.webp",
+   "/gallery/bs-editorial-studio-saas/preview-2.webp",
+   "/gallery/bs-editorial-studio-saas/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#d1b198",
   "tools": [
@@ -2218,6 +2703,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-taskmuse-ai-landing.webp",
   "video": "/previews/bs-taskmuse-ai-landing.mp4",
+  "gallery": [
+   "/gallery/bs-taskmuse-ai-landing/preview-1.webp",
+   "/gallery/bs-taskmuse-ai-landing/preview-2.webp",
+   "/gallery/bs-taskmuse-ai-landing/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2234,6 +2724,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-stillline-insight-card.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-stillline-insight-card/preview-1.webp",
+   "/gallery/bs-stillline-insight-card/preview-2.webp",
+   "/gallery/bs-stillline-insight-card/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2250,6 +2745,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-split-frame-portfolio.webp",
   "video": "/previews/bs-split-frame-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-split-frame-portfolio/preview-1.webp",
+   "/gallery/bs-split-frame-portfolio/preview-2.webp",
+   "/gallery/bs-split-frame-portfolio/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#7f8b65",
   "tools": [
@@ -2282,6 +2782,11 @@
   "bookmarks": 10,
   "preview": "/covers/bs-slate-admin-console.webp",
   "video": "/previews/bs-slate-admin-console.mp4",
+  "gallery": [
+   "/gallery/bs-slate-admin-console/preview-1.webp",
+   "/gallery/bs-slate-admin-console/preview-2.webp",
+   "/gallery/bs-slate-admin-console/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#d1b198",
   "tools": [
@@ -2314,6 +2819,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-quartz-saas-landing.webp",
   "video": "/previews/bs-quartz-saas-landing.mp4",
+  "gallery": [
+   "/gallery/bs-quartz-saas-landing/preview-1.webp",
+   "/gallery/bs-quartz-saas-landing/preview-2.webp",
+   "/gallery/bs-quartz-saas-landing/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2330,6 +2840,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-sketchnote-pricing.webp",
   "video": "/previews/bs-sketchnote-pricing.mp4",
+  "gallery": [
+   "/gallery/bs-sketchnote-pricing/preview-1.webp",
+   "/gallery/bs-sketchnote-pricing/preview-2.webp",
+   "/gallery/bs-sketchnote-pricing/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2346,6 +2861,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-skyline-developer-journal.webp",
   "video": "/previews/bs-skyline-developer-journal.mp4",
+  "gallery": [
+   "/gallery/bs-skyline-developer-journal/preview-1.webp",
+   "/gallery/bs-skyline-developer-journal/preview-2.webp",
+   "/gallery/bs-skyline-developer-journal/preview-3.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2362,6 +2882,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-orbit-startup-landing.webp",
   "video": "/previews/bs-orbit-startup-landing.mp4",
+  "gallery": [
+   "/gallery/bs-orbit-startup-landing/preview-1.webp",
+   "/gallery/bs-orbit-startup-landing/preview-2.webp",
+   "/gallery/bs-orbit-startup-landing/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#cbcadb",
   "tools": [
@@ -2394,6 +2919,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-paperline-content-illustrator.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-paperline-content-illustrator/preview-1.webp",
+   "/gallery/bs-paperline-content-illustrator/preview-2.webp",
+   "/gallery/bs-paperline-content-illustrator/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#cbcadb",
   "tools": [
@@ -2432,6 +2962,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-obsidian-cinema-landing.webp",
   "video": "/previews/bs-obsidian-cinema-landing.mp4",
+  "gallery": [
+   "/gallery/bs-obsidian-cinema-landing/preview-1.webp",
+   "/gallery/bs-obsidian-cinema-landing/preview-2.webp",
+   "/gallery/bs-obsidian-cinema-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2448,6 +2983,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-molten-glass-landing.webp",
   "video": "/previews/bs-molten-glass-landing.mp4",
+  "gallery": [
+   "/gallery/bs-molten-glass-landing/preview-1.webp",
+   "/gallery/bs-molten-glass-landing/preview-2.webp",
+   "/gallery/bs-molten-glass-landing/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2464,6 +3004,11 @@
   "bookmarks": 8,
   "preview": "/covers/bs-monochrome-studio-portrait.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-monochrome-studio-portrait/preview-1.webp",
+   "/gallery/bs-monochrome-studio-portrait/preview-2.webp",
+   "/gallery/bs-monochrome-studio-portrait/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#629987",
   "tools": [
@@ -2500,6 +3045,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-meridian-marketing-landing.webp",
   "video": "/previews/bs-meridian-marketing-landing.mp4",
+  "gallery": [
+   "/gallery/bs-meridian-marketing-landing/preview-1.webp",
+   "/gallery/bs-meridian-marketing-landing/preview-2.webp",
+   "/gallery/bs-meridian-marketing-landing/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2516,6 +3066,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-lumen-agency-landing.webp",
   "video": "/previews/bs-lumen-agency-landing.mp4",
+  "gallery": [
+   "/gallery/bs-lumen-agency-landing/preview-1.webp",
+   "/gallery/bs-lumen-agency-landing/preview-2.webp",
+   "/gallery/bs-lumen-agency-landing/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2532,6 +3087,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-liquid-glass-landing.webp",
   "video": "/previews/bs-liquid-glass-landing.mp4",
+  "gallery": [
+   "/gallery/bs-liquid-glass-landing/preview-1.webp",
+   "/gallery/bs-liquid-glass-landing/preview-2.webp",
+   "/gallery/bs-liquid-glass-landing/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#6a9bcc",
   "tools": [
@@ -2564,6 +3124,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-magnetic-lattice-hero.webp",
   "video": "/previews/bs-magnetic-lattice-hero.mp4",
+  "gallery": [
+   "/gallery/bs-magnetic-lattice-hero/preview-1.webp",
+   "/gallery/bs-magnetic-lattice-hero/preview-2.webp",
+   "/gallery/bs-magnetic-lattice-hero/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2580,6 +3145,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-harbor-saas-suite.webp",
   "video": "/previews/bs-harbor-saas-suite.mp4",
+  "gallery": [
+   "/gallery/bs-harbor-saas-suite/preview-1.webp",
+   "/gallery/bs-harbor-saas-suite/preview-2.webp",
+   "/gallery/bs-harbor-saas-suite/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2596,6 +3166,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-opsdeck-admin-kit.webp",
   "video": "/previews/bs-opsdeck-admin-kit.mp4",
+  "gallery": [
+   "/gallery/bs-opsdeck-admin-kit/preview-1.webp",
+   "/gallery/bs-opsdeck-admin-kit/preview-2.webp",
+   "/gallery/bs-opsdeck-admin-kit/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2612,6 +3187,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-loopwise-saas-landing.webp",
   "video": "/previews/bs-loopwise-saas-landing.mp4",
+  "gallery": [
+   "/gallery/bs-loopwise-saas-landing/preview-1.webp",
+   "/gallery/bs-loopwise-saas-landing/preview-2.webp",
+   "/gallery/bs-loopwise-saas-landing/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2628,6 +3208,11 @@
   "bookmarks": 10,
   "preview": "/covers/bs-hand-drawn-visual-notes.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-hand-drawn-visual-notes/preview-1.webp",
+   "/gallery/bs-hand-drawn-visual-notes/preview-2.webp",
+   "/gallery/bs-hand-drawn-visual-notes/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#d1b198",
   "tools": [
@@ -2663,6 +3248,11 @@
   "bookmarks": 10,
   "preview": "/covers/bs-chalkboard-infographic.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-chalkboard-infographic/preview-1.webp",
+   "/gallery/bs-chalkboard-infographic/preview-2.webp",
+   "/gallery/bs-chalkboard-infographic/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2679,6 +3269,11 @@
   "bookmarks": 12,
   "preview": "/covers/bs-cadence-marketing-landing.webp",
   "video": "/previews/bs-cadence-marketing-landing.mp4",
+  "gallery": [
+   "/gallery/bs-cadence-marketing-landing/preview-1.webp",
+   "/gallery/bs-cadence-marketing-landing/preview-2.webp",
+   "/gallery/bs-cadence-marketing-landing/preview-3.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#b36d85",
   "tools": [
@@ -2714,6 +3309,11 @@
   "bookmarks": 5,
   "preview": "/covers/bs-beacon-saas-landing.webp",
   "video": "/previews/bs-beacon-saas-landing.mp4",
+  "gallery": [
+   "/gallery/bs-beacon-saas-landing/preview-1.webp",
+   "/gallery/bs-beacon-saas-landing/preview-2.webp",
+   "/gallery/bs-beacon-saas-landing/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2730,6 +3330,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-coinhaven-crypto-landing.webp",
   "video": "/previews/bs-coinhaven-crypto-landing.mp4",
+  "gallery": [
+   "/gallery/bs-coinhaven-crypto-landing/preview-1.webp",
+   "/gallery/bs-coinhaven-crypto-landing/preview-2.webp",
+   "/gallery/bs-coinhaven-crypto-landing/preview-3.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2746,6 +3351,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-amber-scrapbook-suite.webp",
   "video": "/previews/bs-amber-scrapbook-suite.mp4",
+  "gallery": [
+   "/gallery/bs-amber-scrapbook-suite/preview-1.webp",
+   "/gallery/bs-amber-scrapbook-suite/preview-2.webp",
+   "/gallery/bs-amber-scrapbook-suite/preview-3.webp"
+  ],
   "version": "1.0.9",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2762,6 +3372,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-bluewave-podcast-site.webp",
   "video": "/previews/bs-bluewave-podcast-site.mp4",
+  "gallery": [
+   "/gallery/bs-bluewave-podcast-site/preview-1.webp",
+   "/gallery/bs-bluewave-podcast-site/preview-2.webp",
+   "/gallery/bs-bluewave-podcast-site/preview-3.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2778,6 +3393,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-aurawave-audio-landing.webp",
   "video": "/previews/bs-aurawave-audio-landing.mp4",
+  "gallery": [
+   "/gallery/bs-aurawave-audio-landing/preview-1.webp",
+   "/gallery/bs-aurawave-audio-landing/preview-2.webp",
+   "/gallery/bs-aurawave-audio-landing/preview-3.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2794,6 +3414,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-confetti-marketing-landing.webp",
   "video": "/previews/bs-confetti-marketing-landing.mp4",
+  "gallery": [
+   "/gallery/bs-confetti-marketing-landing/preview-1.webp",
+   "/gallery/bs-confetti-marketing-landing/preview-2.webp",
+   "/gallery/bs-confetti-marketing-landing/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2810,6 +3435,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-allegorical-engraving-cover.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-allegorical-engraving-cover/preview-1.webp",
+   "/gallery/bs-allegorical-engraving-cover/preview-2.webp",
+   "/gallery/bs-allegorical-engraving-cover/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2826,6 +3456,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-basalt-dev-portfolio.webp",
   "video": "/previews/bs-basalt-dev-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-basalt-dev-portfolio/preview-1.webp",
+   "/gallery/bs-basalt-dev-portfolio/preview-2.webp",
+   "/gallery/bs-basalt-dev-portfolio/preview-3.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#d97757",
   "tools": [
@@ -2858,6 +3493,17 @@
   "bookmarks": 1,
   "preview": "/covers/bs-red-black-zine-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-red-black-zine-deck/preview-1.webp",
+   "/gallery/bs-red-black-zine-deck/preview-2.webp",
+   "/gallery/bs-red-black-zine-deck/preview-3.webp",
+   "/gallery/bs-red-black-zine-deck/preview-4.webp",
+   "/gallery/bs-red-black-zine-deck/preview-5.webp",
+   "/gallery/bs-red-black-zine-deck/preview-6.webp",
+   "/gallery/bs-red-black-zine-deck/preview-7.webp",
+   "/gallery/bs-red-black-zine-deck/preview-8.webp",
+   "/gallery/bs-red-black-zine-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2874,6 +3520,18 @@
   "bookmarks": 2,
   "preview": "/covers/bs-soft-gradient-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-soft-gradient-deck/preview-1.webp",
+   "/gallery/bs-soft-gradient-deck/preview-10.webp",
+   "/gallery/bs-soft-gradient-deck/preview-2.webp",
+   "/gallery/bs-soft-gradient-deck/preview-3.webp",
+   "/gallery/bs-soft-gradient-deck/preview-4.webp",
+   "/gallery/bs-soft-gradient-deck/preview-5.webp",
+   "/gallery/bs-soft-gradient-deck/preview-6.webp",
+   "/gallery/bs-soft-gradient-deck/preview-7.webp",
+   "/gallery/bs-soft-gradient-deck/preview-8.webp",
+   "/gallery/bs-soft-gradient-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2890,6 +3548,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-tessellated-editorial-still-life.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-tessellated-editorial-still-life/preview-1.webp",
+   "/gallery/bs-tessellated-editorial-still-life/preview-2.webp",
+   "/gallery/bs-tessellated-editorial-still-life/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2906,6 +3569,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-airbnb-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-airbnb-style-og/preview-1.webp",
+   "/gallery/bs-airbnb-style-og/preview-2.webp",
+   "/gallery/bs-airbnb-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2922,6 +3590,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-nike-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-nike-style-og/preview-1.webp",
+   "/gallery/bs-nike-style-og/preview-2.webp",
+   "/gallery/bs-nike-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -2938,6 +3611,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-shopify-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-shopify-style-og/preview-1.webp",
+   "/gallery/bs-shopify-style-og/preview-2.webp",
+   "/gallery/bs-shopify-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#7497b5",
   "tools": [
@@ -2974,6 +3652,11 @@
   "bookmarks": 5,
   "preview": "/covers/bs-apple-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-apple-style-og/preview-1.webp",
+   "/gallery/bs-apple-style-og/preview-2.webp",
+   "/gallery/bs-apple-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#7f8b65",
   "tools": [
@@ -3010,6 +3693,19 @@
   "bookmarks": 1,
   "preview": "/covers/bs-starlit-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-starlit-deck/preview-1.webp",
+   "/gallery/bs-starlit-deck/preview-10.webp",
+   "/gallery/bs-starlit-deck/preview-11.webp",
+   "/gallery/bs-starlit-deck/preview-2.webp",
+   "/gallery/bs-starlit-deck/preview-3.webp",
+   "/gallery/bs-starlit-deck/preview-4.webp",
+   "/gallery/bs-starlit-deck/preview-5.webp",
+   "/gallery/bs-starlit-deck/preview-6.webp",
+   "/gallery/bs-starlit-deck/preview-7.webp",
+   "/gallery/bs-starlit-deck/preview-8.webp",
+   "/gallery/bs-starlit-deck/preview-9.webp"
+  ],
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3026,6 +3722,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-discord-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-discord-style-og/preview-1.webp",
+   "/gallery/bs-discord-style-og/preview-2.webp",
+   "/gallery/bs-discord-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3042,6 +3743,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-slack-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-slack-style-og/preview-1.webp",
+   "/gallery/bs-slack-style-og/preview-2.webp",
+   "/gallery/bs-slack-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3058,6 +3764,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-stripe-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-stripe-style-og/preview-1.webp",
+   "/gallery/bs-stripe-style-og/preview-2.webp",
+   "/gallery/bs-stripe-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#b36d85",
   "tools": [
@@ -3094,6 +3805,11 @@
   "bookmarks": 5,
   "preview": "/covers/bs-notion-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-notion-style-og/preview-1.webp",
+   "/gallery/bs-notion-style-og/preview-2.webp",
+   "/gallery/bs-notion-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3110,6 +3826,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-github-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-github-style-og/preview-1.webp",
+   "/gallery/bs-github-style-og/preview-2.webp",
+   "/gallery/bs-github-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3126,6 +3847,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-openai-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-openai-style-og/preview-1.webp",
+   "/gallery/bs-openai-style-og/preview-2.webp",
+   "/gallery/bs-openai-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#c0d1c9",
   "tools": [
@@ -3162,6 +3888,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-meta-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-meta-style-og/preview-1.webp",
+   "/gallery/bs-meta-style-og/preview-2.webp",
+   "/gallery/bs-meta-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3178,6 +3909,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-square-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-square-style-og/preview-1.webp",
+   "/gallery/bs-square-style-og/preview-2.webp",
+   "/gallery/bs-square-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#7497b5",
   "tools": [
@@ -3214,6 +3950,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-webflow-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-webflow-style-og/preview-1.webp",
+   "/gallery/bs-webflow-style-og/preview-2.webp",
+   "/gallery/bs-webflow-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3230,6 +3971,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-cash-app-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cash-app-style-og/preview-1.webp",
+   "/gallery/bs-cash-app-style-og/preview-2.webp",
+   "/gallery/bs-cash-app-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3246,6 +3992,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-spotify-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-spotify-style-og/preview-1.webp",
+   "/gallery/bs-spotify-style-og/preview-2.webp",
+   "/gallery/bs-spotify-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3262,6 +4013,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-figma-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-figma-style-og/preview-1.webp",
+   "/gallery/bs-figma-style-og/preview-2.webp",
+   "/gallery/bs-figma-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#cbcadb",
   "tools": [
@@ -3300,6 +4056,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-vercel-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-vercel-style-og/preview-1.webp",
+   "/gallery/bs-vercel-style-og/preview-2.webp",
+   "/gallery/bs-vercel-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3316,6 +4077,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-todoist-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-todoist-style-og/preview-1.webp",
+   "/gallery/bs-todoist-style-og/preview-2.webp",
+   "/gallery/bs-todoist-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3332,6 +4098,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-asana-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-asana-style-og/preview-1.webp",
+   "/gallery/bs-asana-style-og/preview-2.webp",
+   "/gallery/bs-asana-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3348,6 +4119,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-upwork-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-upwork-style-og/preview-1.webp",
+   "/gallery/bs-upwork-style-og/preview-2.webp",
+   "/gallery/bs-upwork-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3364,6 +4140,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-wise-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-wise-style-og/preview-1.webp",
+   "/gallery/bs-wise-style-og/preview-2.webp",
+   "/gallery/bs-wise-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#d1b198",
   "tools": [
@@ -3400,6 +4181,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-revolut-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-revolut-style-og/preview-1.webp",
+   "/gallery/bs-revolut-style-og/preview-2.webp",
+   "/gallery/bs-revolut-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3416,6 +4202,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-klarna-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-klarna-style-og/preview-1.webp",
+   "/gallery/bs-klarna-style-og/preview-2.webp",
+   "/gallery/bs-klarna-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3432,6 +4223,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-solana-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-solana-style-og/preview-1.webp",
+   "/gallery/bs-solana-style-og/preview-2.webp",
+   "/gallery/bs-solana-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3448,6 +4244,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-auth0-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-auth0-style-og/preview-1.webp",
+   "/gallery/bs-auth0-style-og/preview-2.webp",
+   "/gallery/bs-auth0-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3464,6 +4265,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-calendly-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-calendly-style-og/preview-1.webp",
+   "/gallery/bs-calendly-style-og/preview-2.webp",
+   "/gallery/bs-calendly-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3480,6 +4286,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-headspace-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-headspace-style-og/preview-1.webp",
+   "/gallery/bs-headspace-style-og/preview-2.webp",
+   "/gallery/bs-headspace-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3496,6 +4307,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-mailchimp-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-mailchimp-style-og/preview-1.webp",
+   "/gallery/bs-mailchimp-style-og/preview-2.webp",
+   "/gallery/bs-mailchimp-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3512,6 +4328,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-loom-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-loom-style-og/preview-1.webp",
+   "/gallery/bs-loom-style-og/preview-2.webp",
+   "/gallery/bs-loom-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3528,6 +4349,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-intercom-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-intercom-style-og/preview-1.webp",
+   "/gallery/bs-intercom-style-og/preview-2.webp",
+   "/gallery/bs-intercom-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3544,6 +4370,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-linktree-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-linktree-style-og/preview-1.webp",
+   "/gallery/bs-linktree-style-og/preview-2.webp",
+   "/gallery/bs-linktree-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3560,6 +4391,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-brex-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-brex-style-og/preview-1.webp",
+   "/gallery/bs-brex-style-og/preview-2.webp",
+   "/gallery/bs-brex-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3576,6 +4412,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-mixpanel-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-mixpanel-style-og/preview-1.webp",
+   "/gallery/bs-mixpanel-style-og/preview-2.webp",
+   "/gallery/bs-mixpanel-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3592,6 +4433,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-plaid-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-plaid-style-og/preview-1.webp",
+   "/gallery/bs-plaid-style-og/preview-2.webp",
+   "/gallery/bs-plaid-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3608,6 +4454,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-mapbox-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-mapbox-style-og/preview-1.webp",
+   "/gallery/bs-mapbox-style-og/preview-2.webp",
+   "/gallery/bs-mapbox-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3624,6 +4475,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-algolia-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-algolia-style-og/preview-1.webp",
+   "/gallery/bs-algolia-style-og/preview-2.webp",
+   "/gallery/bs-algolia-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3640,6 +4496,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-ramp-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-ramp-style-og/preview-1.webp",
+   "/gallery/bs-ramp-style-og/preview-2.webp",
+   "/gallery/bs-ramp-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3656,6 +4517,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-retool-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-retool-style-og/preview-1.webp",
+   "/gallery/bs-retool-style-og/preview-2.webp",
+   "/gallery/bs-retool-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3672,6 +4538,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-raycast-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-raycast-style-og/preview-1.webp",
+   "/gallery/bs-raycast-style-og/preview-2.webp",
+   "/gallery/bs-raycast-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3688,6 +4559,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-runway-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-runway-style-og/preview-1.webp",
+   "/gallery/bs-runway-style-og/preview-2.webp",
+   "/gallery/bs-runway-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3704,6 +4580,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-teenage-engineering-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-teenage-engineering-style-og/preview-1.webp",
+   "/gallery/bs-teenage-engineering-style-og/preview-2.webp",
+   "/gallery/bs-teenage-engineering-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3720,6 +4601,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-linear-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-linear-style-og/preview-1.webp",
+   "/gallery/bs-linear-style-og/preview-2.webp",
+   "/gallery/bs-linear-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3736,6 +4622,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-material-design-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-material-design-style-og/preview-1.webp",
+   "/gallery/bs-material-design-style-og/preview-2.webp",
+   "/gallery/bs-material-design-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#7f8b65",
   "tools": [
@@ -3772,6 +4663,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-a24-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-a24-style-og/preview-1.webp",
+   "/gallery/bs-a24-style-og/preview-2.webp",
+   "/gallery/bs-a24-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3788,6 +4684,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-supabase-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-supabase-style-og/preview-1.webp",
+   "/gallery/bs-supabase-style-og/preview-2.webp",
+   "/gallery/bs-supabase-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3804,6 +4705,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-goodnotes-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-goodnotes-style-og/preview-1.webp",
+   "/gallery/bs-goodnotes-style-og/preview-2.webp",
+   "/gallery/bs-goodnotes-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#d1b198",
   "tools": [
@@ -3843,6 +4749,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-procreate-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-procreate-style-og/preview-1.webp",
+   "/gallery/bs-procreate-style-og/preview-2.webp",
+   "/gallery/bs-procreate-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#d97757",
   "tools": [
@@ -3880,6 +4791,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-ochre-editorial-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-ochre-editorial-deck/preview-1.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-10.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-11.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-12.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-13.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-2.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-3.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-4.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-5.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-6.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-7.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-8.webp",
+   "/gallery/bs-ochre-editorial-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3896,6 +4822,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-primary-doodle-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-primary-doodle-deck/preview-1.webp",
+   "/gallery/bs-primary-doodle-deck/preview-10.webp",
+   "/gallery/bs-primary-doodle-deck/preview-11.webp",
+   "/gallery/bs-primary-doodle-deck/preview-12.webp",
+   "/gallery/bs-primary-doodle-deck/preview-13.webp",
+   "/gallery/bs-primary-doodle-deck/preview-2.webp",
+   "/gallery/bs-primary-doodle-deck/preview-3.webp",
+   "/gallery/bs-primary-doodle-deck/preview-4.webp",
+   "/gallery/bs-primary-doodle-deck/preview-5.webp",
+   "/gallery/bs-primary-doodle-deck/preview-6.webp",
+   "/gallery/bs-primary-doodle-deck/preview-7.webp",
+   "/gallery/bs-primary-doodle-deck/preview-8.webp",
+   "/gallery/bs-primary-doodle-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3912,6 +4853,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-electric-studio-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-electric-studio-deck/preview-1.webp",
+   "/gallery/bs-electric-studio-deck/preview-10.webp",
+   "/gallery/bs-electric-studio-deck/preview-11.webp",
+   "/gallery/bs-electric-studio-deck/preview-12.webp",
+   "/gallery/bs-electric-studio-deck/preview-13.webp",
+   "/gallery/bs-electric-studio-deck/preview-2.webp",
+   "/gallery/bs-electric-studio-deck/preview-3.webp",
+   "/gallery/bs-electric-studio-deck/preview-4.webp",
+   "/gallery/bs-electric-studio-deck/preview-5.webp",
+   "/gallery/bs-electric-studio-deck/preview-6.webp",
+   "/gallery/bs-electric-studio-deck/preview-7.webp",
+   "/gallery/bs-electric-studio-deck/preview-8.webp",
+   "/gallery/bs-electric-studio-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3928,6 +4884,21 @@
   "bookmarks": 8,
   "preview": "/covers/bs-sky-glass-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-sky-glass-deck/preview-1.webp",
+   "/gallery/bs-sky-glass-deck/preview-10.webp",
+   "/gallery/bs-sky-glass-deck/preview-11.webp",
+   "/gallery/bs-sky-glass-deck/preview-12.webp",
+   "/gallery/bs-sky-glass-deck/preview-13.webp",
+   "/gallery/bs-sky-glass-deck/preview-2.webp",
+   "/gallery/bs-sky-glass-deck/preview-3.webp",
+   "/gallery/bs-sky-glass-deck/preview-4.webp",
+   "/gallery/bs-sky-glass-deck/preview-5.webp",
+   "/gallery/bs-sky-glass-deck/preview-6.webp",
+   "/gallery/bs-sky-glass-deck/preview-7.webp",
+   "/gallery/bs-sky-glass-deck/preview-8.webp",
+   "/gallery/bs-sky-glass-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#7f8b65",
   "tools": [
@@ -3962,6 +4933,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-citrus-loop-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-citrus-loop-deck/preview-1.webp",
+   "/gallery/bs-citrus-loop-deck/preview-10.webp",
+   "/gallery/bs-citrus-loop-deck/preview-11.webp",
+   "/gallery/bs-citrus-loop-deck/preview-12.webp",
+   "/gallery/bs-citrus-loop-deck/preview-13.webp",
+   "/gallery/bs-citrus-loop-deck/preview-2.webp",
+   "/gallery/bs-citrus-loop-deck/preview-3.webp",
+   "/gallery/bs-citrus-loop-deck/preview-4.webp",
+   "/gallery/bs-citrus-loop-deck/preview-5.webp",
+   "/gallery/bs-citrus-loop-deck/preview-6.webp",
+   "/gallery/bs-citrus-loop-deck/preview-7.webp",
+   "/gallery/bs-citrus-loop-deck/preview-8.webp",
+   "/gallery/bs-citrus-loop-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3978,6 +4964,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-sorbet-window-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-sorbet-window-deck/preview-1.webp",
+   "/gallery/bs-sorbet-window-deck/preview-10.webp",
+   "/gallery/bs-sorbet-window-deck/preview-11.webp",
+   "/gallery/bs-sorbet-window-deck/preview-12.webp",
+   "/gallery/bs-sorbet-window-deck/preview-13.webp",
+   "/gallery/bs-sorbet-window-deck/preview-2.webp",
+   "/gallery/bs-sorbet-window-deck/preview-3.webp",
+   "/gallery/bs-sorbet-window-deck/preview-4.webp",
+   "/gallery/bs-sorbet-window-deck/preview-5.webp",
+   "/gallery/bs-sorbet-window-deck/preview-6.webp",
+   "/gallery/bs-sorbet-window-deck/preview-7.webp",
+   "/gallery/bs-sorbet-window-deck/preview-8.webp",
+   "/gallery/bs-sorbet-window-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -3994,6 +4995,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-golden-market-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-golden-market-deck/preview-1.webp",
+   "/gallery/bs-golden-market-deck/preview-10.webp",
+   "/gallery/bs-golden-market-deck/preview-11.webp",
+   "/gallery/bs-golden-market-deck/preview-12.webp",
+   "/gallery/bs-golden-market-deck/preview-13.webp",
+   "/gallery/bs-golden-market-deck/preview-2.webp",
+   "/gallery/bs-golden-market-deck/preview-3.webp",
+   "/gallery/bs-golden-market-deck/preview-4.webp",
+   "/gallery/bs-golden-market-deck/preview-5.webp",
+   "/gallery/bs-golden-market-deck/preview-6.webp",
+   "/gallery/bs-golden-market-deck/preview-7.webp",
+   "/gallery/bs-golden-market-deck/preview-8.webp",
+   "/gallery/bs-golden-market-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4010,6 +5026,21 @@
   "bookmarks": 2,
   "preview": "/covers/bs-gallery-catalogue-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-gallery-catalogue-deck/preview-1.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-10.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-11.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-12.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-13.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-2.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-3.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-4.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-5.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-6.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-7.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-8.webp",
+   "/gallery/bs-gallery-catalogue-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4026,6 +5057,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-sunlit-structure-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-sunlit-structure-deck/preview-1.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-10.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-11.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-12.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-13.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-2.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-3.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-4.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-5.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-6.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-7.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-8.webp",
+   "/gallery/bs-sunlit-structure-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4042,6 +5088,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-pop-motion-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-pop-motion-deck/preview-1.webp",
+   "/gallery/bs-pop-motion-deck/preview-10.webp",
+   "/gallery/bs-pop-motion-deck/preview-11.webp",
+   "/gallery/bs-pop-motion-deck/preview-12.webp",
+   "/gallery/bs-pop-motion-deck/preview-13.webp",
+   "/gallery/bs-pop-motion-deck/preview-2.webp",
+   "/gallery/bs-pop-motion-deck/preview-3.webp",
+   "/gallery/bs-pop-motion-deck/preview-4.webp",
+   "/gallery/bs-pop-motion-deck/preview-5.webp",
+   "/gallery/bs-pop-motion-deck/preview-6.webp",
+   "/gallery/bs-pop-motion-deck/preview-7.webp",
+   "/gallery/bs-pop-motion-deck/preview-8.webp",
+   "/gallery/bs-pop-motion-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4058,6 +5119,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-confetti-gathering-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-confetti-gathering-deck/preview-1.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-10.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-11.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-12.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-13.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-2.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-3.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-4.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-5.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-6.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-7.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-8.webp",
+   "/gallery/bs-confetti-gathering-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4074,6 +5150,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-chromatic-futures-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-chromatic-futures-deck/preview-1.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-10.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-11.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-12.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-13.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-2.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-3.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-4.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-5.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-6.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-7.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-8.webp",
+   "/gallery/bs-chromatic-futures-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4090,6 +5181,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-yellow-balance-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-yellow-balance-deck/preview-1.webp",
+   "/gallery/bs-yellow-balance-deck/preview-10.webp",
+   "/gallery/bs-yellow-balance-deck/preview-11.webp",
+   "/gallery/bs-yellow-balance-deck/preview-12.webp",
+   "/gallery/bs-yellow-balance-deck/preview-13.webp",
+   "/gallery/bs-yellow-balance-deck/preview-2.webp",
+   "/gallery/bs-yellow-balance-deck/preview-3.webp",
+   "/gallery/bs-yellow-balance-deck/preview-4.webp",
+   "/gallery/bs-yellow-balance-deck/preview-5.webp",
+   "/gallery/bs-yellow-balance-deck/preview-6.webp",
+   "/gallery/bs-yellow-balance-deck/preview-7.webp",
+   "/gallery/bs-yellow-balance-deck/preview-8.webp",
+   "/gallery/bs-yellow-balance-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4106,6 +5212,21 @@
   "bookmarks": 2,
   "preview": "/covers/bs-prismatic-fashion-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-prismatic-fashion-deck/preview-1.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-10.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-11.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-12.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-13.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-2.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-3.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-4.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-5.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-6.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-7.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-8.webp",
+   "/gallery/bs-prismatic-fashion-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4122,6 +5243,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-orbital-workshop-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-orbital-workshop-deck/preview-1.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-10.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-11.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-12.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-13.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-2.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-3.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-4.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-5.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-6.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-7.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-8.webp",
+   "/gallery/bs-orbital-workshop-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4138,6 +5274,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-brush-paper-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-brush-paper-deck/preview-1.webp",
+   "/gallery/bs-brush-paper-deck/preview-10.webp",
+   "/gallery/bs-brush-paper-deck/preview-11.webp",
+   "/gallery/bs-brush-paper-deck/preview-12.webp",
+   "/gallery/bs-brush-paper-deck/preview-13.webp",
+   "/gallery/bs-brush-paper-deck/preview-2.webp",
+   "/gallery/bs-brush-paper-deck/preview-3.webp",
+   "/gallery/bs-brush-paper-deck/preview-4.webp",
+   "/gallery/bs-brush-paper-deck/preview-5.webp",
+   "/gallery/bs-brush-paper-deck/preview-6.webp",
+   "/gallery/bs-brush-paper-deck/preview-7.webp",
+   "/gallery/bs-brush-paper-deck/preview-8.webp",
+   "/gallery/bs-brush-paper-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4154,6 +5305,21 @@
   "bookmarks": 3,
   "preview": "/covers/bs-cobalt-system-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cobalt-system-deck/preview-1.webp",
+   "/gallery/bs-cobalt-system-deck/preview-10.webp",
+   "/gallery/bs-cobalt-system-deck/preview-11.webp",
+   "/gallery/bs-cobalt-system-deck/preview-12.webp",
+   "/gallery/bs-cobalt-system-deck/preview-13.webp",
+   "/gallery/bs-cobalt-system-deck/preview-2.webp",
+   "/gallery/bs-cobalt-system-deck/preview-3.webp",
+   "/gallery/bs-cobalt-system-deck/preview-4.webp",
+   "/gallery/bs-cobalt-system-deck/preview-5.webp",
+   "/gallery/bs-cobalt-system-deck/preview-6.webp",
+   "/gallery/bs-cobalt-system-deck/preview-7.webp",
+   "/gallery/bs-cobalt-system-deck/preview-8.webp",
+   "/gallery/bs-cobalt-system-deck/preview-9.webp"
+  ],
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4170,6 +5336,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-acid-agency-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-acid-agency-deck/preview-1.webp",
+   "/gallery/bs-acid-agency-deck/preview-10.webp",
+   "/gallery/bs-acid-agency-deck/preview-11.webp",
+   "/gallery/bs-acid-agency-deck/preview-12.webp",
+   "/gallery/bs-acid-agency-deck/preview-13.webp",
+   "/gallery/bs-acid-agency-deck/preview-2.webp",
+   "/gallery/bs-acid-agency-deck/preview-3.webp",
+   "/gallery/bs-acid-agency-deck/preview-4.webp",
+   "/gallery/bs-acid-agency-deck/preview-5.webp",
+   "/gallery/bs-acid-agency-deck/preview-6.webp",
+   "/gallery/bs-acid-agency-deck/preview-7.webp",
+   "/gallery/bs-acid-agency-deck/preview-8.webp",
+   "/gallery/bs-acid-agency-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4186,6 +5367,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-aqua-campus-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-aqua-campus-deck/preview-1.webp",
+   "/gallery/bs-aqua-campus-deck/preview-10.webp",
+   "/gallery/bs-aqua-campus-deck/preview-11.webp",
+   "/gallery/bs-aqua-campus-deck/preview-12.webp",
+   "/gallery/bs-aqua-campus-deck/preview-13.webp",
+   "/gallery/bs-aqua-campus-deck/preview-2.webp",
+   "/gallery/bs-aqua-campus-deck/preview-3.webp",
+   "/gallery/bs-aqua-campus-deck/preview-4.webp",
+   "/gallery/bs-aqua-campus-deck/preview-5.webp",
+   "/gallery/bs-aqua-campus-deck/preview-6.webp",
+   "/gallery/bs-aqua-campus-deck/preview-7.webp",
+   "/gallery/bs-aqua-campus-deck/preview-8.webp",
+   "/gallery/bs-aqua-campus-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4202,6 +5398,21 @@
   "bookmarks": 7,
   "preview": "/covers/bs-field-notes-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-field-notes-deck/preview-1.webp",
+   "/gallery/bs-field-notes-deck/preview-10.webp",
+   "/gallery/bs-field-notes-deck/preview-11.webp",
+   "/gallery/bs-field-notes-deck/preview-12.webp",
+   "/gallery/bs-field-notes-deck/preview-13.webp",
+   "/gallery/bs-field-notes-deck/preview-2.webp",
+   "/gallery/bs-field-notes-deck/preview-3.webp",
+   "/gallery/bs-field-notes-deck/preview-4.webp",
+   "/gallery/bs-field-notes-deck/preview-5.webp",
+   "/gallery/bs-field-notes-deck/preview-6.webp",
+   "/gallery/bs-field-notes-deck/preview-7.webp",
+   "/gallery/bs-field-notes-deck/preview-8.webp",
+   "/gallery/bs-field-notes-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#6a9bcc",
   "tools": [
@@ -4237,6 +5448,21 @@
   "bookmarks": 7,
   "preview": "/covers/bs-yellow-sketchnote-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-yellow-sketchnote-deck/preview-1.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-10.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-11.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-12.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-13.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-2.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-3.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-4.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-5.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-6.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-7.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-8.webp",
+   "/gallery/bs-yellow-sketchnote-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#d97757",
   "tools": [
@@ -4271,6 +5497,21 @@
   "bookmarks": 2,
   "preview": "/covers/bs-storybook-margin-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-storybook-margin-deck/preview-1.webp",
+   "/gallery/bs-storybook-margin-deck/preview-10.webp",
+   "/gallery/bs-storybook-margin-deck/preview-11.webp",
+   "/gallery/bs-storybook-margin-deck/preview-12.webp",
+   "/gallery/bs-storybook-margin-deck/preview-13.webp",
+   "/gallery/bs-storybook-margin-deck/preview-2.webp",
+   "/gallery/bs-storybook-margin-deck/preview-3.webp",
+   "/gallery/bs-storybook-margin-deck/preview-4.webp",
+   "/gallery/bs-storybook-margin-deck/preview-5.webp",
+   "/gallery/bs-storybook-margin-deck/preview-6.webp",
+   "/gallery/bs-storybook-margin-deck/preview-7.webp",
+   "/gallery/bs-storybook-margin-deck/preview-8.webp",
+   "/gallery/bs-storybook-margin-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4287,6 +5528,21 @@
   "bookmarks": 3,
   "preview": "/covers/bs-blue-lime-ledger-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-blue-lime-ledger-deck/preview-1.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-10.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-11.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-12.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-13.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-2.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-3.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-4.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-5.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-6.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-7.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-8.webp",
+   "/gallery/bs-blue-lime-ledger-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4303,6 +5559,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-cobalt-growth-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cobalt-growth-deck/preview-1.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-10.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-11.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-12.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-13.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-2.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-3.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-4.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-5.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-6.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-7.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-8.webp",
+   "/gallery/bs-cobalt-growth-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4319,6 +5590,21 @@
   "bookmarks": 3,
   "preview": "/covers/bs-pastel-cutout-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-pastel-cutout-deck/preview-1.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-10.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-11.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-12.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-13.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-2.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-3.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-4.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-5.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-6.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-7.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-8.webp",
+   "/gallery/bs-pastel-cutout-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4335,6 +5621,21 @@
   "bookmarks": 2,
   "preview": "/covers/bs-ink-landscape-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-ink-landscape-deck/preview-1.webp",
+   "/gallery/bs-ink-landscape-deck/preview-10.webp",
+   "/gallery/bs-ink-landscape-deck/preview-11.webp",
+   "/gallery/bs-ink-landscape-deck/preview-12.webp",
+   "/gallery/bs-ink-landscape-deck/preview-13.webp",
+   "/gallery/bs-ink-landscape-deck/preview-2.webp",
+   "/gallery/bs-ink-landscape-deck/preview-3.webp",
+   "/gallery/bs-ink-landscape-deck/preview-4.webp",
+   "/gallery/bs-ink-landscape-deck/preview-5.webp",
+   "/gallery/bs-ink-landscape-deck/preview-6.webp",
+   "/gallery/bs-ink-landscape-deck/preview-7.webp",
+   "/gallery/bs-ink-landscape-deck/preview-8.webp",
+   "/gallery/bs-ink-landscape-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4351,6 +5652,21 @@
   "bookmarks": 2,
   "preview": "/covers/bs-lime-endurance-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-lime-endurance-deck/preview-1.webp",
+   "/gallery/bs-lime-endurance-deck/preview-10.webp",
+   "/gallery/bs-lime-endurance-deck/preview-11.webp",
+   "/gallery/bs-lime-endurance-deck/preview-12.webp",
+   "/gallery/bs-lime-endurance-deck/preview-13.webp",
+   "/gallery/bs-lime-endurance-deck/preview-2.webp",
+   "/gallery/bs-lime-endurance-deck/preview-3.webp",
+   "/gallery/bs-lime-endurance-deck/preview-4.webp",
+   "/gallery/bs-lime-endurance-deck/preview-5.webp",
+   "/gallery/bs-lime-endurance-deck/preview-6.webp",
+   "/gallery/bs-lime-endurance-deck/preview-7.webp",
+   "/gallery/bs-lime-endurance-deck/preview-8.webp",
+   "/gallery/bs-lime-endurance-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4367,6 +5683,21 @@
   "bookmarks": 3,
   "preview": "/covers/bs-inclusive-cutpaper-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-inclusive-cutpaper-deck/preview-1.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-10.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-11.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-12.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-13.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-2.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-3.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-4.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-5.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-6.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-7.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-8.webp",
+   "/gallery/bs-inclusive-cutpaper-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#7497b5",
   "tools": [
@@ -4401,6 +5732,21 @@
   "bookmarks": 2,
   "preview": "/covers/bs-neon-makers-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-neon-makers-deck/preview-1.webp",
+   "/gallery/bs-neon-makers-deck/preview-10.webp",
+   "/gallery/bs-neon-makers-deck/preview-11.webp",
+   "/gallery/bs-neon-makers-deck/preview-12.webp",
+   "/gallery/bs-neon-makers-deck/preview-13.webp",
+   "/gallery/bs-neon-makers-deck/preview-2.webp",
+   "/gallery/bs-neon-makers-deck/preview-3.webp",
+   "/gallery/bs-neon-makers-deck/preview-4.webp",
+   "/gallery/bs-neon-makers-deck/preview-5.webp",
+   "/gallery/bs-neon-makers-deck/preview-6.webp",
+   "/gallery/bs-neon-makers-deck/preview-7.webp",
+   "/gallery/bs-neon-makers-deck/preview-8.webp",
+   "/gallery/bs-neon-makers-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4417,6 +5763,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-cozy-island-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cozy-island-deck/preview-1.webp",
+   "/gallery/bs-cozy-island-deck/preview-10.webp",
+   "/gallery/bs-cozy-island-deck/preview-11.webp",
+   "/gallery/bs-cozy-island-deck/preview-12.webp",
+   "/gallery/bs-cozy-island-deck/preview-13.webp",
+   "/gallery/bs-cozy-island-deck/preview-2.webp",
+   "/gallery/bs-cozy-island-deck/preview-3.webp",
+   "/gallery/bs-cozy-island-deck/preview-4.webp",
+   "/gallery/bs-cozy-island-deck/preview-5.webp",
+   "/gallery/bs-cozy-island-deck/preview-6.webp",
+   "/gallery/bs-cozy-island-deck/preview-7.webp",
+   "/gallery/bs-cozy-island-deck/preview-8.webp",
+   "/gallery/bs-cozy-island-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4433,6 +5794,21 @@
   "bookmarks": 2,
   "preview": "/covers/bs-mono-acid-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-mono-acid-deck/preview-1.webp",
+   "/gallery/bs-mono-acid-deck/preview-10.webp",
+   "/gallery/bs-mono-acid-deck/preview-11.webp",
+   "/gallery/bs-mono-acid-deck/preview-12.webp",
+   "/gallery/bs-mono-acid-deck/preview-13.webp",
+   "/gallery/bs-mono-acid-deck/preview-2.webp",
+   "/gallery/bs-mono-acid-deck/preview-3.webp",
+   "/gallery/bs-mono-acid-deck/preview-4.webp",
+   "/gallery/bs-mono-acid-deck/preview-5.webp",
+   "/gallery/bs-mono-acid-deck/preview-6.webp",
+   "/gallery/bs-mono-acid-deck/preview-7.webp",
+   "/gallery/bs-mono-acid-deck/preview-8.webp",
+   "/gallery/bs-mono-acid-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4449,6 +5825,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-cinematic-wilds-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cinematic-wilds-deck/preview-1.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-10.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-11.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-12.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-13.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-2.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-3.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-4.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-5.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-6.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-7.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-8.webp",
+   "/gallery/bs-cinematic-wilds-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4465,6 +5856,11 @@
   "bookmarks": 5,
   "preview": "/covers/bs-collage-creative-portfolio.webp",
   "video": "/previews/bs-collage-creative-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-collage-creative-portfolio/preview-1.webp",
+   "/gallery/bs-collage-creative-portfolio/preview-2.webp",
+   "/gallery/bs-collage-creative-portfolio/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4481,6 +5877,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-airy-flight-booking-landing.webp",
   "video": "/previews/bs-airy-flight-booking-landing.mp4",
+  "gallery": [
+   "/gallery/bs-airy-flight-booking-landing/preview-1.webp",
+   "/gallery/bs-airy-flight-booking-landing/preview-2.webp",
+   "/gallery/bs-airy-flight-booking-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4497,6 +5898,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-alpine-travel-agency-landing.webp",
   "video": "/previews/bs-alpine-travel-agency-landing.mp4",
+  "gallery": [
+   "/gallery/bs-alpine-travel-agency-landing/preview-1.webp",
+   "/gallery/bs-alpine-travel-agency-landing/preview-2.webp",
+   "/gallery/bs-alpine-travel-agency-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4513,6 +5919,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-cloud-jet-travel-landing.webp",
   "video": "/previews/bs-cloud-jet-travel-landing.mp4",
+  "gallery": [
+   "/gallery/bs-cloud-jet-travel-landing/preview-1.webp",
+   "/gallery/bs-cloud-jet-travel-landing/preview-2.webp",
+   "/gallery/bs-cloud-jet-travel-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4529,6 +5940,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-cutpaper-collective-site.webp",
   "video": "/previews/bs-cutpaper-collective-site.mp4",
+  "gallery": [
+   "/gallery/bs-cutpaper-collective-site/preview-1.webp",
+   "/gallery/bs-cutpaper-collective-site/preview-2.webp",
+   "/gallery/bs-cutpaper-collective-site/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#6a9bcc",
   "tools": [
@@ -4561,6 +5977,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-doodle-developer-portfolio.webp",
   "video": "/previews/bs-doodle-developer-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-doodle-developer-portfolio/preview-1.webp",
+   "/gallery/bs-doodle-developer-portfolio/preview-2.webp",
+   "/gallery/bs-doodle-developer-portfolio/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4577,6 +5998,21 @@
   "bookmarks": 1,
   "preview": "/covers/bs-botanical-quiet-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-botanical-quiet-deck/preview-1.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-10.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-11.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-12.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-13.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-2.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-3.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-4.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-5.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-6.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-7.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-8.webp",
+   "/gallery/bs-botanical-quiet-deck/preview-9.webp"
+  ],
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4593,6 +6029,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-editorial-personal-brand-landing.webp",
   "video": "/previews/bs-editorial-personal-brand-landing.mp4",
+  "gallery": [
+   "/gallery/bs-editorial-personal-brand-landing/preview-1.webp",
+   "/gallery/bs-editorial-personal-brand-landing/preview-2.webp",
+   "/gallery/bs-editorial-personal-brand-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4609,6 +6050,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-bento-designer-portfolio.webp",
   "video": "/previews/bs-bento-designer-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-bento-designer-portfolio/preview-1.webp",
+   "/gallery/bs-bento-designer-portfolio/preview-2.webp",
+   "/gallery/bs-bento-designer-portfolio/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4625,6 +6071,11 @@
   "bookmarks": 9,
   "preview": "/covers/bs-cobalt-serif-freelancer-site.webp",
   "video": "/previews/bs-cobalt-serif-freelancer-site.mp4",
+  "gallery": [
+   "/gallery/bs-cobalt-serif-freelancer-site/preview-1.webp",
+   "/gallery/bs-cobalt-serif-freelancer-site/preview-2.webp",
+   "/gallery/bs-cobalt-serif-freelancer-site/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#c0d1c9",
   "tools": [
@@ -4657,6 +6108,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-ember-ebike-store.webp",
   "video": "/previews/bs-ember-ebike-store.mp4",
+  "gallery": [
+   "/gallery/bs-ember-ebike-store/preview-1.webp",
+   "/gallery/bs-ember-ebike-store/preview-2.webp",
+   "/gallery/bs-ember-ebike-store/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4673,6 +6129,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-gradient-juice-brand-site.webp",
   "video": "/previews/bs-gradient-juice-brand-site.mp4",
+  "gallery": [
+   "/gallery/bs-gradient-juice-brand-site/preview-1.webp",
+   "/gallery/bs-gradient-juice-brand-site/preview-2.webp",
+   "/gallery/bs-gradient-juice-brand-site/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4689,6 +6150,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-green-pharmacy-storefront.webp",
   "video": "/previews/bs-green-pharmacy-storefront.mp4",
+  "gallery": [
+   "/gallery/bs-green-pharmacy-storefront/preview-1.webp",
+   "/gallery/bs-green-pharmacy-storefront/preview-2.webp",
+   "/gallery/bs-green-pharmacy-storefront/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4705,6 +6171,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-lime-frame-designer-portfolio.webp",
   "video": "/previews/bs-lime-frame-designer-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-lime-frame-designer-portfolio/preview-1.webp",
+   "/gallery/bs-lime-frame-designer-portfolio/preview-2.webp",
+   "/gallery/bs-lime-frame-designer-portfolio/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4721,6 +6192,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-marker-doodle-brand-studio.webp",
   "video": "/previews/bs-marker-doodle-brand-studio.mp4",
+  "gallery": [
+   "/gallery/bs-marker-doodle-brand-studio/preview-1.webp",
+   "/gallery/bs-marker-doodle-brand-studio/preview-2.webp",
+   "/gallery/bs-marker-doodle-brand-studio/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4737,6 +6213,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-mono-designer-portfolio.webp",
   "video": "/previews/bs-mono-designer-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-mono-designer-portfolio/preview-1.webp",
+   "/gallery/bs-mono-designer-portfolio/preview-2.webp",
+   "/gallery/bs-mono-designer-portfolio/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4753,6 +6234,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-paper-texture-resume-site.webp",
   "video": "/previews/bs-paper-texture-resume-site.mp4",
+  "gallery": [
+   "/gallery/bs-paper-texture-resume-site/preview-1.webp",
+   "/gallery/bs-paper-texture-resume-site/preview-2.webp",
+   "/gallery/bs-paper-texture-resume-site/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4769,6 +6255,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-gridpaper-beverage-brand-site.webp",
   "video": "/previews/bs-gridpaper-beverage-brand-site.mp4",
+  "gallery": [
+   "/gallery/bs-gridpaper-beverage-brand-site/preview-1.webp",
+   "/gallery/bs-gridpaper-beverage-brand-site/preview-2.webp",
+   "/gallery/bs-gridpaper-beverage-brand-site/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4785,6 +6276,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-illustrated-agritech-app-landing.webp",
   "video": "/previews/bs-illustrated-agritech-app-landing.mp4",
+  "gallery": [
+   "/gallery/bs-illustrated-agritech-app-landing/preview-1.webp",
+   "/gallery/bs-illustrated-agritech-app-landing/preview-2.webp",
+   "/gallery/bs-illustrated-agritech-app-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4801,6 +6297,11 @@
   "bookmarks": 10,
   "preview": "/covers/bs-sage-sneaker-store.webp",
   "video": "/previews/bs-sage-sneaker-store.mp4",
+  "gallery": [
+   "/gallery/bs-sage-sneaker-store/preview-1.webp",
+   "/gallery/bs-sage-sneaker-store/preview-2.webp",
+   "/gallery/bs-sage-sneaker-store/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#7497b5",
   "tools": [
@@ -4834,6 +6335,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-playful-uiux-portfolio.webp",
   "video": "/previews/bs-playful-uiux-portfolio.mp4",
+  "gallery": [
+   "/gallery/bs-playful-uiux-portfolio/preview-1.webp",
+   "/gallery/bs-playful-uiux-portfolio/preview-2.webp",
+   "/gallery/bs-playful-uiux-portfolio/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4850,6 +6356,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-royal-blue-pet-store.webp",
   "video": "/previews/bs-royal-blue-pet-store.mp4",
+  "gallery": [
+   "/gallery/bs-royal-blue-pet-store/preview-1.webp",
+   "/gallery/bs-royal-blue-pet-store/preview-2.webp",
+   "/gallery/bs-royal-blue-pet-store/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4866,6 +6377,11 @@
   "bookmarks": 8,
   "preview": "/covers/bs-scattered-cards-magazine.webp",
   "video": "/previews/bs-scattered-cards-magazine.mp4",
+  "gallery": [
+   "/gallery/bs-scattered-cards-magazine/preview-1.webp",
+   "/gallery/bs-scattered-cards-magazine/preview-2.webp",
+   "/gallery/bs-scattered-cards-magazine/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4882,6 +6398,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-sky-sports-club-landing.webp",
   "video": "/previews/bs-sky-sports-club-landing.mp4",
+  "gallery": [
+   "/gallery/bs-sky-sports-club-landing/preview-1.webp",
+   "/gallery/bs-sky-sports-club-landing/preview-2.webp",
+   "/gallery/bs-sky-sports-club-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4898,6 +6419,11 @@
   "bookmarks": 3,
   "preview": "/covers/bs-sticker-agency-landing.webp",
   "video": "/previews/bs-sticker-agency-landing.mp4",
+  "gallery": [
+   "/gallery/bs-sticker-agency-landing/preview-1.webp",
+   "/gallery/bs-sticker-agency-landing/preview-2.webp",
+   "/gallery/bs-sticker-agency-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4914,6 +6440,11 @@
   "bookmarks": 10,
   "preview": "/covers/bs-grokbot-avatar.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-grokbot-avatar/preview-1.webp",
+   "/gallery/bs-grokbot-avatar/preview-2.webp",
+   "/gallery/bs-grokbot-avatar/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#e4d0cf",
   "tools": [
@@ -4941,6 +6472,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-sticker-gifting-app-landing.webp",
   "video": "/previews/bs-sticker-gifting-app-landing.mp4",
+  "gallery": [
+   "/gallery/bs-sticker-gifting-app-landing/preview-1.webp",
+   "/gallery/bs-sticker-gifting-app-landing/preview-2.webp",
+   "/gallery/bs-sticker-gifting-app-landing/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4957,6 +6493,11 @@
   "bookmarks": 4,
   "preview": "/covers/bs-scrapbook-resume-site.webp",
   "video": "/previews/bs-scrapbook-resume-site.mp4",
+  "gallery": [
+   "/gallery/bs-scrapbook-resume-site/preview-1.webp",
+   "/gallery/bs-scrapbook-resume-site/preview-2.webp",
+   "/gallery/bs-scrapbook-resume-site/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4973,6 +6514,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-silver-robot-product-site.webp",
   "video": "/previews/bs-silver-robot-product-site.mp4",
+  "gallery": [
+   "/gallery/bs-silver-robot-product-site/preview-1.webp",
+   "/gallery/bs-silver-robot-product-site/preview-2.webp",
+   "/gallery/bs-silver-robot-product-site/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -4989,6 +6535,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-split-quote-underline.webp",
   "video": "/previews/bs-creatormotion-split-quote-underline.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-quote-underline/preview-1.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5005,6 +6554,9 @@
   "bookmarks": 24,
   "preview": "/covers/bs-creatormotion-type-title-takeover.webp",
   "video": "/previews/bs-creatormotion-type-title-takeover.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-title-takeover/preview-1.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#6a9bcc",
   "tools": [
@@ -5042,6 +6594,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-collage-scatter-presenter.webp",
   "video": "/previews/bs-creatormotion-collage-scatter-presenter.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-collage-scatter-presenter/preview-1.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5058,6 +6613,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-type-wall-checklist.webp",
   "video": "/previews/bs-creatormotion-type-wall-checklist.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-wall-checklist/preview-1.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5074,6 +6632,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-type-behind-subject.webp",
   "video": "/previews/bs-creatormotion-type-behind-subject.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-behind-subject/preview-1.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5090,6 +6651,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-type-topic-cloud.webp",
   "video": "/previews/bs-creatormotion-type-topic-cloud.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-topic-cloud/preview-1.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5106,6 +6670,9 @@
   "bookmarks": 14,
   "preview": "/covers/bs-creatormotion-cards-action-checklist.webp",
   "video": "/previews/bs-creatormotion-cards-action-checklist.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-action-checklist/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#629987",
   "tools": [
@@ -5143,6 +6710,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-cards-card-counter.webp",
   "video": "/previews/bs-creatormotion-cards-card-counter.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-card-counter/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5159,6 +6729,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-cards-context-conflict.webp",
   "video": "/previews/bs-creatormotion-cards-context-conflict.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-context-conflict/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5175,6 +6748,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-cards-corner-tags.webp",
   "video": "/previews/bs-creatormotion-cards-corner-tags.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-corner-tags/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5191,6 +6767,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-cards-cost-range.webp",
   "video": "/previews/bs-creatormotion-cards-cost-range.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-cost-range/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5207,6 +6786,9 @@
   "bookmarks": 6,
   "preview": "/covers/bs-creatormotion-split-status-focus.webp",
   "video": "/previews/bs-creatormotion-split-status-focus.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-status-focus/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5223,6 +6805,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-cards-chapter-stack.webp",
   "video": "/previews/bs-creatormotion-cards-chapter-stack.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-chapter-stack/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5239,6 +6824,9 @@
   "bookmarks": 5,
   "preview": "/covers/bs-creatormotion-cards-chat-stack.webp",
   "video": "/previews/bs-creatormotion-cards-chat-stack.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-chat-stack/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5255,6 +6843,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-cards-folder-grid.webp",
   "video": "/previews/bs-creatormotion-cards-folder-grid.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-folder-grid/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5271,6 +6862,9 @@
   "bookmarks": 6,
   "preview": "/covers/bs-creatormotion-cards-foreground-row.webp",
   "video": "/previews/bs-creatormotion-cards-foreground-row.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-foreground-row/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5287,6 +6881,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-cards-inspect-split.webp",
   "video": "/previews/bs-creatormotion-cards-inspect-split.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-inspect-split/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5303,6 +6900,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-cards-grid-priority.webp",
   "video": "/previews/bs-creatormotion-cards-grid-priority.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-grid-priority/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5319,6 +6919,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-cards-matrix-fill.webp",
   "video": "/previews/bs-creatormotion-cards-matrix-fill.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-matrix-fill/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5335,6 +6938,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-cards-ratio-bridge.webp",
   "video": "/previews/bs-creatormotion-cards-ratio-bridge.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-ratio-bridge/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5351,6 +6957,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-cards-roadmap-focus.webp",
   "video": "/previews/bs-creatormotion-cards-roadmap-focus.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-roadmap-focus/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5367,6 +6976,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-cards-sequential-list.webp",
   "video": "/previews/bs-creatormotion-cards-sequential-list.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-sequential-list/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5383,6 +6995,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-cards-keyword-resolve.webp",
   "video": "/previews/bs-creatormotion-cards-keyword-resolve.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-keyword-resolve/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5399,6 +7014,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-cards-status-row.webp",
   "video": "/previews/bs-creatormotion-cards-status-row.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-status-row/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5415,6 +7033,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-cards-steps-title.webp",
   "video": "/previews/bs-creatormotion-cards-steps-title.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-steps-title/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5431,6 +7052,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-chapter-browser-reveal.webp",
   "video": "/previews/bs-creatormotion-chapter-browser-reveal.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-chapter-browser-reveal/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5447,6 +7071,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-chapter-border-orbit.webp",
   "video": "/previews/bs-creatormotion-chapter-border-orbit.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-chapter-border-orbit/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5463,6 +7090,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-chapter-character-reveal.webp",
   "video": "/previews/bs-creatormotion-chapter-character-reveal.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-chapter-character-reveal/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5479,6 +7109,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-chapter-grid-flip.webp",
   "video": "/previews/bs-creatormotion-chapter-grid-flip.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-chapter-grid-flip/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5495,6 +7128,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-chapter-grid-pan.webp",
   "video": "/previews/bs-creatormotion-chapter-grid-pan.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-chapter-grid-pan/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5511,6 +7147,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-chapter-label-stack.webp",
   "video": "/previews/bs-creatormotion-chapter-label-stack.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-chapter-label-stack/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5527,6 +7166,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-collage-evidence-summary.webp",
   "video": "/previews/bs-creatormotion-collage-evidence-summary.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-collage-evidence-summary/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5543,6 +7185,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-chapter-title-stamp.webp",
   "video": "/previews/bs-creatormotion-chapter-title-stamp.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-chapter-title-stamp/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5559,6 +7204,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-collage-dossier-role.webp",
   "video": "/previews/bs-creatormotion-collage-dossier-role.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-collage-dossier-role/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5575,6 +7223,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-collage-document-stack.webp",
   "video": "/previews/bs-creatormotion-collage-document-stack.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-collage-document-stack/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5591,6 +7242,9 @@
   "bookmarks": 5,
   "preview": "/covers/bs-creatormotion-collage-parallax-proof.webp",
   "video": "/previews/bs-creatormotion-collage-parallax-proof.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-collage-parallax-proof/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5607,6 +7261,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-calculation-roi.webp",
   "video": "/previews/bs-creatormotion-comparison-calculation-roi.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-calculation-roi/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5623,6 +7280,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-collage-portrait-notes.webp",
   "video": "/previews/bs-creatormotion-collage-portrait-notes.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-collage-portrait-notes/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5639,6 +7299,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-capacity-reset.webp",
   "video": "/previews/bs-creatormotion-comparison-capacity-reset.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-capacity-reset/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5655,6 +7318,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-comparison-composition-strip.webp",
   "video": "/previews/bs-creatormotion-comparison-composition-strip.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-composition-strip/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5671,6 +7337,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-column-annotations.webp",
   "video": "/previews/bs-creatormotion-comparison-column-annotations.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-column-annotations/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5687,6 +7356,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-device-allocation.webp",
   "video": "/previews/bs-creatormotion-comparison-device-allocation.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-device-allocation/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5703,6 +7375,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-dual-sliders.webp",
   "video": "/previews/bs-creatormotion-comparison-dual-sliders.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-dual-sliders/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5719,6 +7394,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-feature-matrix.webp",
   "video": "/previews/bs-creatormotion-comparison-feature-matrix.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-feature-matrix/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5735,6 +7413,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-document-collapse.webp",
   "video": "/previews/bs-creatormotion-comparison-document-collapse.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-document-collapse/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5751,6 +7432,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-cost-total.webp",
   "video": "/previews/bs-creatormotion-comparison-cost-total.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-cost-total/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5767,6 +7451,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-focus-bars.webp",
   "video": "/previews/bs-creatormotion-comparison-focus-bars.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-focus-bars/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5783,6 +7470,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-grouped-bars.webp",
   "video": "/previews/bs-creatormotion-comparison-grouped-bars.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-grouped-bars/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5799,6 +7489,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-comparison-icon-distribution.webp",
   "video": "/previews/bs-creatormotion-comparison-icon-distribution.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-icon-distribution/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5815,6 +7508,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-latest-history.webp",
   "video": "/previews/bs-creatormotion-comparison-latest-history.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-latest-history/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5831,6 +7527,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-collage-testimonial-wall.webp",
   "video": "/previews/bs-creatormotion-collage-testimonial-wall.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-collage-testimonial-wall/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5847,6 +7546,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-one-many.webp",
   "video": "/previews/bs-creatormotion-comparison-one-many.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-one-many/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5863,6 +7565,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-prompt-results.webp",
   "video": "/previews/bs-creatormotion-comparison-prompt-results.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-prompt-results/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5879,6 +7584,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-comparison-paired-swap.webp",
   "video": "/previews/bs-creatormotion-comparison-paired-swap.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-paired-swap/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5895,6 +7603,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-comparison-quadrant-focus.webp",
   "video": "/previews/bs-creatormotion-comparison-quadrant-focus.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-quadrant-focus/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5911,6 +7622,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-query-screens.webp",
   "video": "/previews/bs-creatormotion-comparison-query-screens.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-query-screens/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5927,6 +7641,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-quote-sliders.webp",
   "video": "/previews/bs-creatormotion-comparison-quote-sliders.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-quote-sliders/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5943,6 +7660,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-radar-reveal.webp",
   "video": "/previews/bs-creatormotion-comparison-radar-reveal.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-radar-reveal/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5959,6 +7679,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-ratio-bars.webp",
   "video": "/previews/bs-creatormotion-comparison-ratio-bars.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-ratio-bars/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5975,6 +7698,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-line-trend.webp",
   "video": "/previews/bs-creatormotion-comparison-line-trend.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-line-trend/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -5991,6 +7717,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-records-donut.webp",
   "video": "/previews/bs-creatormotion-comparison-records-donut.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-records-donut/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6007,6 +7736,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-sequential-bars.webp",
   "video": "/previews/bs-creatormotion-comparison-sequential-bars.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-sequential-bars/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6023,6 +7755,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-target-overrun.webp",
   "video": "/previews/bs-creatormotion-comparison-target-overrun.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-target-overrun/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6039,6 +7774,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-stage-loss.webp",
   "video": "/previews/bs-creatormotion-comparison-stage-loss.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-stage-loss/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6055,6 +7793,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-row-focus-cards.webp",
   "video": "/previews/bs-creatormotion-comparison-row-focus-cards.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-row-focus-cards/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6071,6 +7812,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-wording-choice.webp",
   "video": "/previews/bs-creatormotion-comparison-wording-choice.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-wording-choice/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6087,6 +7831,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-anchored-callouts.webp",
   "video": "/previews/bs-creatormotion-diagram-anchored-callouts.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-anchored-callouts/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6103,6 +7850,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-comparison-trend-card-tour.webp",
   "video": "/previews/bs-creatormotion-comparison-trend-card-tour.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-trend-card-tour/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6119,6 +7869,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-capacity-callouts.webp",
   "video": "/previews/bs-creatormotion-diagram-capacity-callouts.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-capacity-callouts/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6135,6 +7888,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-convergence-evidence.webp",
   "video": "/previews/bs-creatormotion-diagram-convergence-evidence.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-convergence-evidence/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6151,6 +7907,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-cycle-build.webp",
   "video": "/previews/bs-creatormotion-diagram-cycle-build.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-cycle-build/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6167,6 +7926,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-diagram-cycle-traversal.webp",
   "video": "/previews/bs-creatormotion-diagram-cycle-traversal.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-cycle-traversal/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6183,6 +7945,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-decompose-scan.webp",
   "video": "/previews/bs-creatormotion-diagram-decompose-scan.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-decompose-scan/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6199,6 +7964,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-branch-reveal.webp",
   "video": "/previews/bs-creatormotion-diagram-branch-reveal.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-branch-reveal/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6215,6 +7983,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-funnel-absorption.webp",
   "video": "/previews/bs-creatormotion-diagram-funnel-absorption.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-funnel-absorption/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6231,6 +8002,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-handoff-explain.webp",
   "video": "/previews/bs-creatormotion-diagram-handoff-explain.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-handoff-explain/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6247,6 +8021,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-input-convergence.webp",
   "video": "/previews/bs-creatormotion-diagram-input-convergence.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-input-convergence/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6263,6 +8040,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-milestone-detail.webp",
   "video": "/previews/bs-creatormotion-diagram-milestone-detail.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-milestone-detail/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6279,6 +8059,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-nested-workspace.webp",
   "video": "/previews/bs-creatormotion-diagram-nested-workspace.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-nested-workspace/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6295,6 +8078,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-list-bridge.webp",
   "video": "/previews/bs-creatormotion-diagram-list-bridge.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-list-bridge/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6311,6 +8097,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-hub-routing.webp",
   "video": "/previews/bs-creatormotion-diagram-hub-routing.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-hub-routing/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6327,6 +8116,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-pipeline-fanout.webp",
   "video": "/previews/bs-creatormotion-diagram-pipeline-fanout.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-pipeline-fanout/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6343,6 +8135,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-radial-branches.webp",
   "video": "/previews/bs-creatormotion-diagram-radial-branches.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-radial-branches/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6359,6 +8154,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-pipeline-package.webp",
   "video": "/previews/bs-creatormotion-diagram-pipeline-package.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-pipeline-package/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6375,6 +8173,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-timeline-nodes.webp",
   "video": "/previews/bs-creatormotion-diagram-timeline-nodes.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-timeline-nodes/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6391,6 +8192,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-quadrant-positioning.webp",
   "video": "/previews/bs-creatormotion-diagram-quadrant-positioning.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-quadrant-positioning/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6407,6 +8211,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-diagram-tier-pyramid.webp",
   "video": "/previews/bs-creatormotion-diagram-tier-pyramid.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-tier-pyramid/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6423,6 +8230,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-scope-emphasis.webp",
   "video": "/previews/bs-creatormotion-diagram-scope-emphasis.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-scope-emphasis/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6439,6 +8249,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-pip-calendar-reschedule.webp",
   "video": "/previews/bs-creatormotion-pip-calendar-reschedule.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-pip-calendar-reschedule/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6455,6 +8268,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-diagram-sequence-lanes.webp",
   "video": "/previews/bs-creatormotion-diagram-sequence-lanes.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-sequence-lanes/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6471,6 +8287,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-split-chart-pan.webp",
   "video": "/previews/bs-creatormotion-split-chart-pan.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-chart-pan/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6487,6 +8306,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-pip-slides-focus.webp",
   "video": "/previews/bs-creatormotion-pip-slides-focus.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-pip-slides-focus/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6503,6 +8325,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-split-phone-callouts.webp",
   "video": "/previews/bs-creatormotion-split-phone-callouts.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-phone-callouts/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6519,6 +8344,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-pip-chat-response.webp",
   "video": "/previews/bs-creatormotion-pip-chat-response.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-pip-chat-response/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6535,6 +8363,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-pip-notification-log.webp",
   "video": "/previews/bs-creatormotion-pip-notification-log.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-pip-notification-log/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6551,6 +8382,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-split-chart-swap.webp",
   "video": "/previews/bs-creatormotion-split-chart-swap.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-chart-swap/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6567,6 +8401,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-split-phone-scale.webp",
   "video": "/previews/bs-creatormotion-split-phone-scale.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-phone-scale/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6583,6 +8420,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-split-response-spotlight.webp",
   "video": "/previews/bs-creatormotion-split-response-spotlight.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-response-spotlight/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6599,6 +8439,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-split-progressive-list.webp",
   "video": "/previews/bs-creatormotion-split-progressive-list.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-split-progressive-list/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6615,6 +8458,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-spotlight-comment-emphasis.webp",
   "video": "/previews/bs-creatormotion-spotlight-comment-emphasis.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-comment-emphasis/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6631,6 +8477,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-spotlight-metric-audit.webp",
   "video": "/previews/bs-creatormotion-spotlight-metric-audit.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-metric-audit/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6647,6 +8496,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-spotlight-mobile-step.webp",
   "video": "/previews/bs-creatormotion-spotlight-mobile-step.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-mobile-step/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6663,6 +8515,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-spotlight-metric-to-detail.webp",
   "video": "/previews/bs-creatormotion-spotlight-metric-to-detail.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-metric-to-detail/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6679,6 +8534,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-spotlight-quote-evidence.webp",
   "video": "/previews/bs-creatormotion-spotlight-quote-evidence.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-quote-evidence/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6695,6 +8553,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-spotlight-issue-resolution.webp",
   "video": "/previews/bs-creatormotion-spotlight-issue-resolution.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-issue-resolution/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6711,6 +8572,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-spotlight-shortcut-target.webp",
   "video": "/previews/bs-creatormotion-spotlight-shortcut-target.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-shortcut-target/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6727,6 +8591,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-spotlight-voice-transcript.webp",
   "video": "/previews/bs-creatormotion-spotlight-voice-transcript.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-voice-transcript/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6743,6 +8610,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-transition-tile-dissolve.webp",
   "video": "/previews/bs-creatormotion-transition-tile-dissolve.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-transition-tile-dissolve/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6759,6 +8629,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-type-copy-correction.webp",
   "video": "/previews/bs-creatormotion-type-copy-correction.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-copy-correction/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6775,6 +8648,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-type-definition-reframe.webp",
   "video": "/previews/bs-creatormotion-type-definition-reframe.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-definition-reframe/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6791,6 +8667,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-type-keyword-caption.webp",
   "video": "/previews/bs-creatormotion-type-keyword-caption.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-keyword-caption/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6807,6 +8686,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-transition-polygon-wipe.webp",
   "video": "/previews/bs-creatormotion-transition-polygon-wipe.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-transition-polygon-wipe/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6823,6 +8705,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-spotlight-region-callout.webp",
   "video": "/previews/bs-creatormotion-spotlight-region-callout.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-spotlight-region-callout/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6839,6 +8724,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-type-burst-statement.webp",
   "video": "/previews/bs-creatormotion-type-burst-statement.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-burst-statement/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6855,6 +8743,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-creatormotion-type-opposing-labels.webp",
   "video": "/previews/bs-creatormotion-type-opposing-labels.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-opposing-labels/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6871,6 +8762,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-type-question-bubble.webp",
   "video": "/previews/bs-creatormotion-type-question-bubble.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-question-bubble/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6887,6 +8781,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-type-spec-reveal.webp",
   "video": "/previews/bs-creatormotion-type-spec-reveal.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-spec-reveal/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6903,6 +8800,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-type-tag-stack.webp",
   "video": "/previews/bs-creatormotion-type-tag-stack.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-tag-stack/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6919,6 +8819,11 @@
   "bookmarks": 23,
   "preview": "/covers/bs-dot-avatar-maker.webp",
   "video": "/previews/bs-dot-avatar-maker.mp4",
+  "gallery": [
+   "/gallery/bs-dot-avatar-maker/preview-1.webp",
+   "/gallery/bs-dot-avatar-maker/preview-2.webp",
+   "/gallery/bs-dot-avatar-maker/preview-3.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#d97757",
   "tools": [
@@ -6953,6 +8858,9 @@
   "bookmarks": 15,
   "preview": "/covers/bs-cue-style-launch-video.webp",
   "video": "/previews/bs-cue-style-launch-video.mp4",
+  "gallery": [
+   "/gallery/bs-cue-style-launch-video/preview-1.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6969,6 +8877,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-type-term-pressure.webp",
   "video": "/previews/bs-creatormotion-type-term-pressure.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-type-term-pressure/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -6985,6 +8896,11 @@
   "bookmarks": 15,
   "preview": "/covers/bs-hyperframes-pixel-promo.webp",
   "video": "/previews/bs-hyperframes-pixel-promo.mp4",
+  "gallery": [
+   "/gallery/bs-hyperframes-pixel-promo/preview-1.webp",
+   "/gallery/bs-hyperframes-pixel-promo/preview-2.webp",
+   "/gallery/bs-hyperframes-pixel-promo/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#d1b198",
   "tools": [
@@ -7018,6 +8934,9 @@
   "bookmarks": 31,
   "preview": "/covers/bs-manus2-0-style-launch-video.webp",
   "video": "/previews/bs-manus2-0-style-launch-video.mp4",
+  "gallery": [
+   "/gallery/bs-manus2-0-style-launch-video/preview-1.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#e4d0cf",
   "tools": [
@@ -7057,6 +8976,9 @@
   "bookmarks": 9,
   "preview": "/covers/bs-creatormotion.webp",
   "video": "/previews/bs-creatormotion.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion/preview-1.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7073,6 +8995,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-mint-marker-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-mint-marker-deck/preview-1.webp",
+   "/gallery/bs-mint-marker-deck/preview-2.webp",
+   "/gallery/bs-mint-marker-deck/preview-3.webp",
+   "/gallery/bs-mint-marker-deck/preview-4.webp",
+   "/gallery/bs-mint-marker-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7089,6 +9018,13 @@
   "bookmarks": 2,
   "preview": "/covers/bs-lilac-pitch-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-lilac-pitch-deck/preview-1.webp",
+   "/gallery/bs-lilac-pitch-deck/preview-2.webp",
+   "/gallery/bs-lilac-pitch-deck/preview-3.webp",
+   "/gallery/bs-lilac-pitch-deck/preview-4.webp",
+   "/gallery/bs-lilac-pitch-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7105,6 +9041,13 @@
   "bookmarks": 2,
   "preview": "/covers/bs-cobalt-dark-pitch-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cobalt-dark-pitch-deck/preview-1.webp",
+   "/gallery/bs-cobalt-dark-pitch-deck/preview-2.webp",
+   "/gallery/bs-cobalt-dark-pitch-deck/preview-3.webp",
+   "/gallery/bs-cobalt-dark-pitch-deck/preview-4.webp",
+   "/gallery/bs-cobalt-dark-pitch-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7121,6 +9064,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-apricot-doodle-plan-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-apricot-doodle-plan-deck/preview-1.webp",
+   "/gallery/bs-apricot-doodle-plan-deck/preview-2.webp",
+   "/gallery/bs-apricot-doodle-plan-deck/preview-3.webp",
+   "/gallery/bs-apricot-doodle-plan-deck/preview-4.webp",
+   "/gallery/bs-apricot-doodle-plan-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7137,6 +9087,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-lavender-editorial-team-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-lavender-editorial-team-deck/preview-1.webp",
+   "/gallery/bs-lavender-editorial-team-deck/preview-2.webp",
+   "/gallery/bs-lavender-editorial-team-deck/preview-3.webp",
+   "/gallery/bs-lavender-editorial-team-deck/preview-4.webp",
+   "/gallery/bs-lavender-editorial-team-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7153,6 +9110,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-steel-curve-profile-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-steel-curve-profile-deck/preview-1.webp",
+   "/gallery/bs-steel-curve-profile-deck/preview-2.webp",
+   "/gallery/bs-steel-curve-profile-deck/preview-3.webp",
+   "/gallery/bs-steel-curve-profile-deck/preview-4.webp",
+   "/gallery/bs-steel-curve-profile-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7169,6 +9133,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-blue-block-company-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-blue-block-company-deck/preview-1.webp",
+   "/gallery/bs-blue-block-company-deck/preview-2.webp",
+   "/gallery/bs-blue-block-company-deck/preview-3.webp",
+   "/gallery/bs-blue-block-company-deck/preview-4.webp",
+   "/gallery/bs-blue-block-company-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7185,6 +9156,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-cobalt-ribbon-profile-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cobalt-ribbon-profile-deck/preview-1.webp",
+   "/gallery/bs-cobalt-ribbon-profile-deck/preview-2.webp",
+   "/gallery/bs-cobalt-ribbon-profile-deck/preview-3.webp",
+   "/gallery/bs-cobalt-ribbon-profile-deck/preview-4.webp",
+   "/gallery/bs-cobalt-ribbon-profile-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7201,6 +9179,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-tidal-service-playbook-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-tidal-service-playbook-deck/preview-1.webp",
+   "/gallery/bs-tidal-service-playbook-deck/preview-2.webp",
+   "/gallery/bs-tidal-service-playbook-deck/preview-3.webp",
+   "/gallery/bs-tidal-service-playbook-deck/preview-4.webp",
+   "/gallery/bs-tidal-service-playbook-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7217,6 +9202,13 @@
   "bookmarks": 2,
   "preview": "/covers/bs-spectrum-brand-strategy-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-spectrum-brand-strategy-deck/preview-1.webp",
+   "/gallery/bs-spectrum-brand-strategy-deck/preview-2.webp",
+   "/gallery/bs-spectrum-brand-strategy-deck/preview-3.webp",
+   "/gallery/bs-spectrum-brand-strategy-deck/preview-4.webp",
+   "/gallery/bs-spectrum-brand-strategy-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7233,6 +9225,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-slate-social-report-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-slate-social-report-deck/preview-1.webp",
+   "/gallery/bs-slate-social-report-deck/preview-2.webp",
+   "/gallery/bs-slate-social-report-deck/preview-3.webp",
+   "/gallery/bs-slate-social-report-deck/preview-4.webp",
+   "/gallery/bs-slate-social-report-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7249,6 +9248,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-playful-primary-classroom-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-playful-primary-classroom-deck/preview-1.webp",
+   "/gallery/bs-playful-primary-classroom-deck/preview-2.webp",
+   "/gallery/bs-playful-primary-classroom-deck/preview-3.webp",
+   "/gallery/bs-playful-primary-classroom-deck/preview-4.webp",
+   "/gallery/bs-playful-primary-classroom-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#7f8b65",
   "tools": [
@@ -7286,6 +9292,11 @@
   "bookmarks": 1,
   "preview": "/covers/bs-mint-noir-saas-site.webp",
   "video": "/previews/bs-mint-noir-saas-site.mp4",
+  "gallery": [
+   "/gallery/bs-mint-noir-saas-site/preview-1.webp",
+   "/gallery/bs-mint-noir-saas-site/preview-2.webp",
+   "/gallery/bs-mint-noir-saas-site/preview-3.webp"
+  ],
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7302,6 +9313,13 @@
   "bookmarks": 1,
   "preview": "/covers/bs-cobalt-serif-marketing-deck.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-cobalt-serif-marketing-deck/preview-1.webp",
+   "/gallery/bs-cobalt-serif-marketing-deck/preview-2.webp",
+   "/gallery/bs-cobalt-serif-marketing-deck/preview-3.webp",
+   "/gallery/bs-cobalt-serif-marketing-deck/preview-4.webp",
+   "/gallery/bs-cobalt-serif-marketing-deck/preview-5.webp"
+  ],
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7318,6 +9336,9 @@
   "bookmarks": 9,
   "preview": "/covers/bs-notion-style-localize-video.webp",
   "video": "/previews/bs-notion-style-localize-video.mp4",
+  "gallery": [
+   "/gallery/bs-notion-style-localize-video/preview-1.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#7f8b65",
   "tools": [
@@ -7355,6 +9376,9 @@
   "bookmarks": 9,
   "preview": "/covers/bs-linear-agent-style-launch-video.webp",
   "video": "/previews/bs-linear-agent-style-launch-video.mp4",
+  "gallery": [
+   "/gallery/bs-linear-agent-style-launch-video/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#cbcadb",
   "tools": [
@@ -7382,6 +9406,9 @@
   "bookmarks": 1,
   "preview": "/covers/bs-testimonial-tilted-stack.webp",
   "video": "/previews/bs-testimonial-tilted-stack.mp4",
+  "gallery": [
+   "/gallery/bs-testimonial-tilted-stack/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7398,6 +9425,9 @@
   "bookmarks": 2,
   "preview": "/covers/bs-creatormotion-cards-list-audience.webp",
   "video": "/previews/bs-creatormotion-cards-list-audience.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-cards-list-audience/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7414,6 +9444,9 @@
   "bookmarks": 3,
   "preview": "/covers/bs-creatormotion-comparison-accumulation-blocks.webp",
   "video": "/previews/bs-creatormotion-comparison-accumulation-blocks.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-comparison-accumulation-blocks/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7430,6 +9463,9 @@
   "bookmarks": 4,
   "preview": "/covers/bs-creatormotion-diagram-additive-equation.webp",
   "video": "/previews/bs-creatormotion-diagram-additive-equation.mp4",
+  "gallery": [
+   "/gallery/bs-creatormotion-diagram-additive-equation/preview-1.webp"
+  ],
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
@@ -7446,6 +9482,11 @@
   "bookmarks": 2,
   "preview": "/covers/bs-duolingo-style-og.webp",
   "video": null,
+  "gallery": [
+   "/gallery/bs-duolingo-style-og/preview-1.webp",
+   "/gallery/bs-duolingo-style-og/preview-2.webp",
+   "/gallery/bs-duolingo-style-og/preview-3.webp"
+  ],
   "version": "1.0.2",
   "placeholder": "#c0d1c9",
   "tools": [
