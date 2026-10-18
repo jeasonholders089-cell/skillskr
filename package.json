@@ -1,0 +1,28 @@
+{
+  "name": "skillry-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-tenant SaaS backend: Google + email auth, tenant memberships, Waffo Pancake subscriptions.",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "node --env-file=.env --watch src/server.ts",
+    "start": "node --disable-warning=ExperimentalWarning --env-file=.env src/server.ts",
+    "pancake:setup": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/pancake-setup.ts",
+    "pancake:refresh": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/pancake-refresh.ts",
+    "db:reset": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/db-reset.ts",
+    "test:billing": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/test-billing.ts",
+    "test:google": "node --disable-warning=ExperimentalWarning scripts/test-google.ts",
+    "test:api": "node scripts/smoke-api.mjs",
+    "test:pack": "node scripts/test-pack.mjs",
+    "google:check": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/google-check.ts",
+    "test": "npm run test:billing && npm run test:google && npm run test:api && npm run test:pack"
+  },
+  "dependencies": {
+    "@waffo/pancake-ts": "^0.26.0",
+    "express": "^5.1.0",
+    "undici": "^8.12.2"
+  }
+}

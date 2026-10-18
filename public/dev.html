@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skillry backend · 本地调试台</title>
+<style>
+  :root {
+    --bg: #f4f1e9; --fg: #121313; --muted: #6b6e68; --line: #d9d4c7;
+    --card: #fffdf9; --accent: #f4ff71; --danger: #b4232b;
+    font-family: ui-sans-serif, system-ui, "Segoe UI", "Microsoft YaHei", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font-size: 14px; line-height: 1.55; }
+  header {
+    position: sticky; top: 0; z-index: 5; display: flex; align-items: center; gap: 12px;
+    padding: 12px 20px; background: #121313; color: #fff;
+  }
+  header strong { font-size: 15px; letter-spacing: .01em; }
+  header .who { margin-left: auto; font-size: 12px; opacity: .8; }
+  main { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; padding: 16px 20px 40px; }
+  @media (max-width: 900px) { main { grid-template-columns: minmax(0, 1fr); } }
+  section { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+  section h2 { margin: 0 0 10px; font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 8px; }
+  input, select {
+    font: inherit; padding: 7px 10px; border: 1px solid var(--line); border-radius: 8px;
+    background: #fff; min-width: 0; flex: 1 1 160px;
+  }
+  button {
+    font: inherit; font-weight: 600; padding: 7px 14px; border-radius: 999px; cursor: pointer;
+    border: 1px solid #121313; background: #121313; color: #fff;
+  }
+  button.ghost { background: #fff; color: var(--fg); border-color: var(--line); }
+  button.accent { background: var(--accent); color: #121313; border-color: #c8d43f; }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  .pill { display: inline-flex; align-items: center; gap: 6px; padding: 3px 10px; border-radius: 999px; background: #ebe7de; font-size: 12px; }
+  .pill.on { background: var(--accent); }
+  .pill.off { background: #e5dede; color: #7a5a5a; }
+  .plan { border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; margin-bottom: 8px; }
+  .plan.feat { border-color: #121313; }
+  .plan h3 { margin: 0 0 2px; font-size: 15px; }
+  .plan .amt { font-size: 20px; font-weight: 700; }
+  .plan .amt small { font-size: 12px; font-weight: 400; color: var(--muted); }
+  .plan ul { margin: 8px 0 0; padding-left: 18px; color: var(--muted); font-size: 12.5px; }
+  pre {
+    margin: 0; max-height: 320px; overflow: auto; background: #17181a; color: #d6e0d0;
+    padding: 12px; border-radius: 10px; font-size: 12px; line-height: 1.5; white-space: pre-wrap;
+  }
+  .hidden { display: none; }
+  a { color: #1f5fbf; }
+  .hint { color: var(--muted); font-size: 12.5px; margin: 6px 0 0; }
+  code { background: #ebe7de; padding: 1px 5px; border-radius: 5px; font-size: 12px; }
+</style>
+</head>
+<body>
+<header>
+  <strong>Skillry backend</strong>
+  <span class="pill" id="p-env">…</span>
+  <span class="pill" id="p-google">google</span>
+  <span class="pill" id="p-pancake">pancake</span>
+  <span class="who" id="who">未登录</span>
+</header>
+<div id="authError" class="hidden" style="padding:10px 20px;background:#fdecea;border-bottom:1px solid #f2c2bd;color:#7a1c14;font-size:13px"></div>
+
+<main>
+  <div style="display:grid; gap:16px; align-content:start">
+    <section id="sec-auth">
+      <h2>1 · 账号</h2>
+      <div class="row">
+        <input id="email" type="email" placeholder="you@example.com" value="demo@example.com" autocomplete="username">
+        <input id="password" type="password" placeholder="密码（≥10 位）" value="demo-password-123" autocomplete="current-password">
+      </div>
+      <div class="row">
+        <input id="workspaceName" type="text" placeholder="工作区名称（可选）">
+      </div>
+      <div class="row">
+        <button id="btn-register" class="accent">注册</button>
+        <button id="btn-login">登录</button>
+        <button id="btn-google" class="ghost">用 Google 登录</button>
+        <button id="btn-logout" class="ghost">退出</button>
+      </div>
+      <p class="hint">开发模式下邮件不会真的发出：验证 / 重置链接会打印在服务端控制台，也可以点下面的「开发收件箱」查看。</p>
+    </section>
+
+    <section>
+      <h2>2 · 租户（工作区）</h2>
+      <div class="row"><select id="tenants"></select>
+        <button id="btn-switch" class="ghost">切换</button>
+        <button id="btn-new-tenant" class="ghost">新建工作区</button>
+      </div>
+      <div class="row">
+        <button id="btn-members" class="ghost">成员列表</button>
+        <input id="inviteEmail" type="email" placeholder="邀请邮箱">
+        <button id="btn-invite" class="ghost">发邀请</button>
+      </div>
+      <div class="row">
+        <span class="pill" id="p-tenant">workspace</span>
+        <span class="pill" id="p-ent">entitlement</span>
+      </div>
+    </section>
+
+    <section>
+      <h2>3 · 订阅与支付（Waffo Pancake）</h2>
+      <div class="row">
+        <select id="currency">
+          <option>USD</option><option>EUR</option><option>GBP</option><option>JPY</option>
+        </select>
+        <button id="btn-refresh-plans" class="ghost">刷新套餐</button>
+        <button id="btn-sub" class="ghost">当前订阅</button>
+      </div>
+      <div id="plans"></div>
+      <div class="row">
+        <button id="btn-cancel" class="ghost">取消订阅</button>
+        <button id="btn-portal" class="ghost">客户门户</button>
+        <button id="btn-payments" class="ghost">支付流水</button>
+        <button id="btn-grant" class="ghost">开发：直接授予权益</button>
+      </div>
+      <p class="hint">测试卡号：<code>4576 7500 0000 0110</code> 成功，<code>4576 7500 0000 0220</code> 失败（有效期任意、CVC 任意）。</p>
+    </section>
+
+    <section>
+      <h2>4 · 开发工具</h2>
+      <div class="row">
+        <button id="btn-outbox" class="ghost">开发收件箱</button>
+        <button id="btn-hooks" class="ghost">Webhook 记录</button>
+        <button id="btn-health" class="ghost">健康检查</button>
+      </div>
+    </section>
+  </div>
+
+  <section style="align-self:start">
+    <h2>响应 / 事件</h2>
+    <pre id="log">就绪。</pre>
+  </section>
+</main>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const log = (label, data) => {
+  const stamp = new Date().toLocaleTimeString();
+  const body = typeof data === "string" ? data : JSON.stringify(data, null, 2);
+  $("log").textContent = `[${stamp}] ${label}\n${body}\n\n` + $("log").textContent;
+};
+
+async function api(path, { method = "GET", body } = {}) {
+  const res = await fetch(path, {
+    method,
+    headers: body ? { "content-type": "application/json" } : undefined,
+    body: body ? JSON.stringify(body) : undefined,
+    credentials: "same-origin",
+  });
+  const text = await res.text();
+  let payload = text;
+  try { payload = JSON.parse(text); } catch {}
+  if (!res.ok) {
+    log(`${method} ${path} → ${res.status}`, payload);
+    throw Object.assign(new Error("request failed"), { status: res.status, payload });
+  }
+  log(`${method} ${path} → ${res.status}`, payload);
+  return payload;
+}
+
+async function refreshMe() {
+  const me = await api("/api/auth/me");
+  const select = $("tenants");
+  select.innerHTML = "";
+  for (const tenant of me.tenants) {
+    const option = document.createElement("option");
+    option.value = tenant.id;
+    option.textContent = `${tenant.name} · ${tenant.role}`;
+    if (tenant.id === me.activeTenantId) option.selected = true;
+    select.append(option);
+  }
+  $("who").textContent = me.user ? `${me.user.email}${me.user.emailVerified ? " ✓" : ""}` : "未登录";
+  $("p-tenant").textContent = me.activeTenantId ? me.activeTenantId : "no workspace";
+  $("p-tenant").className = "pill" + (me.activeTenantId ? " on" : " off");
+  await refreshEntitlement();
+}
+
+async function refreshEntitlement() {
+  try {
+    const { entitlements } = await api("/api/billing/entitlements");
+    $("p-ent").textContent = entitlements.active
+      ? `权益有效 · ${entitlements.planCode} (${entitlements.reason})`
+      : `无权益 · ${entitlements.reason}`;
+    $("p-ent").className = "pill" + (entitlements.active ? " on" : " off");
+  } catch {
+    $("p-ent").textContent = "无法读取权益";
+    $("p-ent").className = "pill off";
+  }
+}
+
+async function refreshPlans() {
+  const data = await api("/api/billing/plans");
+  const host = $("plans");
+  host.innerHTML = "";
+  for (const plan of data.plans) {
+    const el = document.createElement("div");
+    el.className = "plan" + (plan.billingPeriod === "yearly" ? " feat" : "");
+    el.innerHTML = `
+      <h3>${plan.name}</h3>
+      <div class="amt">${plan.currency} ${plan.amount}
+        <small>/ ${plan.billingPeriod ?? "one-time"}</small></div>
+      <div class="hint">${plan.description ?? ""}</div>
+      <ul>${plan.features.map((f) => `<li>${f}</li>`).join("")}</ul>`;
+    const button = document.createElement("button");
+    button.textContent = plan.ready ? "订阅" : "未在 Pancake 创建";
+    button.disabled = !plan.ready || !data.checkoutAvailable;
+    button.className = "accent";
+    button.style.marginTop = "8px";
+    button.onclick = async () => {
+      const session = await api("/api/billing/checkout", {
+        method: "POST",
+        body: { planCode: plan.code, currency: $("currency").value },
+      });
+      // Per the integration guide: open checkout in a new tab, never location.href.
+      window.open(session.checkoutUrl, "_blank", "noopener,noreferrer");
+      log("checkout session", session);
+    };
+    el.append(button);
+    host.append(el);
+  }
+  if (data.plans.length === 0) host.textContent = "没有套餐，请先 npm run pancake:setup";
+}
+
+(async function boot() {
+  // Surface a Google sign-in failure with an actionable hint.
+  const params = new URLSearchParams(location.search);
+  const authError = params.get("auth_error");
+  if (authError) {
+    const hints = {
+      access_denied: "你取消了 Google 授权，或该账号不在「测试用户」名单里（OAuth 同意屏幕处于「测试」状态时只有测试用户可以登录）。",
+      redirect_uri_mismatch: "回调地址不匹配：把 http://localhost:8787/auth/google/callback 一字不差地加到 Google OAuth 客户端的「已获授权的重定向 URI」。",
+      invalid_client: "client id 或 client secret 不对，检查 .env 里那两个值。",
+      invalid_grant: "授权码已失效，请重新点一次「用 Google 登录」。",
+      google_unreachable: "服务端连不上 Google。浏览器能打开 Google 不代表服务器也能 —— 给服务端配 OUTBOUND_PROXY_URL，或把后端部署到能访问 Google 的机器。",
+      unavailable: "Google 登录未配置（.env 里缺少 GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET）。",
+    };
+    const detail = params.get("auth_message");
+    $("authError").textContent =
+      `Google 登录失败：${hints[authError] ?? authError}` + (detail ? `　｜　${detail}` : "");
+    $("authError").classList.remove("hidden");
+    history.replaceState(null, "", location.pathname);
+  }
+
+  const health = await api("/api/health");
+  $("p-env").textContent = health.env;
+  $("p-google").textContent = health.google ? "google ✓" : "google ✗";
+  $("p-google").className = "pill " + (health.google ? "on" : "off");
+  $("p-pancake").textContent = health.pancake.configured
+    ? `pancake ✓ ${health.pancake.environment}`
+    : "pancake ✗";
+  $("p-pancake").className = "pill " + (health.pancake.configured ? "on" : "off");
+  $("btn-google").disabled = !health.google;
+  await refreshMe();
+  await refreshPlans();
+})();
+
+/* ------------------------------------------------------------------ events */
+$("btn-register").onclick = async () => {
+  await api("/api/auth/register", {
+    method: "POST",
+    body: {
+      email: $("email").value,
+      password: $("password").value,
+      workspaceName: $("workspaceName").value || undefined,
+    },
+  });
+  $("workspaceName").value = "";
+  await refreshMe();
+  await refreshPlans();
+};
+
+$("btn-login").onclick = async () => {
+  await api("/api/auth/login", {
+    method: "POST",
+    body: { email: $("email").value, password: $("password").value },
+  });
+  await refreshMe();
+  await refreshPlans();
+};
+
+$("btn-logout").onclick = async () => { await api("/api/auth/logout", { method: "POST" }); await refreshMe(); };
+  $("btn-google").onclick = () => { window.location.href = "/auth/google"; };
+
+$("btn-switch").onclick = async () => {
+  await api("/api/auth/active-tenant", { method: "POST", body: { tenantId: $("tenants").value } });
+  await refreshMe();
+};
+
+$("btn-new-tenant").onclick = async () => {
+  const name = prompt("工作区名称");
+  if (!name) return;
+  await api("/api/tenants", { method: "POST", body: { name } });
+  await refreshMe();
+};
+
+$("btn-members").onclick = () => api("/api/tenants/current/members");
+$("btn-invite").onclick = async () => {
+  const email = $("inviteEmail").value;
+  if (!email) return;
+  await api("/api/tenants/current/invites", { method: "POST", body: { email } });
+  $("inviteEmail").value = "";
+};
+
+$("btn-refresh-plans").onclick = refreshPlans;
+$("btn-sub").onclick = () => api("/api/billing/subscription");
+$("btn-cancel").onclick = async () => { await api("/api/billing/cancel", { method: "POST" }); await refreshEntitlement(); };
+$("btn-portal").onclick = async () => {
+  const { portalUrl } = await api("/api/billing/portal", { method: "POST" });
+  window.open(portalUrl, "_blank", "noopener,noreferrer");
+};
+$("btn-payments").onclick = () => api("/api/billing/payments");
+$("btn-grant").onclick = async () => { await api("/api/dev/grant", { method: "POST", body: { planCode: "pro_monthly" } }); await refreshEntitlement(); };
+
+$("btn-outbox").onclick = () => api("/api/dev/outbox");
+$("btn-hooks").onclick = () => api("/api/billing/webhook-events");
+$("btn-health").onclick = () => api("/api/health");
+</script>
+</body>
+</html>
