@@ -116,7 +116,9 @@ app.use(
 app.get("/terms", (_req, res) => res.sendFile(join(publicDir, "terms.html")));
 app.get("/privacy", (_req, res) => res.sendFile(join(publicDir, "privacy.html")));
 app.get("/.well-known/waffo-verify.txt", (_req, res) =>
-  res.type("text/plain").sendFile(join(publicDir, ".well-known", "waffo-verify.txt"))
+  res
+    .type("text/plain")
+    .sendFile(join(publicDir, ".well-known", "waffo-verify.txt"), { dotfiles: "allow" })
 );
 app.use(webRouter);
 
