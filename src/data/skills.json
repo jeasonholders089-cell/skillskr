@@ -1,0 +1,1770 @@
+[
+ {
+  "slug": "bs-linear-agent-style-launch-video",
+  "title": "Linear Agent Style Launch Video",
+  "output": "Video",
+  "free": false,
+  "new": true,
+  "installs": 22,
+  "bookmarks": 6,
+  "preview": "/assets/skills/bs-linear-agent-style-launch-video/media/preview-1.webp",
+  "placeholder": "#cbcadb",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   }
+  ],
+  "shelves": [
+   "featured"
+  ]
+ },
+ {
+  "slug": "bs-notion-style-localize-video",
+  "title": "Notion Style Localize Video",
+  "output": "Video",
+  "free": false,
+  "new": true,
+  "installs": 29,
+  "bookmarks": 6,
+  "preview": "/assets/skills/bs-notion-style-localize-video/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "featured",
+   "trending",
+   "Trending Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-pixel-promo",
+  "title": "Pixel Promo Video",
+  "output": "Video",
+  "free": false,
+  "new": true,
+  "installs": 49,
+  "bookmarks": 13,
+  "preview": "/assets/skills/bs-hyperframes-pixel-promo/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   },
+   {
+    "name": "Claude Opus 5.5 (Anthropic)",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   }
+  ],
+  "shelves": [
+   "featured",
+   "trending",
+   "Trending Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-manus2-0-style-launch-video",
+  "title": "Manus 2.0 Style Launch Video",
+  "output": "Video",
+  "free": false,
+  "new": false,
+  "installs": 179,
+  "bookmarks": 25,
+  "preview": "/assets/skills/bs-manus2-0-style-launch-video/media/preview-1.webp",
+  "placeholder": "#e4d0cf",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "Seedance (ByteDance)",
+    "src": "/assets/bytedance-color-BAyoGV7g.svg"
+   }
+  ],
+  "shelves": [
+   "featured",
+   "trending",
+   "Trending Video Skills",
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-dot-avatar-maker",
+  "title": "Dot Avatar Maker",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 383,
+  "bookmarks": 21,
+  "preview": "/assets/skills/bs-dot-avatar-maker/media/preview-1.webp",
+  "placeholder": "#d97757",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "featured",
+   "free",
+   "trending",
+   "Trending Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-procreate-style-og",
+  "title": "Procreate Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 41,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-procreate-style-og/media/preview-1.webp",
+  "placeholder": "#d97757",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "featured",
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-cadence-marketing-landing",
+  "title": "Cadence Marketing Landing",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 232,
+  "bookmarks": 8,
+  "preview": "/assets/skills/bs-cadence-marketing-landing/media/preview-1.webp",
+  "placeholder": "#b36d85",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "featured",
+   "trending",
+   "Trending Web Skills",
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-goodnotes-style-og",
+  "title": "Goodnotes Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 42,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-goodnotes-style-og/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "featured",
+   "trending",
+   "Trending Image Skills",
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-creatormotion-type-title-takeover",
+  "title": "CreatorMotion · Title Scene Takeover",
+  "output": "Video",
+  "free": true,
+  "new": false,
+  "installs": 574,
+  "bookmarks": 16,
+  "preview": "/assets/skills/bs-creatormotion-type-title-takeover/media/preview-1.webp",
+  "placeholder": "#6a9bcc",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "free",
+   "trending",
+   "Trending Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-grokbot-avatar",
+  "title": "GrokBot Avatar",
+  "output": "Image",
+  "free": true,
+  "new": false,
+  "installs": 238,
+  "bookmarks": 7,
+  "preview": "/assets/skills/bs-grokbot-avatar/media/preview-1.webp",
+  "placeholder": "#e4d0cf",
+  "tools": [
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "Codex",
+    "src": "/assets/codex-color-DxVtZdUr.svg"
+   }
+  ],
+  "shelves": [
+   "free"
+  ]
+ },
+ {
+  "slug": "bs-playful-primary-classroom-deck",
+  "title": "Playful Primary Classroom Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 50,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-playful-primary-classroom-deck/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "free",
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-creatormotion-cards-action-checklist",
+  "title": "CreatorMotion · Synchronized Action Checklist",
+  "output": "Video",
+  "free": true,
+  "new": false,
+  "installs": 369,
+  "bookmarks": 6,
+  "preview": "/assets/skills/bs-creatormotion-cards-action-checklist/media/preview-1.webp",
+  "placeholder": "#629987",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "free",
+   "trending",
+   "Trending Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-sage-sneaker-store",
+  "title": "Sage Sneaker Store",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 174,
+  "bookmarks": 7,
+  "preview": "/assets/skills/bs-sage-sneaker-store/media/preview-1.webp",
+  "placeholder": "#7497b5",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "free",
+   "trending",
+   "Trending Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-hand-drawn-visual-notes",
+  "title": "Hand-Drawn Visual Notes",
+  "output": "Image",
+  "free": true,
+  "new": false,
+  "installs": 301,
+  "bookmarks": 6,
+  "preview": "/assets/skills/bs-hand-drawn-visual-notes/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "free"
+  ]
+ },
+ {
+  "slug": "bs-field-notes-deck",
+  "title": "Field Notes Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 208,
+  "bookmarks": 6,
+  "preview": "/assets/skills/bs-field-notes-deck/media/preview-1.webp",
+  "placeholder": "#6a9bcc",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "free",
+   "trending",
+   "Trending Slide Skills",
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-cobalt-serif-freelancer-site",
+  "title": "Cobalt Serif Freelancer Site",
+  "output": "Web",
+  "free": false,
+  "new": false,
+  "installs": 50,
+  "bookmarks": 7,
+  "preview": "/assets/skills/bs-cobalt-serif-freelancer-site/media/preview-1.webp",
+  "placeholder": "#c0d1c9",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-cutpaper-collective-site",
+  "title": "Cut-Paper Collective Site",
+  "output": "Web",
+  "free": false,
+  "new": false,
+  "installs": 49,
+  "bookmarks": 3,
+  "preview": "/assets/skills/bs-cutpaper-collective-site/media/preview-1.webp",
+  "placeholder": "#6a9bcc",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-slate-admin-console",
+  "title": "Slate Admin Console",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 225,
+  "bookmarks": 7,
+  "preview": "/assets/skills/bs-slate-admin-console/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-hero-minimal-motion",
+  "title": "Minimal Motion Hero",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 191,
+  "bookmarks": 3,
+  "preview": "/assets/skills/bs-hero-minimal-motion/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-data-visualization-activity-calendar",
+  "title": "Activity Calendar Chart",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 154,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-data-visualization-activity-calendar/media/preview-1.webp",
+  "placeholder": "#c0d1c9",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-yellow-sketchnote-deck",
+  "title": "Yellow Sketchnote Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 195,
+  "bookmarks": 6,
+  "preview": "/assets/skills/bs-yellow-sketchnote-deck/media/preview-1.webp",
+  "placeholder": "#d97757",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Slide Skills",
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-editable-visual-deck",
+  "title": "Editable Visual Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 153,
+  "bookmarks": 4,
+  "preview": "/assets/skills/bs-editable-visual-deck/media/preview-1.webp",
+  "placeholder": "#6a9bcc",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-sky-glass-deck",
+  "title": "Sky Glass Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 146,
+  "bookmarks": 6,
+  "preview": "/assets/skills/bs-sky-glass-deck/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Slide Skills",
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-brand-story-deck",
+  "title": "Brand Story Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 151,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-brand-story-deck/media/preview-1.webp",
+  "placeholder": "#d97757",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-image-narrative-deck",
+  "title": "Image Narrative Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 142,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-image-narrative-deck/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-inclusive-cutpaper-deck",
+  "title": "Inclusive Cutpaper Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 143,
+  "bookmarks": 3,
+  "preview": "/assets/skills/bs-inclusive-cutpaper-deck/media/preview-1.webp",
+  "placeholder": "#7497b5",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Slide Skills",
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-consulting-storyline-deck",
+  "title": "Consulting Storyline Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 127,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-consulting-storyline-deck/media/preview-1.webp",
+  "placeholder": "#e4d0cf",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-velocity-sting",
+  "title": "Velocity-Matched UI Sting",
+  "output": "Video",
+  "free": true,
+  "new": false,
+  "installs": 687,
+  "bookmarks": 29,
+  "preview": "/assets/skills/bs-hyperframes-velocity-sting/media/preview-1.webp",
+  "placeholder": "#d97757",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-device-canvas-launch",
+  "title": "Device-Canvas Product Launch",
+  "output": "Video",
+  "free": true,
+  "new": false,
+  "installs": 382,
+  "bookmarks": 14,
+  "preview": "/assets/skills/bs-hyperframes-device-canvas-launch/media/preview-1.webp",
+  "placeholder": "#e4d0cf",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Video Skills",
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-agent-chorus-reel",
+  "title": "Agent-Chorus Capability Reel",
+  "output": "Video",
+  "free": true,
+  "new": false,
+  "installs": 347,
+  "bookmarks": 14,
+  "preview": "/assets/skills/bs-hyperframes-agent-chorus-reel/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Video Skills",
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-paperline-content-illustrator",
+  "title": "Paperline Content Illustrator",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 51,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-paperline-content-illustrator/media/preview-1.webp",
+  "placeholder": "#cbcadb",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Image Skills",
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-apple-style-og",
+  "title": "Apple Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 49,
+  "bookmarks": 3,
+  "preview": "/assets/skills/bs-apple-style-og/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-shopify-style-og",
+  "title": "Shopify Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 40,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-shopify-style-og/media/preview-1.webp",
+  "placeholder": "#7497b5",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-figma-style-og",
+  "title": "Figma Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 43,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-figma-style-og/media/preview-1.webp",
+  "placeholder": "#cbcadb",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Image Skills",
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-duolingo-style-og",
+  "title": "Duolingo Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 40,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-duolingo-style-og/media/preview-1.webp",
+  "placeholder": "#c0d1c9",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-square-style-og",
+  "title": "Square Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 41,
+  "bookmarks": 3,
+  "preview": "/assets/skills/bs-square-style-og/media/preview-1.webp",
+  "placeholder": "#7497b5",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-wise-style-og",
+  "title": "Wise Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 40,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-wise-style-og/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "trending",
+   "Trending Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-split-frame-portfolio",
+  "title": "Split Frame Portfolio",
+  "output": "Web",
+  "free": false,
+  "new": false,
+  "installs": 45,
+  "bookmarks": 4,
+  "preview": "/assets/skills/bs-split-frame-portfolio/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-finora-banking-landing",
+  "title": "Finora Banking Landing",
+  "output": "Web",
+  "free": false,
+  "new": false,
+  "installs": 43,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-finora-banking-landing/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-editorial-studio-saas",
+  "title": "Editorial Studio SaaS",
+  "output": "Web",
+  "free": false,
+  "new": false,
+  "installs": 42,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-editorial-studio-saas/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-basalt-dev-portfolio",
+  "title": "Basalt Dev Portfolio",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 127,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-basalt-dev-portfolio/media/preview-1.webp",
+  "placeholder": "#d97757",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-liquid-glass-landing",
+  "title": "Liquid Glass Landing",
+  "output": "Web",
+  "free": false,
+  "new": false,
+  "installs": 44,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-liquid-glass-landing/media/preview-1.webp",
+  "placeholder": "#6a9bcc",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-orbit-startup-landing",
+  "title": "Orbit Startup Landing",
+  "output": "Web",
+  "free": false,
+  "new": false,
+  "installs": 42,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-orbit-startup-landing/media/preview-1.webp",
+  "placeholder": "#cbcadb",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-project-knowledge-graph",
+  "title": "Project Knowledge Graph",
+  "output": "Web",
+  "free": true,
+  "new": false,
+  "installs": 134,
+  "bookmarks": 5,
+  "preview": "/assets/skills/bs-project-knowledge-graph/media/preview-1.webp",
+  "placeholder": "#b36d85",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Web Skills"
+  ]
+ },
+ {
+  "slug": "bs-visual-canvas-deck",
+  "title": "Visual Canvas Deck",
+  "output": "Slides",
+  "free": false,
+  "new": false,
+  "installs": 48,
+  "bookmarks": 3,
+  "preview": "/assets/skills/bs-visual-canvas-deck/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-article-brief-deck",
+  "title": "Article Brief Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 122,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-article-brief-deck/media/preview-1.webp",
+  "placeholder": "#b36d85",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-learning-loop-deck",
+  "title": "Learning Loop Deck",
+  "output": "Slides",
+  "free": true,
+  "new": false,
+  "installs": 103,
+  "bookmarks": 1,
+  "preview": "/assets/skills/bs-learning-loop-deck/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Slide Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-format-shift-launch",
+  "title": "Format-Shift Argument Film",
+  "output": "Video",
+  "free": false,
+  "new": false,
+  "installs": 62,
+  "bookmarks": 4,
+  "preview": "/assets/skills/bs-hyperframes-format-shift-launch/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-halftone-canvas-launch",
+  "title": "Living-Halftone Canvas Film",
+  "output": "Video",
+  "free": false,
+  "new": false,
+  "installs": 68,
+  "bookmarks": 7,
+  "preview": "/assets/skills/bs-hyperframes-halftone-canvas-launch/media/preview-1.webp",
+  "placeholder": "#d1b198",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-frame-token-launch",
+  "title": "Frame-Token Editorial Launch",
+  "output": "Video",
+  "free": false,
+  "new": false,
+  "installs": 69,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-hyperframes-frame-token-launch/media/preview-1.webp",
+  "placeholder": "#629987",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-technical-drawing-promo",
+  "title": "Technical-Drawing Launch Promo",
+  "output": "Video",
+  "free": false,
+  "new": false,
+  "installs": 69,
+  "bookmarks": 3,
+  "preview": "/assets/skills/bs-hyperframes-technical-drawing-promo/media/preview-1.webp",
+  "placeholder": "#d97757",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-hyperframes-pain-gag-reveal-launch",
+  "title": "Pain-Gag Reveal Launch Film",
+  "output": "Video",
+  "free": false,
+  "new": false,
+  "installs": 64,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-hyperframes-pain-gag-reveal-launch/media/preview-1.webp",
+  "placeholder": "#c0d1c9",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "HyperFrames",
+    "src": "/assets/https://cdn.sanity.io/images/pdhqcmb1/production/83db2519472125eff4a047b07de4d49eb4d5f880-132x132.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Video Skills"
+  ]
+ },
+ {
+  "slug": "bs-monochrome-studio-portrait",
+  "title": "Monochrome Studio Portrait",
+  "output": "Image",
+  "free": true,
+  "new": false,
+  "installs": 177,
+  "bookmarks": 8,
+  "preview": "/assets/skills/bs-monochrome-studio-portrait/media/preview-1.webp",
+  "placeholder": "#629987",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-openai-style-og",
+  "title": "OpenAI Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 47,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-openai-style-og/media/preview-1.webp",
+  "placeholder": "#c0d1c9",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-stripe-style-og",
+  "title": "Stripe Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 43,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-stripe-style-og/media/preview-1.webp",
+  "placeholder": "#b36d85",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ },
+ {
+  "slug": "bs-material-design-style-og",
+  "title": "Material Design Style OG Image",
+  "output": "Image",
+  "free": false,
+  "new": false,
+  "installs": 41,
+  "bookmarks": 2,
+  "preview": "/assets/skills/bs-material-design-style-og/media/preview-1.webp",
+  "placeholder": "#7f8b65",
+  "tools": [
+   {
+    "name": "Claude Code",
+    "src": "/assets/claudecode-color-D0FKA8SV.svg"
+   },
+   {
+    "name": "Claude Desktop / Cowork",
+    "src": "/assets/claude-color-dJjxgD3o.svg"
+   },
+   {
+    "name": "ChatGPT",
+    "src": "/assets/openai-L0iksW7i.svg"
+   },
+   {
+    "name": "GPT Image (OpenAI)",
+    "src": "/assets/openai-L0iksW7i.svg"
+   }
+  ],
+  "shelves": [
+   "top-rated",
+   "Top-rated Image Skills"
+  ]
+ }
+]
