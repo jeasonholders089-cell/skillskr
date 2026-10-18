@@ -113,6 +113,8 @@ app.use(
     setHeaders: (res) => res.setHeader("Cache-Control", "no-cache"),
   })
 );
+app.get("/terms", (_req, res) => res.sendFile(join(publicDir, "terms.html")));
+app.get("/privacy", (_req, res) => res.sendFile(join(publicDir, "privacy.html")));
 app.use(webRouter);
 
 /* -------------------------------------------------------- dev-only utilities */
