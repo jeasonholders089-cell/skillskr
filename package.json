@@ -12,6 +12,7 @@
     "start": "node --disable-warning=ExperimentalWarning src/server.ts",
     "pancake:setup": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/pancake-setup.ts",
     "pancake:refresh": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/pancake-refresh.ts",
+    "pancake:webhook": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/pancake-webhook.ts",
     "db:reset": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/db-reset.ts",
     "test:billing": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/test-billing.ts",
     "test:google": "node --disable-warning=ExperimentalWarning scripts/test-google.ts",
