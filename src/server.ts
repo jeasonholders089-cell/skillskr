@@ -115,10 +115,12 @@ app.use(
 );
 app.get("/terms", (_req, res) => res.sendFile(join(publicDir, "terms.html")));
 app.get("/privacy", (_req, res) => res.sendFile(join(publicDir, "privacy.html")));
+app.get("/aigc-policy", (_req, res) => res.sendFile(join(publicDir, "aigc-policy.html")));
+// One-time Waffo domain-verification challenge. Kept inline because Zeabur's
+// upload ignores dot-directories; remove after verification if desired.
+const waffoDomainVerify = "55c5ace42ceb3f48a4a6bcac53415248";
 app.get("/.well-known/waffo-verify.txt", (_req, res) =>
-  res
-    .type("text/plain")
-    .sendFile(join(publicDir, ".well-known", "waffo-verify.txt"), { dotfiles: "allow" })
+  res.type("text/plain").send(waffoDomainVerify)
 );
 app.use(webRouter);
 
