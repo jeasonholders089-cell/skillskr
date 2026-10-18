@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="skillskr">
+  <rect width="512" height="512" rx="120" fill="#101110"/>
+  <path
+    d="M382 154C360 116 319 94 257 94c-72 0-114 34-114 83 0 47 39 66 112 78 71 12 111 33 111 82 0 49-45 81-113 81-64 0-108-23-127-62"
+    fill="none"
+    stroke="#F5F0E7"
+    stroke-width="56"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="402" cy="128" r="25" fill="#E9FF73"/>
+</svg>

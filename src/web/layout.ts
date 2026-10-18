@@ -57,6 +57,7 @@ export function renderPage(input: {
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(description)}">
 <meta name="theme-color" content="#0b0b0b">
+<link rel="icon" href="/assets/logo-mark.svg" type="image/svg+xml">
 <link rel="icon" href="/assets/favicon-32x32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/styles.css">
