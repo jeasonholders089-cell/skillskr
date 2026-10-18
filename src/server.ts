@@ -13,7 +13,7 @@ import { googleCallback, googleStatus, startGoogleLogin } from "./auth/google.ts
 import { tenantRouter } from "./tenants/routes.ts";
 import { billingRouter } from "./billing/routes.ts";
 import { pancakeWebhook } from "./billing/webhook.ts";
-import { seedPlanCatalog } from "./billing/seed.ts";
+import { linkPancakeProducts, seedPlanCatalog } from "./billing/seed.ts";
 import { seedSkillsIfEmpty } from "./repos/skills.ts";
 import { webRouter } from "./web/routes.ts";
 import { downloadRouter } from "./skills/downloads.ts";
@@ -31,6 +31,7 @@ const publicDir = join(here, "..", "public");
 
 openDatabase();
 seedPlanCatalog();
+linkPancakeProducts();
 seedSkillsIfEmpty();
 
 const app = express();
@@ -49,14 +50,20 @@ app.use(express.urlencoded({ extended: false }));
 
 /* ------------------------------------------------------------------- health -- */
 app.get("/api/health", (_req, res) => {
+  const billablePlans = listPlans(false).filter((plan) => plan.code !== "free");
   res.json({
     ok: true,
     env: config.env,
+    database: config.databasePath,
     google: config.google.configured,
     pancake: {
       configured: config.pancake.configured,
       storeId: config.pancake.storeId || null,
       environment: config.pancake.environment,
+    },
+    plans: {
+      total: billablePlans.length,
+      ready: billablePlans.filter((plan) => plan.pancake_product_id).length,
     },
     time: new Date().toISOString(),
   });
