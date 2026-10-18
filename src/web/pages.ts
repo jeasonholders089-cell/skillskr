@@ -104,7 +104,7 @@ export function skillsPage(input: {
 
   return renderPage({
     title: "Agent Skills catalog",
-    description: "Browse every Skillry Agent Skill: web, slides, video and image workflows.",
+    description: "Browse every skillskr Agent Skill: web, slides, video and image workflows.",
     body,
     scripts: ["/assets/site.js"],
   });
@@ -140,7 +140,7 @@ export function skillDetailPage(input: {
       </div>
       <h1 class="detail-title">${escapeHtml(skill.title)}</h1>
       <p class="detail-summary">
-        A ${escapeHtml(skill.output.toLowerCase())} Skill from the Skillry studio. Install it once and your
+        A ${escapeHtml(skill.output.toLowerCase())} Skill from the skillskr studio. Install it once and your
         agent can reproduce this result on your own material.
       </p>
       <div class="detail-stats">

@@ -94,7 +94,7 @@
     overlay.innerHTML =
       '<div class="auth-card" role="dialog" aria-modal="true" aria-labelledby="auth-title">' +
       '<button type="button" class="auth-close" data-auth-close aria-label="Close">&times;</button>' +
-      '<h2 class="auth-title" id="auth-title">Welcome to Skillry</h2>' +
+      '<h2 class="auth-title" id="auth-title">Welcome to skillskr</h2>' +
       '<p class="auth-sub">Sign in to install Skills and manage your workspace.</p>' +
       '<div class="auth-tabs" role="tablist">' +
       '<button type="button" class="auth-tab is-active" data-auth-tab="login" role="tab">Sign in</button>' +

@@ -41,10 +41,10 @@ export function renderPage(input: {
   scripts?: string[];
 }): string {
   const { header, footer } = chrome();
-  const title = input.title.includes("Skillry") ? input.title : `${input.title} · Skillry`;
+  const title = input.title.includes("skillskr") ? input.title : `${input.title} · skillskr`;
   const description =
     input.description ??
-    "Skillry designs original Agent Skills for Claude Code, Codex and Cursor.";
+    "skillskr designs original Agent Skills for Claude Code, Codex and Cursor.";
   const scripts = (input.scripts ?? ["/assets/app.js", "/assets/site.js"])
     .map((src) => `<script src="${src}"></script>`)
     .join("\n");

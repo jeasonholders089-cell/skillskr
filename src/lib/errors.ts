@@ -51,7 +51,7 @@ export function errorMiddleware(
         .send(`<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>${err.status} · Skillry</title>
+<title>${err.status} · skillskr</title>
 <link rel="stylesheet" href="/assets/styles.css">
 <link rel="stylesheet" href="/assets/app-extras.css">
 </head><body>
