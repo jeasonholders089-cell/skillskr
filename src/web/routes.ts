@@ -28,7 +28,7 @@ webRouter.get(
       q: q || undefined,
       output: validOutput,
       free,
-      limit: 120,
+      limit: 500,
     });
 
     res.type("html").send(

@@ -1,8 +1,9 @@
 import { readFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import { all, get, run } from "../db.ts";
+import { all, get, run, transaction } from "../db.ts";
 import { nowIso } from "../lib/http.ts";
+import { config } from "../config.ts";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const SEED_PATH = resolve(here, "..", "data", "skills.json");
@@ -17,6 +18,8 @@ export interface SkillRow {
   installs: number;
   bookmarks: number;
   preview_url: string | null;
+  video_url: string | null;
+  version: string | null;
   placeholder: string | null;
   tools_json: string;
   shelves_json: string;
@@ -34,10 +37,18 @@ export interface PublicSkill {
   installs: number;
   bookmarks: number;
   preview: string | null;
+  video: string | null;
+  version: string | null;
   placeholder: string | null;
   tools: Array<{ name: string; src: string }>;
   shelves: string[];
   requiresSubscription: boolean;
+}
+
+function assetUrl(value: string | null): string | null {
+  if (!value) return null;
+  if (/^https?:\/\//i.test(value) || value.startsWith("/assets/")) return value;
+  return `${config.mediaBaseUrl}${value.startsWith("/") ? "" : "/"}${value}`;
 }
 
 export function toPublicSkill(row: SkillRow): PublicSkill {
@@ -50,7 +61,9 @@ export function toPublicSkill(row: SkillRow): PublicSkill {
     isNew: Boolean(row.is_new),
     installs: row.installs,
     bookmarks: row.bookmarks,
-    preview: row.preview_url,
+    preview: assetUrl(row.preview_url),
+    video: assetUrl(row.video_url),
+    version: row.version,
     placeholder: row.placeholder,
     tools: JSON.parse(row.tools_json) as Array<{ name: string; src: string }>,
     shelves: JSON.parse(row.shelves_json) as string[],
@@ -66,17 +79,17 @@ interface SeedSkill {
   new: boolean;
   installs: number;
   bookmarks: number;
+  summary?: string | null;
   preview: string | null;
+  video?: string | null;
+  version?: string | null;
   placeholder: string | null;
   tools: Array<{ name: string; src: string }>;
   shelves: string[];
 }
 
-/** Seed the catalog once. Re-running is a no-op unless the table is empty. */
-export function seedSkillsIfEmpty(): void {
-  const existing = get<{ n: number }>("SELECT COUNT(*) AS n FROM skills")?.n ?? 0;
-  if (existing > 0) return;
-
+/** Upsert the catalog at boot so deploys can add and refresh Skills. */
+export function seedSkills(): void {
   let seed: SeedSkill[];
   try {
     seed = JSON.parse(readFileSync(SEED_PATH, "utf-8")) as SeedSkill[];
@@ -86,29 +99,48 @@ export function seedSkillsIfEmpty(): void {
   }
 
   const ts = nowIso();
-  for (const skill of seed) {
-    run(
-      `INSERT INTO skills (slug, title, summary, output, is_free, is_new, installs, bookmarks,
-                           preview_url, placeholder, tools_json, shelves_json, created_at, updated_at)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-       ON CONFLICT (slug) DO NOTHING`,
-      skill.slug,
-      skill.title,
-      null,
-      skill.output,
-      skill.free ? 1 : 0,
-      skill.new ? 1 : 0,
-      skill.installs,
-      skill.bookmarks,
-      skill.preview,
-      skill.placeholder,
-      JSON.stringify(skill.tools ?? []),
-      JSON.stringify(skill.shelves ?? []),
-      ts,
-      ts
-    );
-  }
-  console.log(`[skills] seeded ${seed.length} skills`);
+  transaction(() => {
+    for (const skill of seed) {
+      run(
+        `INSERT INTO skills (slug, title, summary, output, is_free, is_new, installs, bookmarks,
+                             preview_url, video_url, version, placeholder, tools_json, shelves_json,
+                             created_at, updated_at)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+         ON CONFLICT (slug) DO UPDATE SET
+           title = excluded.title,
+           summary = excluded.summary,
+           output = excluded.output,
+           is_free = excluded.is_free,
+           is_new = excluded.is_new,
+           installs = excluded.installs,
+           bookmarks = excluded.bookmarks,
+           preview_url = excluded.preview_url,
+           video_url = excluded.video_url,
+           version = excluded.version,
+           placeholder = excluded.placeholder,
+           tools_json = excluded.tools_json,
+           shelves_json = excluded.shelves_json,
+           updated_at = excluded.updated_at`,
+        skill.slug,
+        skill.title,
+        skill.summary ?? null,
+        skill.output,
+        skill.free ? 1 : 0,
+        skill.new ? 1 : 0,
+        skill.installs,
+        skill.bookmarks,
+        skill.preview,
+        skill.video ?? null,
+        skill.version ?? null,
+        skill.placeholder,
+        JSON.stringify(skill.tools ?? []),
+        JSON.stringify(skill.shelves ?? []),
+        ts,
+        ts
+      );
+    }
+  });
+  console.log(`[skills] upserted ${seed.length} skills`);
 }
 
 export interface SkillQuery {
@@ -150,7 +182,7 @@ export function listSkills(query: SkillQuery = {}): { skills: PublicSkill[]; tot
 
   const clause = where.length ? `WHERE ${where.join(" AND ")}` : "";
   const order = SORT_SQL[query.sort ?? "popular"] ?? SORT_SQL.popular;
-  const limit = Math.min(Math.max(query.limit ?? 60, 1), 200);
+  const limit = Math.min(Math.max(query.limit ?? 60, 1), 500);
   const offset = Math.max(query.offset ?? 0, 0);
 
   const rows = all<SkillRow>(

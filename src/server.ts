@@ -14,7 +14,7 @@ import { tenantRouter } from "./tenants/routes.ts";
 import { billingRouter } from "./billing/routes.ts";
 import { pancakeWebhook } from "./billing/webhook.ts";
 import { linkPancakeProducts, seedPlanCatalog } from "./billing/seed.ts";
-import { seedSkillsIfEmpty } from "./repos/skills.ts";
+import { seedSkills } from "./repos/skills.ts";
 import { webRouter } from "./web/routes.ts";
 import { downloadRouter } from "./skills/downloads.ts";
 import {
@@ -32,7 +32,7 @@ const publicDir = join(here, "..", "public");
 openDatabase();
 seedPlanCatalog();
 linkPancakeProducts();
-seedSkillsIfEmpty();
+seedSkills();
 
 const app = express();
 app.disable("x-powered-by");
@@ -115,6 +115,9 @@ app.use(
 );
 app.get("/terms", (_req, res) => res.sendFile(join(publicDir, "terms.html")));
 app.get("/privacy", (_req, res) => res.sendFile(join(publicDir, "privacy.html")));
+app.get("/.well-known/waffo-verify.txt", (_req, res) =>
+  res.type("text/plain").sendFile(join(publicDir, ".well-known", "waffo-verify.txt"))
+);
 app.use(webRouter);
 
 /* -------------------------------------------------------- dev-only utilities */

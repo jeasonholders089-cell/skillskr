@@ -33,11 +33,15 @@ function skillCard(skill: PublicSkill, eager = false): string {
       <div class="card__media">
         <div class="card__frame" style="background-color:${escapeHtml(skill.placeholder ?? "#f7f7f5")}">
           ${
-            skill.preview
-              ? `<img class="card__img" src="${escapeHtml(skill.preview)}" alt="${escapeHtml(
-                  skill.title
-                )} preview" width="1280" height="720" loading="${eager ? "eager" : "lazy"}" decoding="async">`
-              : ""
+            skill.video
+              ? `<video class="card__img card__video" src="${escapeHtml(
+                  skill.video
+                )}" poster="${escapeHtml(skill.preview ?? "")}" muted loop playsinline preload="none" aria-hidden="true"></video>`
+              : skill.preview
+                ? `<img class="card__img" src="${escapeHtml(skill.preview)}" alt="${escapeHtml(
+                    skill.title
+                  )} preview" width="1280" height="720" loading="${eager ? "eager" : "lazy"}" decoding="async">`
+                : ""
           }
           <span class="card__scrim" aria-hidden="true"></span>
         </div>
@@ -135,18 +139,29 @@ export function skillDetailPage(input: {
   <div class="detail-grid">
     <div class="detail-main">
       <div class="detail-preview" style="background-color:${escapeHtml(skill.placeholder ?? "#f7f7f5")}">
-        ${skill.preview ? `<img src="${escapeHtml(skill.preview)}" alt="${escapeHtml(skill.title)} preview" width="1280" height="720">` : ""}
+        ${
+          skill.video
+            ? `<video src="${escapeHtml(skill.video)}" poster="${escapeHtml(
+                skill.preview ?? ""
+              )}" controls autoplay muted loop playsinline preload="metadata"></video>`
+            : skill.preview
+              ? `<img src="${escapeHtml(skill.preview)}" alt="${escapeHtml(skill.title)} preview" width="1280" height="720">`
+              : ""
+        }
         ${badge(skill)}
       </div>
       <h1 class="detail-title">${escapeHtml(skill.title)}</h1>
       <p class="detail-summary">
-        A ${escapeHtml(skill.output.toLowerCase())} Skill from the skillskr studio. Install it once and your
-        agent can reproduce this result on your own material.
+        ${escapeHtml(
+          skill.summary ??
+            `A ${skill.output.toLowerCase()} Skill from the skillskr studio. Install it once and your agent can reproduce this result on your own material.`
+        )}
       </p>
       <div class="detail-stats">
         <span>${skill.installs} installs</span>
         <span>${skill.bookmarks} saves</span>
         <span>${escapeHtml(skill.output)}</span>
+        ${skill.version ? `<span>v${escapeHtml(skill.version)}</span>` : ""}
       </div>
     </div>
     <aside class="detail-side">

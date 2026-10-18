@@ -94,6 +94,16 @@ export const config = {
   databasePath: str("DATABASE_PATH", "./data/app.db"),
 
   /**
+   * Prefix for preview media stored outside the app (the `skillskr/` folder in
+   * the growclawa OSS bucket). Seed values such as `/covers/<slug>.webp` are
+   * resolved against this base, while legacy `/assets/...` files stay local.
+   */
+  mediaBaseUrl: str(
+    "MEDIA_BASE_URL",
+    "https://growclawa.oss-cn-beijing.aliyuncs.com/skillskr"
+  ).replace(/\/+$/, ""),
+
+  /**
    * Optional egress proxy for third-party APIs. Required when the server itself
    * cannot reach Google (mainland China, locked-down VPCs, ...).
    */
@@ -149,6 +159,7 @@ export function describeConfig(): string[] {
     `env                 ${config.env}`,
     `listen              http://localhost:${config.port}`,
     `database            ${config.databasePath}`,
+    `media base          ${config.mediaBaseUrl}`,
     `google oauth        ${config.google.configured ? "configured" : "MISSING (email login only)"}`,
     `google redirect     ${config.google.redirectUri}`,
     `pancake merchant    ${config.pancake.merchantId ? mask(config.pancake.merchantId) : "MISSING"}`,

@@ -148,6 +148,8 @@ CREATE TABLE IF NOT EXISTS skills (
   installs     INTEGER NOT NULL DEFAULT 0,
   bookmarks    INTEGER NOT NULL DEFAULT 0,
   preview_url  TEXT,                               -- /assets/skills/<slug>/media/preview-1.webp
+  video_url    TEXT,                               -- /previews/<slug>.mp4, resolved via MEDIA_BASE_URL
+  version      TEXT,
   placeholder  TEXT,                               -- 预览图加载前的占位色
   tools_json   TEXT NOT NULL DEFAULT '[]',         -- [{name, src}]
   shelves_json TEXT NOT NULL DEFAULT '[]',         -- 出现在哪些货架/分组
