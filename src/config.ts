@@ -1,6 +1,19 @@
 import { readFileSync } from "node:fs";
 import { randomBytes } from "node:crypto";
 
+/**
+ * Load `.env` when present.
+ *
+ * Doing it here (instead of `node --env-file`) keeps one start command working
+ * both locally and on a platform that injects real environment variables: the
+ * file is optional, so a container without `.env` simply skips it.
+ */
+try {
+  process.loadEnvFile?.(".env");
+} catch {
+  // no .env next to the working directory — env comes from the platform
+}
+
 function str(name: string, fallback = ""): string {
   const raw = process.env[name];
   return raw === undefined || raw === "" ? fallback : raw;

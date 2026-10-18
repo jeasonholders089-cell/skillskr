@@ -8,8 +8,8 @@
     "node": ">=22.18"
   },
   "scripts": {
-    "dev": "node --env-file=.env --watch src/server.ts",
-    "start": "node --disable-warning=ExperimentalWarning --env-file=.env src/server.ts",
+    "dev": "node --watch src/server.ts",
+    "start": "node --disable-warning=ExperimentalWarning src/server.ts",
     "pancake:setup": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/pancake-setup.ts",
     "pancake:refresh": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/pancake-refresh.ts",
     "db:reset": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/db-reset.ts",
