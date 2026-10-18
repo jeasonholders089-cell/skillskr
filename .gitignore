@@ -6,3 +6,6 @@ keys/
 *.log
 .tmp/
 .DS_Store
+.zeabur-token
+.zeabur/
+ghkey.pub
