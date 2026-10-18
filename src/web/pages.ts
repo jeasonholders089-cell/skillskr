@@ -182,7 +182,7 @@ export function skillDetailPage(input: {
                 }">
               <img src="${escapeHtml(src)}" alt="${escapeHtml(
                 skill.title
-              )} preview ${index + 2}" loading="lazy" decoding="async" width="1280" height="720">
+              )} preview ${index + 2}" loading="lazy" decoding="async">
             </a>`
             )
             .join("")}
