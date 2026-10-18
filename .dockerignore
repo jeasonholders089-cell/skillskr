@@ -5,5 +5,10 @@ keys
 .env.*
 .tmp
 .git
+.gitignore
+.gitattributes
+.zeabur-token
+.zeabur
+ghkey.pub
 *.log
 work

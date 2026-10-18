@@ -12,14 +12,13 @@ WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci --omit=dev && npm cache clean --force
 
-COPY src ./src
-COPY public ./public
-COPY packs ./packs
-COPY scripts ./scripts
-COPY README.md NOTICE.md ./
+# Copy the rest of the build context. `.dockerignore` keeps secrets, node_modules
+# and local data out, and this form tolerates optional directories such as
+# `packs/` (which only exists once real skill packs are authored).
+COPY . .
 
 # The database lives on a mounted volume; create it so a fresh container starts.
-RUN mkdir -p /data && chown -R node:node /data /app
+RUN mkdir -p /data /app/packs && chown -R node:node /data /app
 
 USER node
 EXPOSE 8080
