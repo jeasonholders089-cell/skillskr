@@ -45,7 +45,7 @@ export function renderPage(input: {
   const description =
     input.description ??
     "skillskr designs original Agent Skills for Claude Code, Codex and Cursor.";
-  const scripts = (input.scripts ?? ["/assets/app.js", "/assets/site.js"])
+  const scripts = [...new Set(["/assets/app.js", ...(input.scripts ?? []), "/assets/site.js"])]
     .map((src) => `<script src="${src}"></script>`)
     .join("\n");
 
