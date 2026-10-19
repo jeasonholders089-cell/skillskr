@@ -75,6 +75,35 @@ webRouter.get(
   })
 );
 
+const OUTPUT_ALIASES: Record<string, string> = {
+  image: "Image",
+  video: "Video",
+  slides: "Slides",
+  web: "Web",
+};
+
+// The storefront navigation predates the query-based catalog. Keep these
+// canonical redirects so old category URLs never dead-end.
+webRouter.get("/skills/output/:slug", (req: Request, res: Response) => {
+  const output = OUTPUT_ALIASES[req.params.slug] ?? req.params.slug;
+  res.redirect(302, `/skills?output=${encodeURIComponent(output)}`);
+});
+webRouter.get("/skills/role/:slug", (req: Request, res: Response) => {
+  res.redirect(302, `/skills?role=${encodeURIComponent(req.params.slug)}`);
+});
+webRouter.get("/skills/use-case/:slug", (req: Request, res: Response) => {
+  res.redirect(302, `/skills?use_case=${encodeURIComponent(req.params.slug)}`);
+});
+webRouter.get("/skills/agent", (_req: Request, res: Response) => {
+  res.redirect(302, "/skills");
+});
+webRouter.get("/skills/agent/:slug", (_req: Request, res: Response) => {
+  res.redirect(302, "/skills");
+});
+webRouter.get("/skills/html-slides", (_req: Request, res: Response) => {
+  res.redirect(302, "/skills?output=Slides&q=html");
+});
+
 webRouter.get(
   "/skills/:slug",
   handler((req: Request, res: Response) => {

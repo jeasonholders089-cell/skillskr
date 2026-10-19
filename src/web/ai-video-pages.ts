@@ -184,7 +184,7 @@ export function aiVideoCollectionPage(input: {
       <a class="btn btn--dark" href="${isLanding ? "#video-skills" : "#ai-video-grid"}">${
         isLanding ? "Explore video Skills" : "Browse the videos"
       }</a>
-      <a class="btn btn--outline" href="${isLanding ? "/ai-videos" : "/skills/output/Video"}">${
+      <a class="btn btn--outline" href="${isLanding ? "/ai-videos" : "/skills?output=Video"}">${
         isLanding ? "All AI videos" : "Explore video Skills"
       }</a>
     </div>
@@ -215,7 +215,7 @@ export function aiVideoCollectionPage(input: {
       ? `<section id="video-skills" class="ai-related">
     <div class="ai-browser__head">
       <div><span class="eyebrow">Make your own</span><h2>Video Skills</h2></div>
-      <a class="btn btn--outline btn--slim" href="/skills/output/Video">All video Skills</a>
+      <a class="btn btn--outline btn--slim" href="/skills?output=Video">All video Skills</a>
     </div>
     <div class="skills-grid">${videoSkills
       .slice(0, isLanding ? 8 : 4)
