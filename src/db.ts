@@ -53,6 +53,10 @@ function applyAlterations(handle: DatabaseSync): void {
   ensureColumn(handle, "webhook_events", "tenant_id", "TEXT");
   ensureColumn(handle, "skills", "video_url", "TEXT");
   ensureColumn(handle, "skills", "gallery_json", "TEXT NOT NULL DEFAULT '[]'");
+  ensureColumn(handle, "skills", "roles_json", "TEXT NOT NULL DEFAULT '[]'");
+  ensureColumn(handle, "skills", "use_cases_json", "TEXT NOT NULL DEFAULT '[]'");
+  ensureColumn(handle, "skills", "agents_json", "TEXT NOT NULL DEFAULT '[]'");
+  ensureColumn(handle, "skills", "is_featured", "INTEGER NOT NULL DEFAULT 0");
   ensureColumn(handle, "skills", "version", "TEXT");
 }
 

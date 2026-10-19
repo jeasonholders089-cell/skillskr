@@ -150,6 +150,10 @@ CREATE TABLE IF NOT EXISTS skills (
   preview_url  TEXT,                               -- /assets/skills/<slug>/media/preview-1.webp
   video_url    TEXT,                               -- /previews/<slug>.mp4, resolved via MEDIA_BASE_URL
   gallery_json TEXT NOT NULL DEFAULT '[]',         -- ordered detail-page preview images
+  roles_json   TEXT NOT NULL DEFAULT '[]',
+  use_cases_json TEXT NOT NULL DEFAULT '[]',
+  agents_json  TEXT NOT NULL DEFAULT '[]',
+  is_featured  INTEGER NOT NULL DEFAULT 0,
   version      TEXT,
   placeholder  TEXT,                               -- 预览图加载前的占位色
   tools_json   TEXT NOT NULL DEFAULT '[]',         -- [{name, src}]
@@ -159,6 +163,42 @@ CREATE TABLE IF NOT EXISTS skills (
 );
 CREATE INDEX IF NOT EXISTS idx_skills_output ON skills (output, installs DESC);
 CREATE INDEX IF NOT EXISTS idx_skills_free ON skills (is_free, installs DESC);
+
+-- AI video collections (Fable 5.5, Opus 5.5, ...)
+CREATE TABLE IF NOT EXISTS ai_video_collections (
+  slug          TEXT PRIMARY KEY,
+  name          TEXT NOT NULL,
+  eyebrow       TEXT,
+  title         TEXT NOT NULL,
+  description   TEXT,
+  kind          TEXT NOT NULL DEFAULT 'grid',   -- grid | landing
+  sort_order    INTEGER NOT NULL DEFAULT 0
+);
+
+-- Individual videos scraped from the original collection pages.
+CREATE TABLE IF NOT EXISTS ai_videos (
+  id                   TEXT PRIMARY KEY,         -- collection/item
+  collection_slug      TEXT NOT NULL REFERENCES ai_video_collections (slug) ON DELETE CASCADE,
+  item_slug            TEXT NOT NULL,
+  title                TEXT NOT NULL,
+  description          TEXT,
+  post_text            TEXT,
+  author_name          TEXT,
+  source_url           TEXT,
+  category             TEXT,
+  posted_at            TEXT,
+  duration             TEXT,
+  original_video_url   TEXT,
+  remake_video_url     TEXT,
+  original_poster_url  TEXT,
+  remake_poster_url    TEXT,
+  created_at           TEXT NOT NULL,
+  updated_at           TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_ai_videos_collection
+  ON ai_videos (collection_slug, posted_at DESC);
+CREATE INDEX IF NOT EXISTS idx_ai_videos_category
+  ON ai_videos (collection_slug, category);
 
 -- 技能包下载审计：谁在什么时候下载了哪个版本
 CREATE TABLE IF NOT EXISTS skill_downloads (

@@ -15,6 +15,7 @@ import { billingRouter } from "./billing/routes.ts";
 import { pancakeWebhook } from "./billing/webhook.ts";
 import { linkPancakeProducts, seedPlanCatalog } from "./billing/seed.ts";
 import { seedSkills } from "./repos/skills.ts";
+import { seedAiVideos } from "./repos/ai-videos.ts";
 import { webRouter } from "./web/routes.ts";
 import { downloadRouter } from "./skills/downloads.ts";
 import {
@@ -33,6 +34,7 @@ openDatabase();
 seedPlanCatalog();
 linkPancakeProducts();
 seedSkills();
+seedAiVideos();
 
 const app = express();
 app.disable("x-powered-by");

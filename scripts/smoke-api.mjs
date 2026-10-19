@@ -82,6 +82,32 @@ await run("plans (seeded)", async () => {
   return { ok };
 });
 
+await run("skills catalog + facets", async () => {
+  const filtered = await call("GET", "/api/skills?featured=1&role=designer&limit=5");
+  const all = await call("GET", "/api/skills?limit=1");
+  return {
+    ok:
+      filtered.ok &&
+      all.ok &&
+      all.payload.total >= 400 &&
+      filtered.payload.skills.every((skill) => skill.featured && skill.roles.includes("designer")),
+  };
+});
+
+await run("ai video collections", async () => {
+  const collections = await call("GET", "/api/ai-videos");
+  const fable = await call("GET", "/api/ai-videos/fable-5-5?limit=2");
+  return {
+    ok:
+      collections.ok &&
+      fable.ok &&
+      collections.payload.collections.length === 4 &&
+      collections.payload.collections.find((item) => item.slug === "fable-5-5")?.videoCount === 82 &&
+      fable.payload.videos.length === 2 &&
+      fable.payload.videos.every((video) => video.originalVideo),
+  };
+});
+
 await run("me (anonymous)", async () => {
   const r = await call("GET", "/api/auth/me");
   return { ok: r.ok && r.payload.user === null };

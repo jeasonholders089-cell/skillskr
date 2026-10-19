@@ -529,6 +529,31 @@
   }
 })();
 
+/* AI video cards keep their posters until hover, then play the source MP4s. */
+(function () {
+  "use strict";
+  if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+  document.addEventListener("mouseover", function (event) {
+    var card = event.target.closest && event.target.closest(".ai-card");
+    if (!card || card.contains(event.relatedTarget)) return;
+    Array.prototype.forEach.call(card.querySelectorAll("video"), function (video) {
+      video.play().catch(function () {});
+    });
+  });
+
+  document.addEventListener("mouseout", function (event) {
+    var card = event.target.closest && event.target.closest(".ai-card");
+    if (!card || card.contains(event.relatedTarget)) return;
+    Array.prototype.forEach.call(card.querySelectorAll("video"), function (video) {
+      video.pause();
+      try {
+        video.currentTime = 0;
+      } catch (_) {}
+    });
+  });
+})();
+
 /* Lightweight hover previews for video Skills. The poster stays in place until
    the pointer enters, so a catalog page with hundreds of cards loads no video
    bytes up front. */

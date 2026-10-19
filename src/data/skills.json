@@ -17,7 +17,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-academic-argument-deck",
@@ -39,7 +60,27 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-brand-story-deck",
@@ -77,7 +118,28 @@
   "shelves": [
    "trending",
    "Trending Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "ecommerce-seller",
+   "marketer"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-editable-visual-deck",
@@ -115,7 +177,28 @@
   "shelves": [
    "trending",
    "Trending Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "client-reporting",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-agent-chorus-reel",
@@ -157,7 +240,27 @@
    "Trending Video Skills",
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-frame-token-launch",
@@ -197,7 +300,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-device-canvas-launch",
@@ -239,7 +362,27 @@
    "Trending Video Skills",
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-halftone-canvas-launch",
@@ -279,7 +422,28 @@
   "shelves": [
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-chat-to-result-launch",
@@ -299,7 +463,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "education-explainers",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-format-shift-launch",
@@ -339,7 +523,28 @@
   "shelves": [
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "ecommerce-seller",
+   "researcher"
+  ],
+  "useCases": [
+   "product-launch",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-liquid-logo-reveal",
@@ -359,7 +564,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "brand-identity",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-code-change-launch",
@@ -379,7 +604,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder",
+   "researcher"
+  ],
+  "useCases": [
+   "product-launch",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-architectural-project-deck",
@@ -401,7 +646,27 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "designer"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-objection-reversal-launch",
@@ -421,7 +686,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-pain-gag-reveal-launch",
@@ -461,7 +747,28 @@
   "shelves": [
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "ecommerce-seller",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-partnership-aroll-launch",
@@ -481,7 +788,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-square-morph-launch",
@@ -501,7 +829,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "ecommerce-seller",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-persistent-chat-launch",
@@ -521,7 +870,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder",
+   "researcher"
+  ],
+  "useCases": [
+   "product-launch",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-technical-drawing-promo",
@@ -561,7 +931,28 @@
   "shelves": [
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-velocity-sting",
@@ -601,7 +992,27 @@
   "shelves": [
    "trending",
    "Trending Video Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "ecommerce-seller"
+  ],
+  "useCases": [
+   "brand-identity",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-interactive-system-map",
@@ -622,7 +1033,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-research-project-homepage",
@@ -643,7 +1074,27 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-texture-swatch-launch",
@@ -663,7 +1114,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-research-paper-deck",
@@ -685,7 +1155,27 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-image-narrative-deck",
@@ -723,7 +1213,28 @@
   "shelves": [
    "trending",
    "Trending Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "educator",
+   "marketer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-research-talk-deck",
@@ -745,7 +1256,26 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-consulting-storyline-deck",
@@ -787,7 +1317,26 @@
   "shelves": [
    "trending",
    "Trending Slide Skills"
-  ]
+  ],
+  "roles": [
+   "consultant"
+  ],
+  "useCases": [
+   "client-reporting",
+   "sales-fundraising"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-skin-mechanism-visual",
@@ -808,7 +1357,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "marketer",
+   "researcher"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-regional-flavor-map",
@@ -829,7 +1400,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "educator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-optical-bench-diagram",
@@ -850,7 +1442,27 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-sound-reveal-launch",
@@ -870,7 +1482,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-vehicle-anatomy-poster",
@@ -891,7 +1524,26 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-ev-system-exploded-view",
@@ -912,7 +1564,27 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-bioactive-pathway-poster",
@@ -933,7 +1605,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "marketer",
+   "researcher"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-raw-ink-storyboard",
@@ -954,7 +1648,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-marine-research-poster",
@@ -975,7 +1690,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-paper-cut-science-explainer",
@@ -996,7 +1732,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-layered-material-cutaway",
@@ -1017,7 +1772,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "ecommerce-conversion",
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-industrial-identity-artifact",
@@ -1038,7 +1815,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant"
+  ],
+  "useCases": [
+   "client-reporting",
+   "sales-fundraising"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hand-rendered-explainer",
@@ -1059,7 +1855,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-fantasy-concept-map",
@@ -1080,7 +1896,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cue-column-study-sheet",
@@ -1101,7 +1936,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-continuity-asset-set",
@@ -1122,7 +1977,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-isometric-research-collage",
@@ -1143,7 +2017,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-article-brief-deck",
@@ -1185,7 +2079,26 @@
   "shelves": [
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "educator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-composition-study-generator",
@@ -1206,7 +2119,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-city-street-map-illustrator",
@@ -1227,7 +2159,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cinematic-shot-grid",
@@ -1248,7 +2199,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-article-illustration-set",
@@ -1269,7 +2239,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-visual-canvas-deck",
@@ -1307,7 +2296,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "creative-previsualization",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-whiteboard-concept-explainer",
@@ -1328,7 +2337,26 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-skyline",
@@ -1349,7 +2377,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-activity-calendar",
@@ -1384,7 +2433,28 @@
   "shelves": [
    "trending",
    "Trending Web Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-event-bars",
@@ -1403,7 +2473,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-balance-chart",
@@ -1422,7 +2513,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-kpi-lines",
@@ -1441,7 +2553,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-angled-gallery",
@@ -1462,7 +2595,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-funnel-area",
@@ -1481,7 +2635,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-paired-columns",
@@ -1500,7 +2675,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-appliance-exploded-poster",
@@ -1521,7 +2717,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "researcher"
+  ],
+  "useCases": [
+   "ecommerce-conversion",
+   "product-launch",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-spreadsheet-grid",
@@ -1540,7 +2757,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-stacked-columns",
@@ -1559,7 +2797,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-contact-bar",
@@ -1578,7 +2837,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-summary-lines",
@@ -1597,7 +2877,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-dark-stats",
@@ -1616,7 +2917,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-drifting-marks",
@@ -1635,7 +2957,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-records-grid",
@@ -1654,7 +2997,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-film-strip",
@@ -1673,7 +3037,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-case-notes",
@@ -1694,7 +3079,29 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-image-tiles",
@@ -1713,7 +3120,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-integration-grid",
@@ -1732,7 +3160,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-minimal-motion",
@@ -1767,7 +3216,28 @@
   "shelves": [
    "trending",
    "Trending Web Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-particle-field",
@@ -1786,7 +3256,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-single-frame",
@@ -1805,7 +3296,28 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-project-knowledge-graph",
@@ -1841,7 +3353,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "consultant",
+   "researcher"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-compact-grid",
@@ -1860,7 +3392,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-colour-blocks",
@@ -1879,7 +3433,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-dark-portraits",
@@ -1898,7 +3474,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-editorial-spread",
@@ -1917,7 +3515,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hero-ink-ridge",
@@ -1936,7 +3556,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-masonry-wall",
@@ -1955,7 +3596,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-fanned-deck",
@@ -1974,7 +3637,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-mosaic",
@@ -1993,7 +3678,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-minimal-carousel",
@@ -2012,7 +3719,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-numbered-slider",
@@ -2031,7 +3760,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-orbiting-portraits",
@@ -2050,7 +3801,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-portrait-switcher",
@@ -2069,7 +3842,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-portrait-tiles",
@@ -2088,7 +3883,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-profile-reel",
@@ -2107,7 +3924,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-columns",
@@ -2126,7 +3965,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-single-card",
@@ -2145,7 +4006,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-portrait-overlay",
@@ -2164,7 +4047,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-typed-row",
@@ -2183,7 +4088,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-rated-row",
@@ -2202,7 +4129,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-ticker",
@@ -2221,7 +4170,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-social-feed",
@@ -2240,7 +4211,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-data-visualization-spectrum-monitor",
@@ -2261,7 +4254,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "research-communication",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-annotated-wash-diagram",
@@ -2282,7 +4296,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "researcher"
+  ],
+  "useCases": [
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-learning-loop-deck",
@@ -2324,7 +4358,26 @@
   "shelves": [
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting",
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-orbit-admin-dashboard",
@@ -2345,7 +4398,27 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-claude-style-illustration",
@@ -2366,7 +4439,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-openai-style-poster",
@@ -2387,7 +4481,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "ecommerce-seller"
+  ],
+  "useCases": [
+   "brand-identity",
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-testimonial-tilted-card",
@@ -2406,7 +4521,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-inkwell-portfolio",
@@ -2427,7 +4564,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "personal-user"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-fluxon-automation-landing",
@@ -2448,7 +4606,26 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-indigo-ledger-landing",
@@ -2469,7 +4646,26 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-hairline-grid-portfolio",
@@ -2490,7 +4686,27 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder",
+   "personal-user"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-finora-banking-landing",
@@ -2527,7 +4743,26 @@
   "shelves": [
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-editorial-ink-landing",
@@ -2548,7 +4783,26 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-editorial-dev-portfolio",
@@ -2569,7 +4823,27 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-contexa-cms-landing",
@@ -2590,7 +4864,26 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-wonky-cute-doodles",
@@ -2611,7 +4904,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-vaultic-fintech-landing",
@@ -2632,7 +4946,26 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-tracklane-devtool-landing",
@@ -2653,7 +4986,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-editorial-studio-saas",
@@ -2690,7 +5042,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-taskmuse-ai-landing",
@@ -2711,7 +5083,26 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-stillline-insight-card",
@@ -2732,7 +5123,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "marketer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-split-frame-portfolio",
@@ -2769,7 +5181,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-slate-admin-console",
@@ -2806,7 +5238,26 @@
   "shelves": [
    "trending",
    "Trending Web Skills"
-  ]
+  ],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-quartz-saas-landing",
@@ -2827,7 +5278,27 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-sketchnote-pricing",
@@ -2848,7 +5319,26 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-skyline-developer-journal",
@@ -2869,7 +5359,27 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-orbit-startup-landing",
@@ -2906,7 +5416,26 @@
   "shelves": [
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-paperline-content-illustrator",
@@ -2949,7 +5478,28 @@
    "Trending Image Skills",
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "marketer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-obsidian-cinema-landing",
@@ -2970,7 +5520,26 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-molten-glass-landing",
@@ -2991,7 +5560,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-monochrome-studio-portrait",
@@ -3032,7 +5621,29 @@
   "shelves": [
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer",
+   "personal-user"
+  ],
+  "useCases": [
+   "brand-identity",
+   "creative-previsualization",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-meridian-marketing-landing",
@@ -3053,7 +5664,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-lumen-agency-landing",
@@ -3074,7 +5705,29 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "sales-fundraising",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-liquid-glass-landing",
@@ -3111,7 +5764,26 @@
   "shelves": [
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-magnetic-lattice-hero",
@@ -3132,7 +5804,26 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-harbor-saas-suite",
@@ -3153,7 +5844,26 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-opsdeck-admin-kit",
@@ -3174,7 +5884,26 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-loopwise-saas-landing",
@@ -3195,7 +5924,26 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hand-drawn-visual-notes",
@@ -3235,7 +5983,29 @@
   ],
   "shelves": [
    "free"
-  ]
+  ],
+  "roles": [
+   "educator",
+   "marketer",
+   "researcher"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers",
+   "research-communication"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-chalkboard-infographic",
@@ -3256,7 +6026,29 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator",
+   "marketer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "education-explainers",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cadence-marketing-landing",
@@ -3296,7 +6088,27 @@
    "Trending Web Skills",
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-beacon-saas-landing",
@@ -3317,7 +6129,26 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-coinhaven-crypto-landing",
@@ -3338,7 +6169,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-amber-scrapbook-suite",
@@ -3359,7 +6209,26 @@
   "version": "1.0.9",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-bluewave-podcast-site",
@@ -3380,7 +6249,27 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-aurawave-audio-landing",
@@ -3401,7 +6290,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-confetti-marketing-landing",
@@ -3422,7 +6330,26 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-allegorical-engraving-cover",
@@ -3443,7 +6370,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "marketer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-basalt-dev-portfolio",
@@ -3480,7 +6427,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Web Skills"
-  ]
+  ],
+  "roles": [
+   "founder",
+   "personal-user"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-red-black-zine-deck",
@@ -3507,7 +6474,29 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer",
+   "marketer"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode",
+   "windsurf"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-soft-gradient-deck",
@@ -3535,7 +6524,29 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "client-reporting",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode",
+   "windsurf"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-tessellated-editorial-still-life",
@@ -3556,7 +6567,28 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "content-publishing",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode",
+   "windsurf"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-airbnb-style-og",
@@ -3577,7 +6609,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-nike-style-og",
@@ -3598,7 +6650,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-shopify-style-og",
@@ -3639,7 +6711,27 @@
   "shelves": [
    "trending",
    "Trending Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-apple-style-og",
@@ -3680,7 +6772,27 @@
   "shelves": [
    "trending",
    "Trending Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-starlit-deck",
@@ -3709,7 +6821,28 @@
   "version": "1.0.4",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode",
+   "windsurf"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-discord-style-og",
@@ -3730,7 +6863,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-slack-style-og",
@@ -3751,7 +6904,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-stripe-style-og",
@@ -3792,7 +6965,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-notion-style-og",
@@ -3813,7 +7006,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-github-style-og",
@@ -3834,7 +7047,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-openai-style-og",
@@ -3875,7 +7108,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-meta-style-og",
@@ -3896,7 +7149,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-square-style-og",
@@ -3937,7 +7210,27 @@
   "shelves": [
    "trending",
    "Trending Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-webflow-style-og",
@@ -3958,7 +7251,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cash-app-style-og",
@@ -3979,7 +7292,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-spotify-style-og",
@@ -4000,7 +7333,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-figma-style-og",
@@ -4043,7 +7396,27 @@
    "Trending Image Skills",
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-vercel-style-og",
@@ -4064,7 +7437,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-todoist-style-og",
@@ -4085,7 +7478,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-asana-style-og",
@@ -4106,7 +7519,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-upwork-style-og",
@@ -4127,7 +7560,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-wise-style-og",
@@ -4168,7 +7621,27 @@
   "shelves": [
    "trending",
    "Trending Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-revolut-style-og",
@@ -4189,7 +7662,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-klarna-style-og",
@@ -4210,7 +7703,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-solana-style-og",
@@ -4231,7 +7744,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-auth0-style-og",
@@ -4252,7 +7785,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-calendly-style-og",
@@ -4273,7 +7826,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-headspace-style-og",
@@ -4294,7 +7867,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-mailchimp-style-og",
@@ -4315,7 +7908,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-loom-style-og",
@@ -4336,7 +7949,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-intercom-style-og",
@@ -4357,7 +7990,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-linktree-style-og",
@@ -4378,7 +8031,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-brex-style-og",
@@ -4399,7 +8072,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-mixpanel-style-og",
@@ -4420,7 +8113,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-plaid-style-og",
@@ -4441,7 +8154,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-mapbox-style-og",
@@ -4462,7 +8195,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-algolia-style-og",
@@ -4483,7 +8236,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-ramp-style-og",
@@ -4504,7 +8277,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-retool-style-og",
@@ -4525,7 +8318,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-raycast-style-og",
@@ -4546,7 +8359,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-runway-style-og",
@@ -4567,7 +8400,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-teenage-engineering-style-og",
@@ -4588,7 +8441,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-linear-style-og",
@@ -4609,7 +8482,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-material-design-style-og",
@@ -4650,7 +8543,27 @@
   "shelves": [
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-a24-style-og",
@@ -4671,7 +8584,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-supabase-style-og",
@@ -4692,7 +8625,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-goodnotes-style-og",
@@ -4736,7 +8689,27 @@
    "Trending Image Skills",
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-procreate-style-og",
@@ -4778,7 +8751,27 @@
    "featured",
    "top-rated",
    "Top-rated Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-ochre-editorial-deck",
@@ -4809,7 +8802,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-primary-doodle-deck",
@@ -4840,7 +8852,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-electric-studio-deck",
@@ -4871,7 +8902,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-sky-glass-deck",
@@ -4920,7 +8970,26 @@
    "Trending Slide Skills",
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-citrus-loop-deck",
@@ -4951,7 +9020,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-sorbet-window-deck",
@@ -4982,7 +9070,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-golden-market-deck",
@@ -5013,7 +9120,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-gallery-catalogue-deck",
@@ -5044,7 +9170,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-sunlit-structure-deck",
@@ -5075,7 +9220,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-pop-motion-deck",
@@ -5106,7 +9270,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-confetti-gathering-deck",
@@ -5137,7 +9320,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "marketer"
+  ],
+  "useCases": [
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-chromatic-futures-deck",
@@ -5168,7 +9370,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-yellow-balance-deck",
@@ -5199,7 +9420,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-prismatic-fashion-deck",
@@ -5230,7 +9470,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-orbital-workshop-deck",
@@ -5261,7 +9520,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-brush-paper-deck",
@@ -5292,7 +9570,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cobalt-system-deck",
@@ -5323,7 +9620,26 @@
   "version": "1.0.6",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-acid-agency-deck",
@@ -5354,7 +9670,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-aqua-campus-deck",
@@ -5385,7 +9720,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-field-notes-deck",
@@ -5435,7 +9789,26 @@
    "Trending Slide Skills",
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-yellow-sketchnote-deck",
@@ -5484,7 +9857,26 @@
    "Trending Slide Skills",
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-storybook-margin-deck",
@@ -5515,7 +9907,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-blue-lime-ledger-deck",
@@ -5546,7 +9957,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cobalt-growth-deck",
@@ -5577,7 +10007,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-pastel-cutout-deck",
@@ -5608,7 +10057,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-ink-landscape-deck",
@@ -5639,7 +10107,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-lime-endurance-deck",
@@ -5670,7 +10157,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-inclusive-cutpaper-deck",
@@ -5719,7 +10225,26 @@
    "Trending Slide Skills",
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-neon-makers-deck",
@@ -5750,7 +10275,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cozy-island-deck",
@@ -5781,7 +10325,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-mono-acid-deck",
@@ -5812,7 +10375,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cinematic-wilds-deck",
@@ -5843,7 +10425,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-collage-creative-portfolio",
@@ -5864,7 +10465,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-airy-flight-booking-landing",
@@ -5885,7 +10506,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-alpine-travel-agency-landing",
@@ -5906,7 +10547,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cloud-jet-travel-landing",
@@ -5927,7 +10588,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cutpaper-collective-site",
@@ -5964,7 +10645,27 @@
   "shelves": [
    "trending",
    "Trending Web Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-doodle-developer-portfolio",
@@ -5985,7 +10686,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-botanical-quiet-deck",
@@ -6016,7 +10737,26 @@
   "version": "1.0.5",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-editorial-personal-brand-landing",
@@ -6037,7 +10777,28 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "content-publishing",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-bento-designer-portfolio",
@@ -6058,7 +10819,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cobalt-serif-freelancer-site",
@@ -6095,7 +10876,27 @@
   "shelves": [
    "trending",
    "Trending Web Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-ember-ebike-store",
@@ -6116,7 +10917,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "ecommerce-seller"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-gradient-juice-brand-site",
@@ -6137,7 +10958,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "ecommerce-seller"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-green-pharmacy-storefront",
@@ -6158,7 +10999,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "ecommerce-conversion",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-lime-frame-designer-portfolio",
@@ -6179,7 +11040,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-marker-doodle-brand-studio",
@@ -6200,7 +11081,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-mono-designer-portfolio",
@@ -6221,7 +11122,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-paper-texture-resume-site",
@@ -6242,7 +11163,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-gridpaper-beverage-brand-site",
@@ -6263,7 +11204,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "ecommerce-seller"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-illustrated-agritech-app-landing",
@@ -6284,7 +11245,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-sage-sneaker-store",
@@ -6322,7 +11303,28 @@
    "free",
    "trending",
    "Trending Web Skills"
-  ]
+  ],
+  "roles": [
+   "designer",
+   "ecommerce-seller"
+  ],
+  "useCases": [
+   "brand-identity",
+   "ecommerce-conversion",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-playful-uiux-portfolio",
@@ -6343,7 +11345,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-royal-blue-pet-store",
@@ -6364,7 +11386,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "ecommerce-seller"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-scattered-cards-magazine",
@@ -6385,7 +11427,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-sky-sports-club-landing",
@@ -6406,7 +11468,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-sticker-agency-landing",
@@ -6427,7 +11509,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-grokbot-avatar",
@@ -6459,7 +11561,20 @@
   ],
   "shelves": [
    "free"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "codex-chatgpt"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-sticker-gifting-app-landing",
@@ -6480,7 +11595,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-scrapbook-resume-site",
@@ -6501,7 +11636,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-silver-robot-product-site",
@@ -6522,7 +11677,27 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder"
+  ],
+  "useCases": [
+   "brand-identity",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-quote-underline",
@@ -6541,7 +11716,25 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-title-takeover",
@@ -6581,7 +11774,25 @@
    "free",
    "trending",
    "Trending Video Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-collage-scatter-presenter",
@@ -6600,7 +11811,25 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-wall-checklist",
@@ -6619,7 +11848,25 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-behind-subject",
@@ -6638,7 +11885,25 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-topic-cloud",
@@ -6657,7 +11922,25 @@
   "version": "1.0.2",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-action-checklist",
@@ -6697,7 +11980,25 @@
    "free",
    "trending",
    "Trending Video Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-card-counter",
@@ -6716,7 +12017,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-context-conflict",
@@ -6735,7 +12054,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-corner-tags",
@@ -6754,7 +12091,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-cost-range",
@@ -6773,7 +12128,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-status-focus",
@@ -6792,7 +12165,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-chapter-stack",
@@ -6811,7 +12202,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-chat-stack",
@@ -6830,7 +12239,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-folder-grid",
@@ -6849,7 +12276,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-foreground-row",
@@ -6868,7 +12313,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-inspect-split",
@@ -6887,7 +12350,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-grid-priority",
@@ -6906,7 +12387,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-matrix-fill",
@@ -6925,7 +12424,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-ratio-bridge",
@@ -6944,7 +12461,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-roadmap-focus",
@@ -6963,7 +12498,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-sequential-list",
@@ -6982,7 +12535,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-keyword-resolve",
@@ -7001,7 +12572,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-status-row",
@@ -7020,7 +12609,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-steps-title",
@@ -7039,7 +12646,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-chapter-browser-reveal",
@@ -7058,7 +12683,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-chapter-border-orbit",
@@ -7077,7 +12720,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-chapter-character-reveal",
@@ -7096,7 +12757,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-chapter-grid-flip",
@@ -7115,7 +12794,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-chapter-grid-pan",
@@ -7134,7 +12831,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-chapter-label-stack",
@@ -7153,7 +12868,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-collage-evidence-summary",
@@ -7172,7 +12905,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-chapter-title-stamp",
@@ -7191,7 +12942,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-collage-dossier-role",
@@ -7210,7 +12979,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-collage-document-stack",
@@ -7229,7 +13016,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-collage-parallax-proof",
@@ -7248,7 +13053,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-calculation-roi",
@@ -7267,7 +13090,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-collage-portrait-notes",
@@ -7286,7 +13127,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-capacity-reset",
@@ -7305,7 +13164,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-composition-strip",
@@ -7324,7 +13201,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-column-annotations",
@@ -7343,7 +13238,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-device-allocation",
@@ -7362,7 +13275,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-dual-sliders",
@@ -7381,7 +13312,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-feature-matrix",
@@ -7400,7 +13349,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-document-collapse",
@@ -7419,7 +13386,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-cost-total",
@@ -7438,7 +13423,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-focus-bars",
@@ -7457,7 +13460,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-grouped-bars",
@@ -7476,7 +13497,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-icon-distribution",
@@ -7495,7 +13534,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-latest-history",
@@ -7514,7 +13571,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-collage-testimonial-wall",
@@ -7533,7 +13608,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-one-many",
@@ -7552,7 +13645,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-prompt-results",
@@ -7571,7 +13682,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-paired-swap",
@@ -7590,7 +13719,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-quadrant-focus",
@@ -7609,7 +13756,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-query-screens",
@@ -7628,7 +13793,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-quote-sliders",
@@ -7647,7 +13830,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-radar-reveal",
@@ -7666,7 +13867,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-ratio-bars",
@@ -7685,7 +13904,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-line-trend",
@@ -7704,7 +13941,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-records-donut",
@@ -7723,7 +13978,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-sequential-bars",
@@ -7742,7 +14015,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-target-overrun",
@@ -7761,7 +14052,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-stage-loss",
@@ -7780,7 +14089,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-row-focus-cards",
@@ -7799,7 +14126,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-wording-choice",
@@ -7818,7 +14163,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-anchored-callouts",
@@ -7837,7 +14200,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-trend-card-tour",
@@ -7856,7 +14237,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-capacity-callouts",
@@ -7875,7 +14274,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-convergence-evidence",
@@ -7894,7 +14311,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-cycle-build",
@@ -7913,7 +14348,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-cycle-traversal",
@@ -7932,7 +14385,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-decompose-scan",
@@ -7951,7 +14422,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-branch-reveal",
@@ -7970,7 +14459,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-funnel-absorption",
@@ -7989,7 +14496,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-handoff-explain",
@@ -8008,7 +14533,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-input-convergence",
@@ -8027,7 +14570,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-milestone-detail",
@@ -8046,7 +14607,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-nested-workspace",
@@ -8065,7 +14644,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-list-bridge",
@@ -8084,7 +14681,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-hub-routing",
@@ -8103,7 +14718,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-pipeline-fanout",
@@ -8122,7 +14755,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-radial-branches",
@@ -8141,7 +14792,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-pipeline-package",
@@ -8160,7 +14829,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-timeline-nodes",
@@ -8179,7 +14866,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-quadrant-positioning",
@@ -8198,7 +14903,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-tier-pyramid",
@@ -8217,7 +14940,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-scope-emphasis",
@@ -8236,7 +14977,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-pip-calendar-reschedule",
@@ -8255,7 +15014,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-sequence-lanes",
@@ -8274,7 +15051,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-chart-pan",
@@ -8293,7 +15088,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-pip-slides-focus",
@@ -8312,7 +15125,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-phone-callouts",
@@ -8331,7 +15162,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-pip-chat-response",
@@ -8350,7 +15199,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-pip-notification-log",
@@ -8369,7 +15236,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-chart-swap",
@@ -8388,7 +15273,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-phone-scale",
@@ -8407,7 +15310,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-response-spotlight",
@@ -8426,7 +15347,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-split-progressive-list",
@@ -8445,7 +15384,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-comment-emphasis",
@@ -8464,7 +15421,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-metric-audit",
@@ -8483,7 +15458,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-mobile-step",
@@ -8502,7 +15495,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-metric-to-detail",
@@ -8521,7 +15532,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-quote-evidence",
@@ -8540,7 +15569,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-issue-resolution",
@@ -8559,7 +15606,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-shortcut-target",
@@ -8578,7 +15643,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-voice-transcript",
@@ -8597,7 +15680,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-transition-tile-dissolve",
@@ -8616,7 +15717,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-copy-correction",
@@ -8635,7 +15754,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-definition-reframe",
@@ -8654,7 +15791,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-keyword-caption",
@@ -8673,7 +15828,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-transition-polygon-wipe",
@@ -8692,7 +15865,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-spotlight-region-callout",
@@ -8711,7 +15902,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-burst-statement",
@@ -8730,7 +15939,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-opposing-labels",
@@ -8749,7 +15976,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-question-bubble",
@@ -8768,7 +16013,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-spec-reveal",
@@ -8787,7 +16050,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-tag-stack",
@@ -8806,7 +16087,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-dot-avatar-maker",
@@ -8845,7 +16144,24 @@
    "free",
    "trending",
    "Trending Web Skills"
-  ]
+  ],
+  "roles": [],
+  "useCases": [
+   "creative-previsualization",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cue-style-launch-video",
@@ -8864,7 +16180,20 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-type-term-pressure",
@@ -8883,7 +16212,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-hyperframes-pixel-promo",
@@ -8921,7 +16268,19 @@
    "featured",
    "trending",
    "Trending Video Skills"
-  ]
+  ],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-manus2-0-style-launch-video",
@@ -8963,7 +16322,20 @@
    "Trending Video Skills",
    "top-rated",
    "Top-rated Video Skills"
-  ]
+  ],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-creatormotion",
@@ -8982,7 +16354,25 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-mint-marker-deck",
@@ -9005,7 +16395,28 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "educator",
+   "marketer"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization",
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-lilac-pitch-deck",
@@ -9028,7 +16439,26 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cobalt-dark-pitch-deck",
@@ -9051,7 +16481,26 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-apricot-doodle-plan-deck",
@@ -9074,7 +16523,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-lavender-editorial-team-deck",
@@ -9097,7 +16566,26 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting",
+   "creative-previsualization"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-steel-curve-profile-deck",
@@ -9120,7 +16608,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "educator",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-blue-block-company-deck",
@@ -9143,7 +16651,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "educator",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-cobalt-ribbon-profile-deck",
@@ -9166,7 +16694,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "educator",
+   "founder"
+  ],
+  "useCases": [
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-tidal-service-playbook-deck",
@@ -9189,7 +16737,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "consultant",
+   "educator",
+   "founder"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-spectrum-brand-strategy-deck",
@@ -9212,7 +16780,27 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "marketer"
+  ],
+  "useCases": [
+   "brand-identity",
+   "client-reporting"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-slate-social-report-deck",
@@ -9235,7 +16823,26 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "marketer"
+  ],
+  "useCases": [
+   "client-reporting",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-playful-primary-classroom-deck",
@@ -9279,7 +16886,25 @@
    "free",
    "top-rated",
    "Top-rated Slide Skills"
-  ]
+  ],
+  "roles": [
+   "educator"
+  ],
+  "useCases": [
+   "education-explainers"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-mint-noir-saas-site",
@@ -9300,7 +16925,27 @@
   "version": "1.0.0",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-cobalt-serif-marketing-deck",
@@ -9323,7 +16968,26 @@
   "version": "1.0.3",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "marketer"
+  ],
+  "useCases": [
+   "client-reporting",
+   "product-launch"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-notion-style-localize-video",
@@ -9363,7 +17027,28 @@
    "featured",
    "trending",
    "Trending Video Skills"
-  ]
+  ],
+  "roles": [
+   "ecommerce-seller",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-linear-agent-style-launch-video",
@@ -9393,7 +17078,20 @@
   ],
   "shelves": [
    "featured"
-  ]
+  ],
+  "roles": [
+   "ecommerce-seller",
+   "founder"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop"
+  ],
+  "featured": true
  },
  {
   "slug": "bs-testimonial-tilted-stack",
@@ -9412,7 +17110,29 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "designer",
+   "founder",
+   "marketer"
+  ],
+  "useCases": [
+   "product-launch",
+   "social-media",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-cards-list-audience",
@@ -9431,7 +17151,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-comparison-accumulation-blocks",
@@ -9450,7 +17188,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-creatormotion-diagram-additive-equation",
@@ -9469,7 +17225,25 @@
   "version": "1.0.1",
   "placeholder": "#f7f7f5",
   "tools": [],
-  "shelves": []
+  "shelves": [],
+  "roles": [
+   "content-creator"
+  ],
+  "useCases": [
+   "content-publishing"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  },
  {
   "slug": "bs-duolingo-style-og",
@@ -9510,6 +17284,26 @@
   "shelves": [
    "trending",
    "Trending Image Skills"
-  ]
+  ],
+  "roles": [
+   "content-creator",
+   "designer"
+  ],
+  "useCases": [
+   "product-launch",
+   "web-design"
+  ],
+  "agents": [
+   "claude-code",
+   "claude-desktop",
+   "codex-chatgpt",
+   "cursor",
+   "github-copilot",
+   "hermes",
+   "kilo-code",
+   "openclaw",
+   "opencode"
+  ],
+  "featured": false
  }
 ]

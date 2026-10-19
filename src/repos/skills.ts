@@ -20,6 +20,10 @@ export interface SkillRow {
   preview_url: string | null;
   video_url: string | null;
   gallery_json: string;
+  roles_json: string;
+  use_cases_json: string;
+  agents_json: string;
+  is_featured: number;
   version: string | null;
   placeholder: string | null;
   tools_json: string;
@@ -40,6 +44,10 @@ export interface PublicSkill {
   preview: string | null;
   video: string | null;
   gallery: string[];
+  roles: string[];
+  useCases: string[];
+  agents: string[];
+  featured: boolean;
   version: string | null;
   placeholder: string | null;
   tools: Array<{ name: string; src: string }>;
@@ -69,6 +77,10 @@ export function toPublicSkill(row: SkillRow): PublicSkill {
     preview: assetUrl(row.preview_url),
     video: assetUrl(row.video_url),
     gallery,
+    roles: JSON.parse(row.roles_json ?? "[]") as string[],
+    useCases: JSON.parse(row.use_cases_json ?? "[]") as string[],
+    agents: JSON.parse(row.agents_json ?? "[]") as string[],
+    featured: Boolean(row.is_featured),
     version: row.version,
     placeholder: row.placeholder,
     tools: JSON.parse(row.tools_json) as Array<{ name: string; src: string }>,
@@ -89,6 +101,10 @@ interface SeedSkill {
   preview: string | null;
   video?: string | null;
   gallery?: string[];
+  roles?: string[];
+  useCases?: string[];
+  agents?: string[];
+  featured?: boolean;
   version?: string | null;
   placeholder: string | null;
   tools: Array<{ name: string; src: string }>;
@@ -110,9 +126,10 @@ export function seedSkills(): void {
     for (const skill of seed) {
       run(
         `INSERT INTO skills (slug, title, summary, output, is_free, is_new, installs, bookmarks,
-                             preview_url, video_url, gallery_json, version, placeholder, tools_json, shelves_json,
+                             preview_url, video_url, gallery_json, roles_json, use_cases_json,
+                             agents_json, is_featured, version, placeholder, tools_json, shelves_json,
                              created_at, updated_at)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
          ON CONFLICT (slug) DO UPDATE SET
            title = excluded.title,
            summary = excluded.summary,
@@ -124,6 +141,10 @@ export function seedSkills(): void {
            preview_url = excluded.preview_url,
            video_url = excluded.video_url,
            gallery_json = excluded.gallery_json,
+           roles_json = excluded.roles_json,
+           use_cases_json = excluded.use_cases_json,
+           agents_json = excluded.agents_json,
+           is_featured = excluded.is_featured,
            version = excluded.version,
            placeholder = excluded.placeholder,
            tools_json = excluded.tools_json,
@@ -140,6 +161,10 @@ export function seedSkills(): void {
         skill.preview,
         skill.video ?? null,
         JSON.stringify(skill.gallery ?? []),
+        JSON.stringify(skill.roles ?? []),
+        JSON.stringify(skill.useCases ?? []),
+        JSON.stringify(skill.agents ?? []),
+        skill.featured ? 1 : 0,
         skill.version ?? null,
         skill.placeholder,
         JSON.stringify(skill.tools ?? []),
@@ -156,6 +181,9 @@ export interface SkillQuery {
   q?: string;
   output?: string;
   free?: boolean;
+  featured?: boolean;
+  role?: string;
+  useCase?: string;
   shelf?: string;
   sort?: "popular" | "new" | "title";
   limit?: number;
@@ -184,6 +212,17 @@ export function listSkills(query: SkillQuery = {}): { skills: PublicSkill[]; tot
   if (query.free) {
     where.push("is_free = 1");
   }
+  if (query.featured) {
+    where.push("is_featured = 1");
+  }
+  if (query.role) {
+    where.push("roles_json LIKE ?");
+    params.push(`%"${query.role}"%`);
+  }
+  if (query.useCase) {
+    where.push("use_cases_json LIKE ?");
+    params.push(`%"${query.useCase}"%`);
+  }
   if (query.shelf) {
     where.push("shelves_json LIKE ?");
     params.push(`%"${query.shelf}"%`);
@@ -211,6 +250,84 @@ export function findSkill(slug: string): PublicSkill | null {
 
 export function skillCount(): number {
   return get<{ n: number }>("SELECT COUNT(*) AS n FROM skills")?.n ?? 0;
+}
+
+export const ROLE_LABELS: Record<string, string> = {
+  "content-creator": "Content creator",
+  founder: "Founder",
+  "ecommerce-seller": "Ecommerce seller",
+  designer: "Designer",
+  consultant: "Consultant",
+  educator: "Teacher",
+  marketer: "Marketer",
+  researcher: "Researcher",
+  "personal-user": "Personal",
+};
+
+export const USE_CASE_LABELS: Record<string, string> = {
+  "content-publishing": "Content publishing",
+  "education-explainers": "Education explainers",
+  "brand-identity": "Brand identity",
+  "social-media": "Social media",
+  "product-launch": "Product launch",
+  "ecommerce-conversion": "Ecommerce conversion",
+  "client-reporting": "Client reporting",
+  "sales-fundraising": "Sales fundraising",
+  "research-communication": "Research communication",
+  "creative-previsualization": "Creative previsualization",
+  "web-design": "Web design",
+};
+
+export interface SkillFacets {
+  total: number;
+  free: number;
+  featured: number;
+  outputs: Array<{ value: string; label: string; count: number }>;
+  roles: Array<{ value: string; label: string; count: number }>;
+  useCases: Array<{ value: string; label: string; count: number }>;
+}
+
+export function skillFacets(): SkillFacets {
+  const rows = all<{
+    output: string;
+    is_free: number;
+    is_featured: number;
+    roles_json: string;
+    use_cases_json: string;
+  }>("SELECT output, is_free, is_featured, roles_json, use_cases_json FROM skills");
+  const outputs = new Map<string, number>();
+  const roles = new Map<string, number>();
+  const useCases = new Map<string, number>();
+  let free = 0;
+  let featured = 0;
+  for (const row of rows) {
+    outputs.set(row.output, (outputs.get(row.output) ?? 0) + 1);
+    if (row.is_free) free += 1;
+    if (row.is_featured) featured += 1;
+    for (const role of JSON.parse(row.roles_json) as string[]) {
+      roles.set(role, (roles.get(role) ?? 0) + 1);
+    }
+    for (const useCase of JSON.parse(row.use_cases_json) as string[]) {
+      useCases.set(useCase, (useCases.get(useCase) ?? 0) + 1);
+    }
+  }
+  const toList = (values: Map<string, number>, labels: Record<string, string>) =>
+    [...values.entries()]
+      .map(([value, count]) => ({ value, label: labels[value] ?? value, count }))
+      .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+  return {
+    total: rows.length,
+    free,
+    featured,
+    outputs: OUTPUTS.map((output) => ({
+      value: output,
+      label: output,
+      count: outputs.get(output) ?? 0,
+    })),
+    roles: toList(roles, ROLE_LABELS),
+    useCases: toList(useCases, USE_CASE_LABELS),
+  };
 }
 
 export const OUTPUTS = ["Web", "Slides", "Video", "Image"] as const;
