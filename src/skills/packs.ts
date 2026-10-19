@@ -34,10 +34,23 @@ function walk(dir: string, prefix = ""): PackFile[] {
     if (statSync(full).isDirectory()) {
       files.push(...walk(full, rel));
     } else {
-      files.push({ name: rel, data: readFileSync(full) });
+      files.push({ name: rel, data: normalizePackText(rel, readFileSync(full)) });
     }
   }
   return files;
+}
+
+const TEXT_PACK_FILES = /\.(md|mdx|txt|json|ya?ml|html?|css|m?js|cjs|tsx?|svg)$/i;
+
+/** Keep authored packs on-brand even if their source files contain old copy. */
+function normalizePackText(name: string, data: Buffer): Buffer {
+  if (!TEXT_PACK_FILES.test(name)) return data;
+  const text = data
+    .toString("utf-8")
+    .replace(/https?:\/\/(?:www\.)?skillry\.dev/gi, "https://groclawa.com")
+    .replace(/skillry_slug/gi, "skillskr_slug")
+    .replace(/skillry/gi, "skillskr");
+  return Buffer.from(text, "utf-8");
 }
 
 function frontmatter(skill: PublicSkill): string {
@@ -48,7 +61,8 @@ function frontmatter(skill: PublicSkill): string {
     `version: ${PACK_VERSION}`,
     "license: commercial",
     "metadata:",
-    `  skillry_slug: ${skill.slug}`,
+    `  skillskr_slug: ${skill.slug}`,
+    "  site: https://groclawa.com",
     `  output: ${skill.output}`,
     `  tier: ${skill.free ? "free" : "pro"}`,
     "---",
@@ -60,7 +74,7 @@ function scaffoldSkillMd(skill: PublicSkill): string {
 
 # ${skill.title}
 
-${skill.summary ?? `A ${skill.output.toLowerCase()} Skill from the Skillry studio.`}
+${skill.summary ?? `A ${skill.output.toLowerCase()} Skill from the skillskr studio.`}
 
 ## When to use this Skill
 
@@ -94,6 +108,7 @@ function scaffoldManifest(skill: PublicSkill): string {
       version: PACK_VERSION,
       output: skill.output,
       tier: skill.free ? "free" : "pro",
+      site: "https://groclawa.com",
       tools: skill.tools.map((tool) => tool.name),
       generatedFrom: "catalog-metadata",
       generatedAt: new Date().toISOString(),
@@ -105,6 +120,8 @@ function scaffoldManifest(skill: PublicSkill): string {
 
 function scaffoldReadme(skill: PublicSkill): string {
   return `# ${skill.title}
+
+Part of the skillskr catalog: https://groclawa.com/skills/${skill.slug}
 
 ## Install
 
