@@ -110,6 +110,55 @@ export function aiVideoCollectionPage(input: {
 }): string {
   const { collection, videos, categories, activeCategory, videoSkills } = input;
   const isLanding = collection.kind === "landing";
+  const landing = collection.landing;
+  const landingSection =
+    isLanding && landing
+      ? `<section class="ai-landing-showcase">
+    ${
+      landing.heroVideo
+        ? `<figure class="ai-landing-hero">
+      <video src="${escapeHtml(landing.heroVideo)}" poster="${escapeHtml(
+        landing.heroPoster ?? ""
+      )}" controls autoplay muted loop playsinline preload="metadata"></video>
+    </figure>`
+        : ""
+    }
+    ${
+      landing.pairs?.length
+        ? `<div class="ai-pair-grid">${landing.pairs
+            .map(
+              (pair) => `<article class="ai-pair">
+        <h3>${escapeHtml(pair.name)}</h3>
+        <div class="ai-pair__videos">
+          <figure><video src="${escapeHtml(pair.film ?? "")}" poster="${escapeHtml(
+            pair.filmPoster ?? ""
+          )}" controls muted loop playsinline preload="none"></video><figcaption>Launch film</figcaption></figure>
+          <figure><video src="${escapeHtml(pair.compare ?? "")}" poster="${escapeHtml(
+            pair.comparePoster ?? ""
+          )}" controls muted loop playsinline preload="none"></video><figcaption>Comparison</figcaption></figure>
+        </div>
+      </article>`
+            )
+            .join("")}</div>`
+        : ""
+    }
+    ${
+      landing.gallery?.length
+        ? `<div class="ai-motion-grid">${landing.gallery
+            .filter((item) => item.src)
+            .slice(0, 24)
+            .map(
+              (item) => `<figure><img src="${escapeHtml(
+                item.src ?? ""
+              )}" alt="${escapeHtml(item.label)}" loading="lazy"><figcaption>${escapeHtml(
+                item.label
+              )}</figcaption></figure>`
+            )
+            .join("")}</div>`
+        : ""
+    }
+  </section>`
+      : "";
   const categoryLinks = [
     `<a class="ai-filter${activeCategory ? "" : " is-active"}" href="/ai-videos/${escapeHtml(
       collection.slug
@@ -141,6 +190,7 @@ export function aiVideoCollectionPage(input: {
     </div>
     <p class="ai-hero__proof">${isLanding ? "Built for Claude Code, Codex, Cursor and other SKILL.md agents" : `${collection.videoCount} creator videos · credited to their authors · linked to the original posts`}</p>
   </header>
+  ${landingSection}
   ${isLanding ? "" : `<section id="ai-video-grid" class="ai-browser">
     <div class="ai-browser__head">
       <div>

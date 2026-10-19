@@ -172,6 +172,7 @@ CREATE TABLE IF NOT EXISTS ai_video_collections (
   title         TEXT NOT NULL,
   description   TEXT,
   kind          TEXT NOT NULL DEFAULT 'grid',   -- grid | landing
+  landing_json  TEXT NOT NULL DEFAULT '{}',
   sort_order    INTEGER NOT NULL DEFAULT 0
 );
 

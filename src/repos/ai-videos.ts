@@ -15,6 +15,7 @@ export interface CollectionRow {
   title: string;
   description: string | null;
   kind: string;
+  landing_json: string;
   sort_order: number;
   video_count?: number;
 }
@@ -62,13 +63,54 @@ export interface PublicCollection {
   title: string;
   description: string | null;
   kind: string;
+  landing: LandingData | null;
   videoCount: number;
+}
+
+export interface LandingPair {
+  name: string;
+  film: string | null;
+  compare: string | null;
+  filmPoster: string | null;
+  comparePoster: string | null;
+}
+
+export interface LandingData {
+  heroVideo?: string | null;
+  heroPoster?: string | null;
+  pairs?: LandingPair[];
+  gallery?: Array<{ src: string | null; label: string }>;
 }
 
 function assetUrl(value: string | null): string | null {
   if (!value) return null;
   if (/^https?:\/\//i.test(value) || value.startsWith("/assets/")) return value;
   return `${config.mediaBaseUrl}${value.startsWith("/") ? "" : "/"}${value}`;
+}
+
+function publicLanding(value: string): LandingData | null {
+  let landing: LandingData;
+  try {
+    landing = JSON.parse(value || "{}") as LandingData;
+  } catch {
+    return null;
+  }
+  if (!landing || Object.keys(landing).length === 0) return null;
+  return {
+    heroVideo: assetUrl(landing.heroVideo ?? null),
+    heroPoster: assetUrl(landing.heroPoster ?? null),
+    pairs: (landing.pairs ?? []).map((pair) => ({
+      name: pair.name,
+      film: assetUrl(pair.film ?? null),
+      compare: assetUrl(pair.compare ?? null),
+      filmPoster: assetUrl(pair.filmPoster ?? null),
+      comparePoster: assetUrl(pair.comparePoster ?? null),
+    })),
+    gallery: (landing.gallery ?? []).map((item) => ({
+      src: assetUrl(item.src ?? null),
+      label: item.label,
+    })),
+  };
 }
 
 export function toPublicVideo(row: VideoRow): PublicAiVideo {
@@ -106,6 +148,7 @@ export function listCollections(): PublicCollection[] {
     title: row.title,
     description: row.description,
     kind: row.kind,
+    landing: publicLanding(row.landing_json),
     videoCount: row.video_count ?? 0,
   }));
 }
@@ -127,6 +170,7 @@ export function findCollection(slug: string): PublicCollection | null {
     title: row.title,
     description: row.description,
     kind: row.kind,
+    landing: publicLanding(row.landing_json),
     videoCount: row.video_count ?? 0,
   };
 }
@@ -183,6 +227,7 @@ interface SeedFile {
     title: string;
     description?: string | null;
     kind: string;
+    landing?: LandingData | null;
     sortOrder: number;
   }>;
   videos: Array<{
@@ -217,11 +262,12 @@ export function seedAiVideos(): void {
     for (const collection of seed.collections) {
       run(
         `INSERT INTO ai_video_collections
-           (slug, name, eyebrow, title, description, kind, sort_order)
-         VALUES (?, ?, ?, ?, ?, ?, ?)
+           (slug, name, eyebrow, title, description, kind, landing_json, sort_order)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?)
          ON CONFLICT (slug) DO UPDATE SET
            name = excluded.name, eyebrow = excluded.eyebrow, title = excluded.title,
            description = excluded.description, kind = excluded.kind,
+           landing_json = excluded.landing_json,
            sort_order = excluded.sort_order`,
         collection.slug,
         collection.name,
@@ -229,6 +275,7 @@ export function seedAiVideos(): void {
         collection.title,
         collection.description ?? null,
         collection.kind,
+        JSON.stringify(collection.landing ?? {}),
         collection.sortOrder
       );
     }

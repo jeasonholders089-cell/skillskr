@@ -25,7 +25,34 @@
    "title": "Make a Manus 2.0 style product launch video from your URL",
    "description": "Turn a product URL into a launch film with kinetic type, real UI push-ins, glass cards and a One More Thing reveal.",
    "kind": "landing",
-   "sortOrder": 30
+   "sortOrder": 30,
+   "landing": {
+    "heroVideo": "/ai-videos/landing/manus-2-launch-video/film-skillry.f90cd793e0.mp4",
+    "heroPoster": "/ai-videos/landing/manus-2-launch-video/hero-cover.838641ce07.jpg",
+    "pairs": [
+     {
+      "name": "Grokbot",
+      "film": "/ai-videos/landing/manus-2-launch-video/film-grokbot.d8ad52db9e.mp4",
+      "compare": "/ai-videos/landing/manus-2-launch-video/compare-grokbot.0ef8c03ff3.mp4",
+      "filmPoster": "/ai-videos/landing/manus-2-launch-video/film-grokbot-poster.1a15cabec8.jpg",
+      "comparePoster": "/ai-videos/landing/manus-2-launch-video/compare-grokbot-poster.99280dd96f.jpg"
+     },
+     {
+      "name": "Muse",
+      "film": "/ai-videos/landing/manus-2-launch-video/film-muse.91159c19cf.mp4",
+      "compare": "/ai-videos/landing/manus-2-launch-video/compare-muse.3defc6c2a6.mp4",
+      "filmPoster": "/ai-videos/landing/manus-2-launch-video/film-muse-poster.29c8d6e373.jpg",
+      "comparePoster": "/ai-videos/landing/manus-2-launch-video/compare-muse-poster.3b0bbef9aa.jpg"
+     },
+     {
+      "name": "Skillry",
+      "film": "/ai-videos/landing/manus-2-launch-video/film-skillry.f90cd793e0.mp4",
+      "compare": "/ai-videos/landing/manus-2-launch-video/compare-skillry.eae490f543.mp4",
+      "filmPoster": "/ai-videos/landing/manus-2-launch-video/film-skillry-poster.dfcb6a8572.jpg",
+      "comparePoster": "/ai-videos/landing/manus-2-launch-video/compare-skillry-poster.49c98ed65c.jpg"
+     }
+    ]
+   }
   },
   {
    "slug": "ai-motion-graphics",
@@ -34,7 +61,101 @@
    "title": "Edit 10x faster with motion graphics Skills",
    "description": "A-roll and B-roll motion graphics for Claude Code, Codex and Cursor, rendered to editable MP4.",
    "kind": "landing",
-   "sortOrder": 40
+   "sortOrder": 40,
+   "landing": {
+    "heroVideo": "/ai-videos/landing/ai-motion-graphics/preview.mp4",
+    "heroPoster": "/ai-videos/landing/ai-motion-graphics/title-behind-subject.19c24abc23.webp",
+    "gallery": [
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/title-behind-subject.19c24abc23.webp",
+      "label": "Title Behind Subject"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/action-checklist.a09f71c90c.webp",
+      "label": "Action Checklist"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/calculation-roi.5cf575c6b8.webp",
+      "label": "Calculation Roi"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/chapter-reveal.e650bf7f1e.webp",
+      "label": "Chapter Reveal"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/chapter-stamp.49cb8ae1e9.webp",
+      "label": "Chapter Stamp"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/chart-presenter-swap.7e988dc92b.webp",
+      "label": "Chart Presenter Swap"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/definition-reframe.3ddfa8846b.webp",
+      "label": "Definition Reframe"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/format-16x9.78c1455167.webp",
+      "label": "Format 16X9"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/hub-routing.eb122cc6db.webp",
+      "label": "Hub Routing"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/palettes.042ed465d5.webp",
+      "label": "Palettes"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/polygon-wipe.5d88992a57.webp",
+      "label": "Polygon Wipe"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/quote-evidence.c0d6fd7530.webp",
+      "label": "Quote Evidence"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/sequential-bars.54023c9bdc.webp",
+      "label": "Sequential Bars"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/slide-focus.a1a8275478.webp",
+      "label": "Slide Focus"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/title-card.537511a9cb.webp",
+      "label": "Title Card"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/title-scene-takeover.f08e79100e.webp",
+      "label": "Title Scene Takeover"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/topic-cloud.79cba23a73.webp",
+      "label": "Topic Cloud"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/capcut.7c91dafcb2.webp",
+      "label": "Capcut"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/davinci-resolve.23730d1828.webp",
+      "label": "Davinci Resolve"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/final-cut-pro.7a040d8924.webp",
+      "label": "Final Cut Pro"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/premiere-pro.628e297953.webp",
+      "label": "Premiere Pro"
+     },
+     {
+      "src": "/ai-videos/landing/ai-motion-graphics/format-9x16.026ae6e806.webp",
+      "label": "Format 9X16"
+     }
+    ]
+   }
   }
  ],
  "videos": [
