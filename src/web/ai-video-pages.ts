@@ -119,7 +119,7 @@ export function aiVideoCollectionPage(input: {
         ? `<figure class="ai-landing-hero">
       <video src="${escapeHtml(landing.heroVideo)}" poster="${escapeHtml(
         landing.heroPoster ?? ""
-      )}" controls autoplay muted loop playsinline preload="metadata"></video>
+      )}" controls playsinline preload="metadata"></video>
     </figure>`
         : ""
     }
