@@ -139,7 +139,7 @@ export function aiVideoCollectionPage(input: {
         isLanding ? "All AI videos" : "Explore video Skills"
       }</a>
     </div>
-    <p class="ai-hero__proof">${collection.videoCount} creator videos · credited to their authors · linked to the original posts</p>
+    <p class="ai-hero__proof">${isLanding ? "Built for Claude Code, Codex, Cursor and other SKILL.md agents" : `${collection.videoCount} creator videos · credited to their authors · linked to the original posts`}</p>
   </header>
   ${isLanding ? "" : `<section id="ai-video-grid" class="ai-browser">
     <div class="ai-browser__head">
