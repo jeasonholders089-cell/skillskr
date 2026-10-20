@@ -20,6 +20,16 @@ import {
   aiVideoDetailPage,
   aiVideoIndexPage,
 } from "./ai-video-pages.ts";
+import {
+  aboutPage,
+  contactPage,
+  llmsTxt,
+  pricingPage,
+  refundPage,
+  robotsTxt,
+  sitemapXml,
+} from "./core-pages.ts";
+import { contentPage, learnIndexPage, pagePaths } from "./content-pages.ts";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const publicDir = resolve(here, "..", "..", "public");
@@ -92,13 +102,31 @@ webRouter.get("/skills/role/:slug", (req: Request, res: Response) => {
   res.redirect(302, `/skills?role=${encodeURIComponent(req.params.slug)}`);
 });
 webRouter.get("/skills/use-case/:slug", (req: Request, res: Response) => {
-  res.redirect(302, `/skills?use_case=${encodeURIComponent(req.params.slug)}`);
+  const html = contentPage(`/skills/use-case/${req.params.slug}`);
+  if (html) {
+    res.type("html").send(html);
+    return;
+  }
+  res.redirect(301, `/skills?use_case=${encodeURIComponent(req.params.slug)}`);
+});
+webRouter.get("/skills/task/:slug", (req: Request, res: Response) => {
+  const html = contentPage(`/skills/task/${req.params.slug}`);
+  if (!html) {
+    res.status(404).send("Not found");
+    return;
+  }
+  res.type("html").send(html);
 });
 webRouter.get("/skills/agent", (_req: Request, res: Response) => {
   res.redirect(302, "/skills");
 });
-webRouter.get("/skills/agent/:slug", (_req: Request, res: Response) => {
-  res.redirect(302, "/skills");
+webRouter.get("/skills/agent/:slug", (req: Request, res: Response) => {
+  const html = contentPage(`/skills/agent/${req.params.slug}`);
+  if (html) {
+    res.type("html").send(html);
+    return;
+  }
+  res.redirect(301, "/skills");
 });
 webRouter.get("/skills/html-slides", (_req: Request, res: Response) => {
   res.redirect(302, "/skills?output=Slides&q=html");
@@ -130,8 +158,51 @@ webRouter.get(
 );
 
 webRouter.get("/pricing", (_req: Request, res: Response) => {
-  res.redirect(302, "/#pricing");
+  res.type("html").send(pricingPage());
 });
+webRouter.get("/about", (_req: Request, res: Response) => {
+  res.type("html").send(aboutPage());
+});
+webRouter.get("/refund", (_req: Request, res: Response) => {
+  res.type("html").send(refundPage());
+});
+webRouter.get("/contact", (_req: Request, res: Response) => {
+  res.type("html").send(contactPage());
+});
+webRouter.get("/learn/:slug", (req: Request, res: Response) => {
+  const html = contentPage(`/learn/${req.params.slug}`);
+  if (!html) {
+    res.status(404).send("Not found");
+    return;
+  }
+  res.type("html").send(html);
+});
+webRouter.get("/learn", (_req: Request, res: Response) => {
+  res.type("html").send(learnIndexPage());
+});
+
+/* ------------------------------------------------------------------ seo --- */
+
+webRouter.get("/robots.txt", (_req: Request, res: Response) => {
+  res.type("text/plain").set("Cache-Control", "public, max-age=3600").send(robotsTxt());
+});
+webRouter.get(
+  "/sitemap.xml",
+  handler((_req: Request, res: Response) => {
+    const { skills } = listSkills({ limit: 500 });
+    res
+      .type("application/xml")
+      .set("Cache-Control", "public, max-age=3600")
+      .send(sitemapXml(skills, pagePaths()));
+  })
+);
+webRouter.get(
+  "/llms.txt",
+  handler((_req: Request, res: Response) => {
+    const { skills } = listSkills({ limit: 500 });
+    res.type("text/plain").set("Cache-Control", "public, max-age=3600").send(llmsTxt(skills));
+  })
+);
 
 /* ------------------------------------------------------------- ai videos -- */
 

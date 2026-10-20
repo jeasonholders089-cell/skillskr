@@ -1,4 +1,5 @@
 import { escapeHtml, renderPage } from "./layout.ts";
+import { absolute, SITE, skillSeo } from "./seo.ts";
 import type { PublicSkill } from "../repos/skills.ts";
 import { OUTPUTS } from "../repos/skills.ts";
 import type { PlanRow } from "../repos/billing.ts";
@@ -111,6 +112,7 @@ function legacySkillsPage(input: {
     description: "Browse every skillskr Agent Skill: web, slides, video and image workflows.",
     body,
     scripts: ["/assets/site.js"],
+    path: "/skills",
   });
 }
 
@@ -223,11 +225,57 @@ export function skillDetailPage(input: {
   }
 </section></div>`;
 
+  const seo = skillSeo(
+    skill.slug,
+    `${skill.title}: Agent Skill for ${skill.output}`,
+    `${skill.title} — an Agent Skill for ${skill.output.toLowerCase()} work.`
+  );
+  const image = absolute(skill.preview) ?? undefined;
+  const url = `${SITE.url}/skills/${skill.slug}`;
+
   return renderPage({
-    title: skill.title,
-    description: `${skill.title} — an Agent Skill for ${skill.output.toLowerCase()} work.`,
+    title: seo.title,
+    description: seo.description,
     body,
     scripts: ["/assets/site.js"],
+    path: `/skills/${skill.slug}`,
+    image,
+    appendBrand: false,
+    schema: [
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        name: skill.title,
+        description: seo.description,
+        url,
+        applicationCategory: "DesignApplication",
+        applicationSubCategory: skill.output,
+        operatingSystem: "macOS, Windows, Linux",
+        softwareVersion: skill.version || undefined,
+        image: image ? [image] : undefined,
+        offers: {
+          "@type": "Offer",
+          price: skill.free ? 0 : 9.99,
+          priceCurrency: "USD",
+          availability: "https://schema.org/InStock",
+          url,
+        },
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Skills", item: `${SITE.url}/skills` },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: skill.output,
+            item: `${SITE.url}/skills?output=${encodeURIComponent(skill.output)}`,
+          },
+          { "@type": "ListItem", position: 3, name: skill.title, item: url },
+        ],
+      },
+    ],
   });
 }
 

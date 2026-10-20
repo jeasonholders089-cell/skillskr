@@ -1429,3 +1429,162 @@
     display: none;
   }
 }
+
+/* --- long-form pages (pricing, about, refund, contact, guides) ------------- */
+
+.prose {
+  max-width: 68ch;
+  margin: 0 auto;
+  padding: 56px 0 80px;
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--fg);
+}
+
+.prose h1 {
+  font-family: var(--font-brand);
+  font-size: clamp(32px, 4vw, 46px);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  margin: 10px 0 24px;
+}
+
+.prose h2 {
+  font-family: var(--font-brand);
+  font-size: 24px;
+  line-height: 1.25;
+  margin: 40px 0 12px;
+}
+
+.prose h3 {
+  font-size: 18px;
+  margin: 28px 0 8px;
+}
+
+.prose p,
+.prose li {
+  color: var(--fg);
+}
+
+.prose ul,
+.prose ol {
+  padding-left: 1.25em;
+  margin: 12px 0;
+}
+
+.prose ul {
+  list-style: disc;
+}
+
+.prose ol {
+  list-style: decimal;
+}
+
+.prose li::marker {
+  color: var(--muted-fg);
+}
+
+.prose li {
+  margin: 0.35em 0;
+}
+
+.prose a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.prose code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--muted);
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+  font-size: 0.95em;
+}
+
+.prose th,
+.prose td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.prose th {
+  font-weight: 600;
+}
+
+.prose blockquote {
+  margin: 24px 0;
+  padding: 12px 18px;
+  border-left: 3px solid var(--accent);
+  background: var(--panel);
+}
+
+.prose--faq {
+  padding-top: 8px;
+}
+
+.faq__item {
+  border-bottom: 1px solid var(--border);
+  padding: 14px 0;
+}
+
+.faq__item summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.faq__item p {
+  margin: 10px 0 0;
+  color: var(--muted-fg);
+}
+
+.pricing--page {
+  padding-top: 24px;
+}
+
+.pricing--page .pricing__head {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.learn-group {
+  margin-top: 44px;
+}
+
+.learn-blurb {
+  color: var(--muted-fg);
+  margin: 6px 0 14px;
+}
+
+.learn-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.learn-list li {
+  border-top: 1px solid var(--border);
+  padding: 12px 0;
+}
+
+.learn-list a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.learn-list li span {
+  display: block;
+  color: var(--muted-fg);
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 2px;
+}
