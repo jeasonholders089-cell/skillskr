@@ -1,0 +1,2012 @@
+{
+ "bs-a24-style-og": {
+  "title": "A24 Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create A24-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-academic-argument-deck": {
+  "title": "Academic Argument Deck: Claude Code Skill for Slide Decks",
+  "description": "Create an academic presentation whose action titles carry a defensible argument from question to conclusion. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-acid-agency-deck": {
+  "title": "Acid Agency Deck: Claude Code Skill for Slide Decks",
+  "description": "Create energetic creative proposal pages with acid lime, orange and violet fields, oversized condensed headings. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-airbnb-style-og": {
+  "title": "Airbnb Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Airbnb-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-airy-flight-booking-landing": {
+  "title": "Airy Flight Booking Landing: Claude Code Skill for Web Pages",
+  "description": "Build a complete flight and hotel booking site with a pale blue ground, a white rounded shell. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-algolia-style-og": {
+  "title": "Algolia Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Algolia-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-allegorical-engraving-cover": {
+  "title": "Allegorical Engraving Cover - Claude Code & Codex Skill",
+  "description": "Turn an article’s central argument into a finished black-and-white engraved cover built around one clear visual — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-alpine-travel-agency-landing": {
+  "title": "Alpine Travel Agency Landing: Agent Skill for Web Pages",
+  "description": "Build a complete mountain travel website: a full-bleed valley photo, one giant white display word. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-amber-scrapbook-suite": {
+  "title": "Amber Scrapbook Suite: Claude Code Skill for Web Pages",
+  "description": "Build the whole surface of a SaaS product in a warm amber scrapbook style: a marketing home page. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-annotated-wash-diagram": {
+  "title": "Annotated Wash Diagram: Agent Skill for Image Generation",
+  "description": "Creates a presentation-ready concept diagram with translucent color washes, precise linework. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-apple-style-og": {
+  "title": "Apple Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Apple-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-appliance-exploded-poster": {
+  "title": "Appliance Exploded Poster: Agent Skill for Image Generation",
+  "description": "Creates a polished appliance exploded-view poster from an approved parts and materials list. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-apricot-doodle-plan-deck": {
+  "title": "Apricot Ink Marketing Deck: Agent Skill for Slide Decks",
+  "description": "Create a marketing plan with orange bands, cream paper, and original ink-line characters. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-aqua-campus-deck": {
+  "title": "Aqua Campus Deck: Claude Code Skill for Slide Decks",
+  "description": "Create clean learning-program presentation pages with heavy rounded headings, white space. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-architectural-project-deck": {
+  "title": "Architectural Project Deck: Agent Skill for Slide Decks",
+  "description": "Create an architectural project presentation with site logic, spatial sequencing, material evidence. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-article-brief-deck": {
+  "title": "Article Brief Deck: Claude Code Skill for Slide Decks",
+  "description": "Turns a verified article into a horizontally paged briefing deck with an argument spine, evidence slides. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-article-illustration-set": {
+  "title": "Article Illustration Set: Agent Skill for Image Generation",
+  "description": "Creates three original, visually consistent illustrations for distinct beats in one approved article. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-asana-style-og": {
+  "title": "Asana Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Asana-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-aurawave-audio-landing": {
+  "title": "Aurawave Audio Landing: Claude Code Skill for Web Pages",
+  "description": "Create a premium launch site for a speaker, headphones or any physical product. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-auth0-style-og": {
+  "title": "Auth0 Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Auth0-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-basalt-dev-portfolio": {
+  "title": "Basalt Dev Portfolio: Claude Code Skill for Web Pages",
+  "description": "A complete personal developer site on a near-black ground with one cyan accent and clean Geist type. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-beacon-saas-landing": {
+  "title": "Beacon SaaS Landing: Claude Code Skill for Web Pages",
+  "description": "A calm SaaS marketing site on warm neutrals, lit by a single soft blue light beam, with gradient headlines. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-bento-designer-portfolio": {
+  "title": "Bento Designer Portfolio: Claude Code Skill for Web Pages",
+  "description": "Build a designer portfolio with a pale grey stage, a two-line headline with a faded second line. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-bioactive-pathway-poster": {
+  "title": "Bioactive Pathway Poster: Agent Skill for Image Generation",
+  "description": "Creates a cited bioactive pathway poster that separates ingredient context, proposed mechanism, measured endpoint. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-blue-block-company-deck": {
+  "title": "Blue Block Company Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a company presentation with deep blue framing, architectural imagery, and clear metric pages. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-blue-lime-ledger-deck": {
+  "title": "Blue Lime Ledger Deck: Claude Code Skill for Slide Decks",
+  "description": "Create analytical presentation pages with tall editorial photo cards, electric-blue and lime labels. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-bluewave-podcast-site": {
+  "title": "Bluewave Podcast Site: Claude Code Skill for Web Pages",
+  "description": "Build a premium home for an interview podcast: a dark rounded hero card lit by soft cobalt and cyan blooms. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-botanical-quiet-deck": {
+  "title": "Botanical Quiet Deck: Claude Code Skill for Slide Decks",
+  "description": "Create quiet illustrated presentation pages with flat teal foliage, powder-blue paper, peach accents. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-brand-story-deck": {
+  "title": "Brand Story Deck: Claude Code Skill for Slide Decks",
+  "description": "Build a high-contrast editorial brand story deck with a narrative spine, visual codes, and editable 16:9 HTML slides. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-brex-style-og": {
+  "title": "Brex Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Brex-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-brush-paper-deck": {
+  "title": "Brush Paper Deck: Claude Code Skill for Slide Decks",
+  "description": "Create handcrafted presentation pages with cream paper, flowing script headings, primary dry-brush marks. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-cadence-marketing-landing": {
+  "title": "Cadence Marketing Landing: Claude Code Skill for Web Pages",
+  "description": "Create a dark, motion-rich SaaS marketing site that tells one continuous product story: a charcoal ground. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-calendly-style-og": {
+  "title": "Calendly Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Calendly-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-cash-app-style-og": {
+  "title": "Cash App Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Cash App-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-chalkboard-infographic": {
+  "title": "Chalkboard Infographic: Agent Skill for Image Generation",
+  "description": "Turn a lesson, process, or data story into a readable chalkboard-style infographic with clear hierarchy. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-chromatic-futures-deck": {
+  "title": "Chromatic Futures Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a presentation with tactile paper collages, colorful editorial bands. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-cinematic-shot-grid": {
+  "title": "Cinematic Shot Grid: Claude Code Skill for Image Generation",
+  "description": "Builds a continuity-aware storyboard contact sheet with deliberate changes in shot size, angle, movement. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-cinematic-wilds-deck": {
+  "title": "Cinematic Wilds Deck: Claude Code Skill for Slide Decks",
+  "description": "Create cinematic nature-storytelling slides with original painterly animated animals, expansive fantasy landscapes. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-citrus-loop-deck": {
+  "title": "Citrus Loop Deck: Claude Code Skill for Slide Decks",
+  "description": "Create refined circular-materials presentation pages with white modular layouts, orange, lime and lavender capsules. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-city-street-map-illustrator": {
+  "title": "City Street Map Illustrator - Claude Code & Codex Skill",
+  "description": "Creates an original illustrated street-map scene from verified geography while separating decorative landmarks from… Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-claude-style-illustration": {
+  "title": "Claude Style Illustration: Agent Skill for Image Generation",
+  "description": "Create an Anthropic Style editorial illustration that turns one idea into an immediately readable visual metaphor. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-cloud-jet-travel-landing": {
+  "title": "Cloud Jet Travel Landing: Claude Code Skill for Web Pages",
+  "description": "Build a complete private-travel website on a soft lilac grey ground: a dark jet gliding through pale clouds. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-cobalt-dark-pitch-deck": {
+  "title": "Cobalt Ribbon Pitch Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a product pitch with electric blue ribbons, black canvases, and offset pale-blue panels. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-cobalt-growth-deck": {
+  "title": "Cobalt Growth Deck: Claude Code Skill for Slide Decks",
+  "description": "Create corporate operations presentation pages with vivid cobalt covers, lime utility cards. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-cobalt-ribbon-profile-deck": {
+  "title": "Cobalt Ribbon Profile Deck: Agent Skill for Slide Decks",
+  "description": "Create a company profile with cobalt title ribbons, angled architectural imagery, and structured goal pages. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-cobalt-serif-freelancer-site": {
+  "title": "Cobalt Serif Freelancer Site: Agent Skill for Web Pages",
+  "description": "A one-person studio site for a UI/UX designer who sells fixed-price plans. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-cobalt-serif-marketing-deck": {
+  "title": "Cobalt Serif Marketing Deck: Agent Skill for Slide Decks",
+  "description": "Create an editable presentation with serif headlines, charcoal pages, cobalt crescent discs. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-cobalt-system-deck": {
+  "title": "Cobalt System Deck: Claude Code Skill for Slide Decks",
+  "description": "Create crisp identity-guideline presentation pages with cobalt-blue chapter fields, lemon accents, ivory layouts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-coinhaven-crypto-landing": {
+  "title": "Coinhaven Crypto Landing: Claude Code Skill for Web Pages",
+  "description": "A light, precise marketing site for a digital-asset payments or treasury product. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-collage-creative-portfolio": {
+  "title": "Collage Creative Portfolio: Claude Code Skill for Web Pages",
+  "description": "Build a designer portfolio that looks like a studio wall: warm grey paper, cobalt and orange inks, masking tape. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-composition-study-generator": {
+  "title": "Composition Study Generator - Claude Code & Codex Skill",
+  "description": "Produces three photographic studies that intentionally vary line, shape, texture, balance. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-confetti-gathering-deck": {
+  "title": "Confetti Gathering Deck: Claude Code Skill for Slide Decks",
+  "description": "Create vivid gathering presentation pages using bright pink yellow green blue and cyan fields, heavy slanted titles. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-confetti-marketing-landing": {
+  "title": "Confetti Marketing Landing: Claude Code Skill for Web Pages",
+  "description": "Build a playful marketing site for a SaaS product: a porcelain page framed by dotted-grid panels. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-consulting-storyline-deck": {
+  "title": "Consulting Storyline Deck: Claude Code Skill for Slide Decks",
+  "description": "Creates a consulting storyline deck with action titles, restrained red accents, structured evidence blocks. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-contexa-cms-landing": {
+  "title": "Contexa CMS Landing: Claude Code Skill for Web Pages",
+  "description": "Build a marketing site for a developer product that explains itself through working UI: a light-first. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-continuity-asset-set": {
+  "title": "Continuity Asset Set: Claude Code Skill for Image Generation",
+  "description": "Creates a matched set of character, prop, and environment studies governed by a shared continuity sheet. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-cozy-island-deck": {
+  "title": "Cozy Island Deck: Claude Code Skill for Slide Decks",
+  "description": "Create cozy island presentation pages with bright original 3D animal scenes, tropical landscapes. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-creatormotion-cards-action-checklist": {
+  "title": "CreatorMotion · Synchronized Ac...: Claude Code Skill",
+  "description": "Create a timed checklist animation for a short screen demonstration. The checklist completes at supplied moments. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-card-counter": {
+  "title": "CreatorMotion · Accumulating Ca...: Claude Code Skill",
+  "description": "Add repeated cards while updating a total in lockstep. Resolve the accumulation with a summary badge. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-chapter-stack": {
+  "title": "CreatorMotion · Chapter to Stacked Detail: AI video Skill",
+  "description": "Introduce a chapter with a large numeral, then replace it with stacked explanation cards. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-chat-stack": {
+  "title": "CreatorMotion · Chat Message Stack: Agent Skill for AI Video",
+  "description": "Add chat messages into a stable conversation shell. Preserve message wrapping and the shared input area as the stack… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-context-conflict": {
+  "title": "CreatorMotion · Shared Context Conflict: AI video Skill",
+  "description": "Keep separate role cards visible while a new shared context fills below. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-corner-tags": {
+  "title": "CreatorMotion · Center and Corner Tags: AI video Skill",
+  "description": "Keep a central statement fixed while four surrounding tags complete the picture. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-cost-range": {
+  "title": "CreatorMotion · Cost Cards to Range: AI video Skill",
+  "description": "Introduce two costs, then count up the lower and upper bounds of a combined range. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-folder-grid": {
+  "title": "CreatorMotion · Folder Grid Filing: Agent Skill for AI Video",
+  "description": "Organize a grid of folders and clear loose document markers into their destinations. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-foreground-row": {
+  "title": "CreatorMotion · Presenter Foreg...: Claude Code Skill",
+  "description": "Introduce a row of visual cards in front of a presenter. Settle them into even spacing without covering the — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-grid-priority": {
+  "title": "CreatorMotion · Grid with Priority Reveal: AI video Skill",
+  "description": "Complete a four-card grid and make the final quadrant the priority. Preserve the existing cards as the new emphasis… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-inspect-split": {
+  "title": "CreatorMotion · Inspect Split Reveal: AI video Skill",
+  "description": "Inspect two cards, move them apart and reveal a result between them. Finish by moving attention into the center — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-keyword-resolve": {
+  "title": "CreatorMotion · Keyword Cloud to Conclusion: AI video Skill",
+  "description": "Spread related keywords around a main idea, then resolve the cloud into a central conclusion and evidence card. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-list-audience": {
+  "title": "CreatorMotion · Question List to Audience: AI video Skill",
+  "description": "Build a question list beside a growing audience array. Connect the list’s expansion to the move from one person to —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-matrix-fill": {
+  "title": "CreatorMotion · Matrix Fill and Pan: AI video Skill",
+  "description": "Pan across a table while filling paired cells in order. Keep rows aligned so each label reads with its corresponding… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-ratio-bridge": {
+  "title": "CreatorMotion · Ratio Between Two Sides: AI video Skill",
+  "description": "Animate a percentage between two stable groups and change its status color as it improves. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-roadmap-focus": {
+  "title": "CreatorMotion · Roadmap Focus Push: Agent Skill for AI Video",
+  "description": "Populate a multi-level roadmap, then push into the first actionable section. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-sequential-list": {
+  "title": "CreatorMotion · Sequential List Reveal: AI video Skill",
+  "description": "Reveal list rows in a deliberate reading sequence. Choose numbered capsules or bullet rows while preserving the — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-status-row": {
+  "title": "CreatorMotion · Card Row Status Badges: AI video Skill",
+  "description": "Add status badges and supporting conclusions to an existing row of cards. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-cards-steps-title": {
+  "title": "CreatorMotion · Step Cards to Chapter: AI video Skill",
+  "description": "Advance emphasis across linked step cards, then hand the frame to a chapter title. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-chapter-border-orbit": {
+  "title": "CreatorMotion · Chapter Border Orbit: AI video Skill",
+  "description": "A chapter card settles over a muted background while a narrow highlight travels its perimeter. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-chapter-browser-reveal": {
+  "title": "CreatorMotion · Browser Chapter Reveal: AI video Skill",
+  "description": "A minimal browser window becomes a chapter stage. Its large title sharpens line by line before the window breaks… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-chapter-character-reveal": {
+  "title": "CreatorMotion · Chapter Character Reveal: AI video Skill",
+  "description": "A chapter label introduces a headline that becomes readable one character at a time. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-chapter-grid-flip": {
+  "title": "CreatorMotion · Chapter Grid Flip: Agent Skill for AI Video",
+  "description": "A field of small icon tiles turns as the camera finds the next chapter. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-chapter-grid-pan": {
+  "title": "CreatorMotion · Chapter Grid Pan: Agent Skill for AI Video",
+  "description": "A camera travels across an oversized icon grid to a new chapter. The selected cell receives a short multiline title… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-chapter-label-stack": {
+  "title": "CreatorMotion · Chapter Label Stack: AI video Skill",
+  "description": "A small chapter badge, large headline and brief subtitle build a clear three-level title. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-chapter-title-stamp": {
+  "title": "CreatorMotion · Chapter Title Stamp: AI video Skill",
+  "description": "A compact chapter title lands with a slight angular settle, followed by its small ordinal. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-collage-document-stack": {
+  "title": "CreatorMotion · Tilted Document Stack Cycle: AI video Skill",
+  "description": "Full-height documents replace one another at the front of an angled paper stack. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-collage-dossier-role": {
+  "title": "CreatorMotion · Dossier Beside a Role: AI video Skill",
+  "description": "A stable role portrait anchors a changing dossier of material. One lead document becomes four labeled pages before a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-collage-evidence-summary": {
+  "title": "CreatorMotion · Evidence Wall Summary: AI video Skill",
+  "description": "A varied wall of source notes stays available behind a concise conclusion. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-collage-parallax-proof": {
+  "title": "CreatorMotion · Parallax Eviden...: Claude Code Skill",
+  "description": "Travel through a dense field of notes at three depths. A direct typographic conclusion then takes priority. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-collage-portrait-notes": {
+  "title": "CreatorMotion · Portrait with E...: Claude Code Skill",
+  "description": "A large portrait and biographical notes form one editorial spread. Text appears in measured beats. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-collage-scatter-presenter": {
+  "title": "CreatorMotion · Scattered Image...: Claude Code Skill",
+  "description": "A full-frame image breaks into a layered group of photographs. The photographs then move decisively to the sides. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-collage-testimonial-wall": {
+  "title": "CreatorMotion · Overlapping Testimonial Hold: AI video Skill",
+  "description": "A settled wall of supplied quotations gives the viewer room to read. Slight page overlaps and varied dimensions — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-accumulation-blocks": {
+  "title": "CreatorMotion · Accumulation Blocks: AI video Skill",
+  "description": "Colored units accumulate on a shared weekly grid. A delayed second history enters at the matching week. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-calculation-roi": {
+  "title": "CreatorMotion · Calculation to Return: AI video Skill",
+  "description": "A clear multiplication resolves to an exact monetary value. The calculation shifts aside as a second measured view —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-capacity-reset": {
+  "title": "CreatorMotion · Capacity Reset: Agent Skill for AI Video",
+  "description": "Two capacity tracks establish a shared scale before the saturated track compacts into discrete segments. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-column-annotations": {
+  "title": "CreatorMotion · Column Annotations: Agent Skill for AI Video",
+  "description": "Three tall documents remain aligned while the reading focus moves from column to column. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-composition-strip": {
+  "title": "CreatorMotion · Composition Strip: Agent Skill for AI Video",
+  "description": "Segments assemble into one continuous 100% strip on a fixed shared scale. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-cost-total": {
+  "title": "CreatorMotion · Cost Ledger Total: Agent Skill for AI Video",
+  "description": "Expense lines populate an oversized editorial ledger in reading order. A ruled total appears only after the itemized… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-device-allocation": {
+  "title": "CreatorMotion · Device Role Link: Agent Skill for AI Video",
+  "description": "Two device images receive separate roles before a dashed bridge reveals their shared capability. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-document-collapse": {
+  "title": "CreatorMotion · Document Collapse Contrast: AI video Skill",
+  "description": "Large unstructured pages establish the reading burden. The pages contract into one side as a compact usable result —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-dual-sliders": {
+  "title": "CreatorMotion · Dual Tendency Scales: AI video Skill",
+  "description": "Two large tendency scales settle at independent values. Short context labels and a compact symbol group attach to… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-feature-matrix": {
+  "title": "CreatorMotion · Feature Matrix Reveal: AI video Skill",
+  "description": "Fixed option headings establish a common comparison grid. Each dimension appears first. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-focus-bars": {
+  "title": "CreatorMotion · Focus Bars: Claude Code Skill for AI Video",
+  "description": "A narrow visual focus selects one measured column at a time. Each selected bar grows from zero with its endpoint — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-grouped-bars": {
+  "title": "CreatorMotion · Grouped Metric Bars: AI video Skill",
+  "description": "Two series fill within one metric before the next metric begins. Each pair keeps its own numerical scale and unit. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-icon-distribution": {
+  "title": "CreatorMotion · Icon Distribution Sweep: AI video Skill",
+  "description": "Repeated unit symbols populate each measured row while the camera follows the distribution downward. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-latest-history": {
+  "title": "CreatorMotion · Latest Then History: AI video Skill",
+  "description": "The latest percentage stack resolves first. Older periods then populate on the same 100% scale. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-line-trend": {
+  "title": "CreatorMotion · Line and Trend Draw: AI video Skill",
+  "description": "Observed data draws across a full-shot plot, with each point landing at its measured position. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-one-many": {
+  "title": "CreatorMotion · One Versus Many: Agent Skill for AI Video",
+  "description": "One complete item contracts into a stable anchor. A bold comparison sign and a countable grid of smaller items… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-paired-swap": {
+  "title": "CreatorMotion · Paired Result Swap: Agent Skill for AI Video",
+  "description": "Fixed before-and-after labels anchor a rapid sequence of complete visual pairs. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-prompt-results": {
+  "title": "CreatorMotion · Prompted Result Inspection: AI video Skill",
+  "description": "Two large result images share one input brief. A decisive selection frame identifies the stronger match before the —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-quadrant-focus": {
+  "title": "CreatorMotion · Quadrant Focus: Agent Skill for AI Video",
+  "description": "Axes establish a spatial decision map before labeled points appear at their supplied coordinates. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-query-screens": {
+  "title": "CreatorMotion · One Query Multiple Screens: AI video Skill",
+  "description": "One typed query anchors several tall result views. Channel labels and complete screens enter beneath it in a compact… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-quote-sliders": {
+  "title": "CreatorMotion · Quote Sliders: Agent Skill for AI Video",
+  "description": "Each package quote develops through a moving slider, a synchronized amount and a compact inclusion list. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-radar-reveal": {
+  "title": "CreatorMotion · Radar Explanation Reveal: AI video Skill",
+  "description": "A measured radar silhouette expands from its center before vertex values appear. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-ratio-bars": {
+  "title": "CreatorMotion · Ratio Bars: Claude Code Skill for AI Video",
+  "description": "Two horizontal bars grow on one linear scale with values attached to their endpoints. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-records-donut": {
+  "title": "CreatorMotion · Records and Donut: Agent Skill for AI Video",
+  "description": "A request log builds alongside a circular summary of the same evidence. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-row-focus-cards": {
+  "title": "CreatorMotion · Row Focus Cards: Agent Skill for AI Video",
+  "description": "A reading band scans the first tall comparison board. A second board joins it. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-sequential-bars": {
+  "title": "CreatorMotion · Sequential Bars: Agent Skill for AI Video",
+  "description": "Columns grow one at a time from a shared baseline, with counters attached to their moving endpoints. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-stage-loss": {
+  "title": "CreatorMotion · Stage Loss Lanes: Agent Skill for AI Video",
+  "description": "Two paths develop stage by stage on the same percentage scale. Precise side pointers then identify the selected — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-target-overrun": {
+  "title": "CreatorMotion · Target Overrun: Agent Skill for AI Video",
+  "description": "A measured fill reaches a visible goal line and continues into a separately treated excess segment. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-trend-card-tour": {
+  "title": "CreatorMotion · Trend Card Tour: Agent Skill for AI Video",
+  "description": "A close camera holds on one measured trend before travelling to the second. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-comparison-wording-choice": {
+  "title": "CreatorMotion · Wording Choice: Agent Skill for AI Video",
+  "description": "Two sentences type into full-width comparison strips with a separate versus beat. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-additive-equation": {
+  "title": "CreatorMotion · Parts to Whole Equation: AI video Skill",
+  "description": "Add components across the frame and resolve them into a result. Optional values may arrive after the equation has —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-anchored-callouts": {
+  "title": "CreatorMotion · Anchored Callout Reveal: AI video Skill",
+  "description": "Attach curved leaders to parts of a central step card. Reveal their explanations in sequence while the card stays —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-branch-reveal": {
+  "title": "CreatorMotion · Branch by Branch: Agent Skill for AI Video",
+  "description": "Reveal a hierarchy along connected routes, with each branch arriving in a clear order. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-capacity-callouts": {
+  "title": "CreatorMotion · Capacity with A...: Claude Code Skill",
+  "description": "Compare two containers as one fills with more information. Attach callouts to the relevant rows after the difference… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-convergence-evidence": {
+  "title": "CreatorMotion · Convergence to Evidence: AI video Skill",
+  "description": "Converge a list into a processor, then reconfigure the graph around a central evidence panel. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-cycle-build": {
+  "title": "CreatorMotion · Cycle Build and Close: AI video Skill",
+  "description": "Add nodes around a ring and complete the loop with a final return connection. Keep the closing edge as the payoff. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-cycle-traversal": {
+  "title": "CreatorMotion · Cycle State Traversal: AI video Skill",
+  "description": "Advance activity through an existing loop and update a round log beside it. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-decompose-scan": {
+  "title": "CreatorMotion · Decompose and Scan: Agent Skill for AI Video",
+  "description": "Split a main question into smaller parts, then scan them one at a time. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-funnel-absorption": {
+  "title": "CreatorMotion · Funnel Absorption: Agent Skill for AI Video",
+  "description": "Pull scattered inputs into a funnel and release a processed result below. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-handoff-explain": {
+  "title": "CreatorMotion · Handoff and Explain: AI video Skill",
+  "description": "Connect an old state to a new state, then move the new state into the lead position. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-hub-routing": {
+  "title": "CreatorMotion · Hub Routing: Claude Code Skill for AI Video",
+  "description": "Route multiple inputs through a central hub to a destination or output group. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-input-convergence": {
+  "title": "CreatorMotion · Inputs Converge...: Claude Code Skill",
+  "description": "Join separate inputs into one shared result with staged connectors. Support vertical elbows or horizontal curves — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-list-bridge": {
+  "title": "CreatorMotion · List to Destination Bridge: AI video Skill",
+  "description": "Connect a bounded list to one destination using a dotted bridge. Preserve the list as a single unit rather than — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-milestone-detail": {
+  "title": "CreatorMotion · Milestone with Detail Branch: AI video Skill",
+  "description": "Establish progress along a horizontal path, then expand details from the active milestone. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-nested-workspace": {
+  "title": "CreatorMotion · Nested Workspace Build: AI video Skill",
+  "description": "Show a parent workspace containing a smaller work area with repeated children. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-pipeline-fanout": {
+  "title": "CreatorMotion · Pipeline to Output Fan: AI video Skill",
+  "description": "Condense a row of connected inputs into a compact header, then branch into multiple outputs. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-pipeline-package": {
+  "title": "CreatorMotion · Pipeline to Packaged Result: AI video Skill",
+  "description": "Build a production chain one stage at a time, then box the complete chain as a reusable system. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-quadrant-positioning": {
+  "title": "CreatorMotion · Quadrant Positioning: AI video Skill",
+  "description": "Build a two-axis map and place items into meaningful regions. Reveal axis labels and item positions as separate — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-radial-branches": {
+  "title": "CreatorMotion · Radial Branch Reveal: AI video Skill",
+  "description": "Extend connections from a stable center to surrounding peers. Reveal each spoke and endpoint as a paired beat. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-scope-emphasis": {
+  "title": "CreatorMotion · Nested Scope Emphasis: AI video Skill",
+  "description": "Emphasize a scope inside an existing hierarchy. Follow the active outline with a benefit and a caution. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-sequence-lanes": {
+  "title": "CreatorMotion · Message Sequence Lanes: AI video Skill",
+  "description": "Trace messages between participants down vertical lanes. Include a visible wait state before the response and — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-tier-pyramid": {
+  "title": "CreatorMotion · Tiered Pyramid Notes: AI video Skill",
+  "description": "Build a tiered pyramid and pair each layer with its matching explanation. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-diagram-timeline-nodes": {
+  "title": "CreatorMotion · Timeline Node Reveal: AI video Skill",
+  "description": "Reveal milestones in order along a shared horizontal track. Leave a clear settled interval after the final label. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-pip-calendar-reschedule": {
+  "title": "CreatorMotion · Calendar Reschedule: AI video Skill",
+  "description": "A calendar holds its spatial structure while a recognisable event travels to a new slot. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-pip-chat-response": {
+  "title": "CreatorMotion · Chat Response Presenter: AI video Skill",
+  "description": "A page and circular speaker establish context before a short exchange unfolds. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-pip-notification-log": {
+  "title": "CreatorMotion · Notification to Log: AI video Skill",
+  "description": "A tall phone establishes a saved result before sliding aside for its activity record. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-pip-slides-focus": {
+  "title": "CreatorMotion · Slide Focus Presenter: AI video Skill",
+  "description": "A presentation fills the shot while a tightly cropped speaker stays beside the slide. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-chart-pan": {
+  "title": "CreatorMotion · Chart Viewport Scan: AI video Skill",
+  "description": "A fixed narrow speaker column accompanies a deliberate scan across a large chart. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-chart-swap": {
+  "title": "CreatorMotion · Chart Presenter Swap: AI video Skill",
+  "description": "A large graph owns the main field while the speaker occupies a narrow edge. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-phone-callouts": {
+  "title": "CreatorMotion · Phone Feature Callouts: AI video Skill",
+  "description": "A tall presenter crop sits beside an oversized phone demonstration. Two short capability labels land decisively — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-phone-scale": {
+  "title": "CreatorMotion · Phone Completion Scale: AI video Skill",
+  "description": "A large phone occupies the foreground beside a close speaker. Completion changes the action state. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-progressive-list": {
+  "title": "CreatorMotion · Progressive Presenter List: AI video Skill",
+  "description": "A close speaker remains anchored while concise points build in a stable editorial column. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-quote-underline": {
+  "title": "CreatorMotion · Quote Underline Portrait: AI video Skill",
+  "description": "A desaturated portrait sits naturally within the frame beside a spacious quotation. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-response-spotlight": {
+  "title": "CreatorMotion · Response Line Spotlight: AI video Skill",
+  "description": "A close speaker explains a fixed response document while a bright reading strip isolates the current line. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-split-status-focus": {
+  "title": "CreatorMotion · Status Focus Sidebar: AI video Skill",
+  "description": "A close presenter crop shares the frame with three widely spaced statements. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-comment-emphasis": {
+  "title": "CreatorMotion · Comment Emphasis: Agent Skill for AI Video",
+  "description": "A source document remains visible behind a lifted editorial comment. Two selected phrases receive deliberate marker… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-issue-resolution": {
+  "title": "CreatorMotion · Issue to Resolution: AI video Skill",
+  "description": "A marked gap on the source page leads to a compact answer and completed stages. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-metric-audit": {
+  "title": "CreatorMotion · Metric Audit Marks: Agent Skill for AI Video",
+  "description": "A cropped analytics panel is examined metric by metric. Hand-drawn loops follow the chosen figures. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-metric-to-detail": {
+  "title": "CreatorMotion · Metric to Interface Detail: AI video Skill",
+  "description": "A large circular figure temporarily overlays a moving interface. Once the camera reaches the evidence. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-mobile-step": {
+  "title": "CreatorMotion · Mobile Step Pointer: AI video Skill",
+  "description": "An oversized phone remains the visual anchor while a clear instructional strip points to each tap target. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-quote-evidence": {
+  "title": "CreatorMotion · Source Quote Evidence: AI video Skill",
+  "description": "The source heading remains visible while an enlarged excerpt becomes the reading plane. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-region-callout": {
+  "title": "CreatorMotion · Region Callout: Agent Skill for AI Video",
+  "description": "A document is framed as a single evidence plane, then a precise region becomes the reading focus. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-shortcut-target": {
+  "title": "CreatorMotion · Shortcut Target: Agent Skill for AI Video",
+  "description": "A precise keypress leads attention to the control it affects. The surrounding application recedes during the focus —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-spotlight-voice-transcript": {
+  "title": "CreatorMotion · Voice Transcript Handoff: AI video Skill",
+  "description": "A compact recording control sits over a dimmed workspace while the live transcript accumulates below. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-transition-polygon-wipe": {
+  "title": "CreatorMotion · Polygon Scene Wipe: Agent Skill for AI Video",
+  "description": "Large angular planes cover one scene and open onto a brief title. A second geometric pass reveals the next scene… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-transition-tile-dissolve": {
+  "title": "CreatorMotion · Tile Scene Dissolve: AI video Skill",
+  "description": "A grid of small masks replaces one full-frame scene with a concise mark or statement. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-behind-subject": {
+  "title": "CreatorMotion · Title Behind Subject: AI video Skill",
+  "description": "A large title expands behind the presenter while the face remains clear. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-burst-statement": {
+  "title": "CreatorMotion · Echo Burst Statement: AI video Skill",
+  "description": "A short phrase creates a quick typographic burst before a concise statement appears. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-copy-correction": {
+  "title": "CreatorMotion · Copy Card Correction: AI video Skill",
+  "description": "An incorrect phrase is crossed out, then replaced with a stronger version on a fresh card. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-definition-reframe": {
+  "title": "CreatorMotion · Definition Reframe: Agent Skill for AI Video",
+  "description": "A familiar label loses its old definition and gains a broader one. A growing context graphic and new surrounding — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-keyword-caption": {
+  "title": "CreatorMotion · Keyword Caption Build: AI video Skill",
+  "description": "A compact caption builds with the spoken idea while key words use the accent color. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-opposing-labels": {
+  "title": "CreatorMotion · Opposing Side Labels: AI video Skill",
+  "description": "Two contrasting labels appear on opposite sides of the presenter. Different treatments clarify the tension while a —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-question-bubble": {
+  "title": "CreatorMotion · Question Bubble Pause: AI video Skill",
+  "description": "A solid speech balloon lands quickly. It holds an oversized question beside a dimensional thinking mark. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-spec-reveal": {
+  "title": "CreatorMotion · Specification Status Reveal: AI video Skill",
+  "description": "A small fact panel builds over supplied footage. A highlighted measurement appears first. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-tag-stack": {
+  "title": "CreatorMotion · Wrapping Tag Stack: Agent Skill for AI Video",
+  "description": "Short use cases gather beside a presenter as tidy wrapping tags. New clusters fill the available space while earlier… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-term-pressure": {
+  "title": "CreatorMotion · Surrounding Term Pressure: AI video Skill",
+  "description": "Short terms appear around a central subject until the frame feels crowded. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-title-takeover": {
+  "title": "CreatorMotion · Title Scene Takeover: AI video Skill",
+  "description": "An oversized condensed headline punches in behind a presenter. A clean edit removes the presenter while the same — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-topic-cloud": {
+  "title": "CreatorMotion · Topic Cloud Behind Presenter: AI video Skill",
+  "description": "A large topic title appears behind the presenter as related terms gather around it. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion-type-wall-checklist": {
+  "title": "CreatorMotion · Wall Checklist Reveal: AI video Skill",
+  "description": "A camera reframing makes room for a checklist on a plain wall. The presenter softens at the edge while the lines — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-creatormotion": {
+  "title": "CreatorMotion · Complete Motion...: Claude Code Skill",
+  "description": "Every CreatorMotion effect in one Skill, from charts, diagrams and kinetic type to presenter layouts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-cue-column-study-sheet": {
+  "title": "Cue-Column Study Sheet: Agent Skill for Image Generation",
+  "description": "Creates a structured study infographic with a cue-question column, modular note area, visual relationships. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-cue-style-launch-video": {
+  "title": "Cue Style Launch Video: Claude Code Skill for AI Video",
+  "description": "Turn a product name or website URL into a Cue style launch video for an AI agent or assistant product: a 60-90… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-cutpaper-collective-site": {
+  "title": "Cut-Paper Collective Site: Claude Code Skill for Web Pages",
+  "description": "A multi-page design-collective site in a torn-paper collage style: a small centred hero on black above painted — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-activity-calendar": {
+  "title": "Activity Calendar Chart: Claude Code Skill for Web Pages",
+  "description": "Activity Calendar Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-balance-chart": {
+  "title": "Dark Balance Chart: Claude Code Skill for Web Pages",
+  "description": "Dark Balance Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-event-bars": {
+  "title": "Event Bar Chart: Claude Code Skill for Web Pages",
+  "description": "Event Bar Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-funnel-area": {
+  "title": "Funnel Area Chart: Claude Code Skill for Web Pages",
+  "description": "Funnel Area Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-kpi-lines": {
+  "title": "KPI Line Panel: Claude Code Skill for Web Pages",
+  "description": "KPI Line Panel is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-paired-columns": {
+  "title": "Paired Column Chart: Claude Code Skill for Web Pages",
+  "description": "Paired Column Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-records-grid": {
+  "title": "Records Data Grid: Claude Code Skill for Web Pages",
+  "description": "Records Data Grid is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-spectrum-monitor": {
+  "title": "Spectrum Monitor Chart: Claude Code Skill for Web Pages",
+  "description": "Spectrum Monitor Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-spreadsheet-grid": {
+  "title": "Spreadsheet Data Grid: Claude Code Skill for Web Pages",
+  "description": "Spreadsheet Data Grid is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-stacked-columns": {
+  "title": "Stacked Column Chart: Claude Code Skill for Web Pages",
+  "description": "Stacked Column Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-data-visualization-summary-lines": {
+  "title": "Summary Line Chart: Claude Code Skill for Web Pages",
+  "description": "Summary Line Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-discord-style-og": {
+  "title": "Discord Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Discord-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-doodle-developer-portfolio": {
+  "title": "Doodle Developer Portfolio: Claude Code Skill for Web Pages",
+  "description": "A hand-drawn notebook portfolio for an independent developer or small studio. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-dot-avatar-maker": {
+  "title": "Dot Avatar Maker: Claude Code Skill for Web Pages",
+  "description": "Get the complete source of a live 3D avatar maker: a single HTML file with 25 cute dot, animal and fantasy forms. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-duolingo-style-og": {
+  "title": "Duolingo Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Duolingo-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-editable-visual-deck": {
+  "title": "Editable Visual Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a polished presentation from editable text, shapes, diagrams, and chart elements. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-editorial-dev-portfolio": {
+  "title": "Editorial Dev Portfolio: Claude Code Skill for Web Pages",
+  "description": "An editorial personal site for an independent software designer, developer or educator: a narrow white column on a —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-editorial-ink-landing": {
+  "title": "Editorial Ink Landing: Claude Code Skill for Web Pages",
+  "description": "Build a calm, typography-led launch site for a software product: serif headlines on warm paper. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-editorial-personal-brand-landing": {
+  "title": "Editorial Personal Brand Landing: Agent Skill for Web Pages",
+  "description": "Build a calm personal-brand website for a consultant, designer or advisor who sells on trust. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-editorial-studio-saas": {
+  "title": "Editorial Studio SaaS: Claude Code Skill for Web Pages",
+  "description": "Build an editorial marketing site for creative production software: a restrained deep-navy split hero with a serif —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-electric-studio-deck": {
+  "title": "Electric Studio Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a studio presentation with giant condensed headlines, thick rounded white frames, retro workbench photography. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-ember-ebike-store": {
+  "title": "Ember E-Bike Store: Claude Code Skill for Web Pages",
+  "description": "Build a premium electric-bike store with an orange photographic hero, bold condensed headings. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-ev-system-exploded-view": {
+  "title": "EV System Exploded View: Agent Skill for Image Generation",
+  "description": "Creates a system-level exploded view of a fictional electric vehicle from verified subsystem data. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-fantasy-concept-map": {
+  "title": "Fantasy Concept Map: Claude Code Skill for Image Generation",
+  "description": "Turns an abstract topic into an original symbolic exploration map with regions, routes, landmarks. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-field-notes-deck": {
+  "title": "Field Notes Deck: Claude Code Skill for Slide Decks",
+  "description": "Create refined outdoor-learning presentation pages with sky-blue sports photography, sage-green cards. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-figma-style-og": {
+  "title": "Figma Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Figma-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-finora-banking-landing": {
+  "title": "Finora Banking Landing: Claude Code Skill for Web Pages",
+  "description": "A dark business-banking marketing site where the product does the selling. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-fluxon-automation-landing": {
+  "title": "Fluxon Automation Landing: Claude Code Skill for Web Pages",
+  "description": "A dark-first marketing site for an automation platform, desktop dev tool or open-source product: near-black neutral… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-gallery-catalogue-deck": {
+  "title": "Gallery Catalogue Deck: Claude Code Skill for Slide Decks",
+  "description": "Create vivid editorial presentation pages with compact serif and italic titles, thin mustard rules. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-github-style-og": {
+  "title": "GitHub Style OG Image: Agent Skill for Image Generation",
+  "description": "Create GitHub-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-golden-market-deck": {
+  "title": "Golden Market Deck: Claude Code Skill for Slide Decks",
+  "description": "Create richly illustrated ecommerce presentation pages with golden-orange fields, teal detail panels. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-goodnotes-style-og": {
+  "title": "Goodnotes Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Goodnotes-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-gradient-juice-brand-site": {
+  "title": "Gradient Juice Brand Site: Claude Code Skill for Web Pages",
+  "description": "Build a joyful brand and shop website for a drinks or food brand: a full-bleed gradient campaign photo of someone —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-green-pharmacy-storefront": {
+  "title": "Green Pharmacy Storefront: Claude Code Skill for Web Pages",
+  "description": "Build a bright, trustworthy online pharmacy: a lime hero frame with a one-line navy headline. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-gridpaper-beverage-brand-site": {
+  "title": "Grid-Paper Beverage Brand Site: Agent Skill for Web Pages",
+  "description": "Build a complete, shoppable brand website on warm grid paper: heavy condensed headlines. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-grokbot-avatar": {
+  "title": "GrokBot Avatar: Claude Code Skill for Image Generation",
+  "description": "Create rounded Original mascots or cute soft-vinyl Anime avatars with simple solid eyes and vivid colors. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-hairline-grid-portfolio": {
+  "title": "Hairline Grid Portfolio: Claude Code Skill for Web Pages",
+  "description": "Build a personal site drawn like an engineering sheet: a centred content rail on full-width hairlines. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hand-drawn-visual-notes": {
+  "title": "Hand-Drawn Visual Notes: Agent Skill for Image Generation",
+  "description": "Turn source material into one focused 4:3 visual note, using hand-drawn illustrations, a strong English title. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-hand-rendered-explainer": {
+  "title": "Hand-Rendered Explainer: Agent Skill for Image Generation",
+  "description": "Creates a presentation-ready infographic with organic marker lines, structured evidence blocks. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-harbor-saas-suite": {
+  "title": "Harbor SaaS Suite: Claude Code Skill for Web Pages",
+  "description": "A complete SaaS product prototype that reads as one real, finished product: marketing landing page, pricing, sign-in. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-headspace-style-og": {
+  "title": "Headspace Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Headspace-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-hero-angled-gallery": {
+  "title": "Angled Gallery Hero: Claude Code Skill for Web Pages",
+  "description": "Angled Gallery Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-contact-bar": {
+  "title": "Contact Bar Hero: Claude Code Skill for Web Pages",
+  "description": "Contact Bar Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-dark-stats": {
+  "title": "Dark Stat Hero: Claude Code Skill for Web Pages",
+  "description": "Dark Stat Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-drifting-marks": {
+  "title": "Drifting Marks Hero: Claude Code Skill for Web Pages",
+  "description": "Drifting Marks Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-film-strip": {
+  "title": "Film Strip Hero: Claude Code Skill for Web Pages",
+  "description": "Film Strip Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-image-tiles": {
+  "title": "Image Tiles Hero: Claude Code Skill for Web Pages",
+  "description": "Image Tiles Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-ink-ridge": {
+  "title": "Ink Ridge Hero: Claude Code Skill for Web Pages",
+  "description": "Ink Ridge Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-integration-grid": {
+  "title": "Integration Grid Hero: Claude Code Skill for Web Pages",
+  "description": "Integration Grid Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-minimal-motion": {
+  "title": "Minimal Motion Hero: Claude Code Skill for Web Pages",
+  "description": "Minimal Motion Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-particle-field": {
+  "title": "Particle Field Hero: Claude Code Skill for Web Pages",
+  "description": "Particle Field Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-single-frame": {
+  "title": "Single Frame Hero: Claude Code Skill for Web Pages",
+  "description": "Single Frame Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hero-skyline": {
+  "title": "Skyline Hero: Claude Code Skill for Web Pages",
+  "description": "Skyline Hero is a ready-to-paste hero section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-hyperframes-agent-chorus-reel": {
+  "title": "Agent-Chorus Capability Reel: Claude Code Skill for AI Video",
+  "description": "Build a launch film that proves a capability works everywhere by showing four different surfaces typing the… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-capability-keynote-launch": {
+  "title": "Capability-Keynote Launch Film: Agent Skill for AI Video",
+  "description": "Build a launch film where every beat is a different visual world — its own palette, its own typeface. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-chat-to-result-launch": {
+  "title": "Chat-to-Result Launch Film: Claude Code Skill for AI Video",
+  "description": "Build a narrated launch film that plays out entirely inside a dark app interface — a prompt is typed. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-code-change-launch": {
+  "title": "Code-Change Explainer Film: Claude Code Skill for AI Video",
+  "description": "Build a 30-second film that explains a code change to people who will never read the diff. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-device-canvas-launch": {
+  "title": "Device-Canvas Product Launch: Claude Code Skill for AI Video",
+  "description": "Build a launch film that puts your product's real screen on a device in a dark studio, scrolls it. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-format-shift-launch": {
+  "title": "Format-Shift Argument Film: Claude Code Skill for AI Video",
+  "description": "Build a launch film that argues your users' input format is wrong for the medium they are producing. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-frame-token-launch": {
+  "title": "Frame-Token Editorial Launch: Claude Code Skill for AI Video",
+  "description": "Build an editorial launch film on warm paper whose entire visual language is declared in one token file. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-halftone-canvas-launch": {
+  "title": "Living-Halftone Canvas Film: Claude Code Skill for AI Video",
+  "description": "Build a launch film that plays out on one continuous halftone canvas instead of a stack of separate scenes. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-liquid-logo-reveal": {
+  "title": "Liquid-Rupture Logo Reveal: Claude Code Skill for AI Video",
+  "description": "Build a short logo-reveal sting where the mark rides inside a bead of liquid, refracted past the point of legibility. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-objection-reversal-launch": {
+  "title": "Objection-Reversal Launch Film: Agent Skill for AI Video",
+  "description": "Build a launch film that opens on real customer complaints about your product. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-pain-gag-reveal-launch": {
+  "title": "Pain-Gag Reveal Launch Film: Claude Code Skill for AI Video",
+  "description": "Build a self-aware launch film that opens on a visual gag, spirals through the clumsy old workaround. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-partnership-aroll-launch": {
+  "title": "Partnership Announcement Film: Agent Skill for AI Video",
+  "description": "Build a partnership announcement film that cuts a presenter in a treated window against a two-mark lockup. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-persistent-chat-launch": {
+  "title": "Persistent-Chat Before-After Film: Agent Skill for AI Video",
+  "description": "Build a launch film that never cuts away from one growing conversation. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-pixel-promo": {
+  "title": "Pixel Promo Video: Claude Code Skill for AI Video",
+  "description": "Turns a product link, a short description, a product idea or a small story into a 20–45 second pixel-art promo video… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-sound-reveal-launch": {
+  "title": "Sound-Reveal Launch Film: Claude Code Skill for AI Video",
+  "description": "Build a launch film for an audio capability that proves it by withholding it. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-square-morph-launch": {
+  "title": "Square Morph-Chain Launch Film: Agent Skill for AI Video",
+  "description": "Build a square launch film for a hand-off between two tools. A button morphs into a prompt. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-technical-drawing-promo": {
+  "title": "Technical-Drawing Launch Promo: Agent Skill for AI Video",
+  "description": "Build a dark launch promo where every claim sits inside a drafting apparatus — selection rectangles, hatched boxes. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-texture-swatch-launch": {
+  "title": "Texture-Swatch Kinetic Launch: Agent Skill for AI Video",
+  "description": "Build a warm, collage-flavoured launch film whose display words are filled with real material surfaces and flicker —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-hyperframes-velocity-sting": {
+  "title": "Velocity-Matched UI Sting: Claude Code Skill for AI Video",
+  "description": "Build a short product sting where every cut is velocity-matched, so seven scenes read as one continuous camera move… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-illustrated-agritech-app-landing": {
+  "title": "Illustrated Agritech App Landing: Agent Skill for Web Pages",
+  "description": "A bright, illustrated multi-page product site: a rounded sky-gradient hero with a flat-vector farm landscape rising… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-image-narrative-deck": {
+  "title": "Image Narrative Deck: Claude Code Skill for Slide Decks",
+  "description": "Create an image-led presentation with cinematic pacing, editable live captions, and a coherent visual world. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-inclusive-cutpaper-deck": {
+  "title": "Inclusive Cutpaper Deck: Claude Code Skill for Slide Decks",
+  "description": "Create editorial workshop slides with heavy black grotesk headings, cream paper, vibrant portrait collages. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-indigo-ledger-landing": {
+  "title": "Indigo Ledger Landing: Claude Code Skill for Web Pages",
+  "description": "Build a calm, launch-ready product site where one statement does the selling: warm off-white paper. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-industrial-identity-artifact": {
+  "title": "Industrial Identity Artifact - Claude Code & Codex Skill",
+  "description": "Turns a fictional professional profile into a tactile industrial archive object with clearly nonfunctional labels… Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-ink-landscape-deck": {
+  "title": "Ink Landscape Deck: Claude Code Skill for Slide Decks",
+  "description": "Create editorial presentation pages with ivory rice paper, pale ink landscapes, broad geometric black headings. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-inkwell-portfolio": {
+  "title": "Inkwell Portfolio: Claude Code Skill for Web Pages",
+  "description": "Build a complete personal portfolio in a calm editorial style: a fixed sidebar with portrait. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-interactive-system-map": {
+  "title": "Interactive System Map: Claude Code Skill for Web Pages",
+  "description": "Build an offline interactive system map from a written description, code evidence. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-intercom-style-og": {
+  "title": "Intercom Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Intercom-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-isometric-research-collage": {
+  "title": "Isometric Research Collage: Agent Skill for Image Generation",
+  "description": "Creates a 16:9 research collage that combines a grounded subject image, an isometric reconstruction. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-klarna-style-og": {
+  "title": "Klarna Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Klarna-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-lavender-editorial-team-deck": {
+  "title": "Violet Editorial Team Deck: Agent Skill for Slide Decks",
+  "description": "Create a team introduction with monochrome portraits, bold editorial headings, and violet arrow blocks. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-layered-material-cutaway": {
+  "title": "Layered Material Cutaway: Agent Skill for Image Generation",
+  "description": "Creates a clear material cutaway from a verified layer stack, interface description, and thickness guidance. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-learning-loop-deck": {
+  "title": "Learning Loop Deck: Claude Code Skill for Slide Decks",
+  "description": "Turn rough training material into a bright, learner-centered HTML deck with explicit outcomes. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-lilac-pitch-deck": {
+  "title": "Lilac Glass Pitch Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a pitch deck with translucent violet artwork, rounded panels, and spacious lilac pages. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-lime-endurance-deck": {
+  "title": "Lime Endurance Deck: Claude Code Skill for Slide Decks",
+  "description": "Create sports presentation pages with original warm outdoor photography, lime accents. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-lime-frame-designer-portfolio": {
+  "title": "Lime-Frame Designer Portfolio: Agent Skill for Web Pages",
+  "description": "Build a multi-page portfolio for a digital designer or small studio: a lime-green frame around one rounded white — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-linear-agent-style-launch-video": {
+  "title": "Linear Agent Style Launch Video: Agent Skill for AI Video",
+  "description": "Turn a website link, a product description or product material into a Linear Agent style launch video: a short — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-linear-style-og": {
+  "title": "Linear Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Linear-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-linktree-style-og": {
+  "title": "Linktree Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Linktree-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-liquid-glass-landing": {
+  "title": "Liquid Glass Landing: Claude Code Skill for Web Pages",
+  "description": "Build a dark, frosted-glass landing page with a cinematic hero, a focused email capture and a restrained editorial —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-loom-style-og": {
+  "title": "Loom Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Loom-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-loopwise-saas-landing": {
+  "title": "Loopwise SaaS Landing: Claude Code Skill for Web Pages",
+  "description": "A calm, light marketing site for a collaboration or project-management product, with the product itself as the hero. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-lumen-agency-landing": {
+  "title": "Lumen Agency Landing: Claude Code Skill for Web Pages",
+  "description": "A bright, specific agency page that sells a studio's craft through evidence: a quiet centered hero with one — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-magnetic-lattice-hero": {
+  "title": "Magnetic Lattice Hero: Claude Code Skill for Web Pages",
+  "description": "Create a cursor-reactive hero with a shifting lattice of lines and nodes, readable messaging. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-mailchimp-style-og": {
+  "title": "Mailchimp Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Mailchimp-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-manus2-0-style-launch-video": {
+  "title": "Manus 2.0 Style Launch Video: Claude Code Skill for AI Video",
+  "description": "Turn a product name or website URL into a Manus 2.0 style launch video: a 75-120 second film with kinetic type on a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-mapbox-style-og": {
+  "title": "Mapbox Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Mapbox-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-marine-research-poster": {
+  "title": "Marine Research Poster: Agent Skill for Image Generation",
+  "description": "Creates a wide marine research poster that turns verified field findings into a clear visual story with species. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-marker-doodle-brand-studio": {
+  "title": "Marker-Doodle Brand Studio: Claude Code Skill for Web Pages",
+  "description": "Build a loud, warm, hand-drawn website for a brand or packaging designer: cobalt. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-material-design-style-og": {
+  "title": "Material Design Style OG Image - Claude Code & Codex Skill",
+  "description": "Create Material Design-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-meridian-marketing-landing": {
+  "title": "Meridian Marketing Landing: Claude Code Skill for Web Pages",
+  "description": "Build a premium SaaS marketing site with a white and zinc page, one teal accent and a dark pill navbar under a promo… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-meta-style-og": {
+  "title": "Meta Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Meta-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-mint-marker-deck": {
+  "title": "Mint Marker Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a slide deck with oversized mint headlines, loose black marker characters, and warm paper backgrounds. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-mint-noir-saas-site": {
+  "title": "Mint Noir SaaS Site: Claude Code Skill for Web Pages",
+  "description": "Build a dark product marketing website for an AI or SaaS tool, with near-black graphite surfaces. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-mixpanel-style-og": {
+  "title": "Mixpanel Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Mixpanel-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-molten-glass-landing": {
+  "title": "Molten Glass Landing: Claude Code Skill for Web Pages",
+  "description": "Build a studio website with a first screen that moves: live fluted glass where hot orange light presses in from the… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-mono-acid-deck": {
+  "title": "Mono Acid Deck: Claude Code Skill for Slide Decks",
+  "description": "Create premium monochrome proposal slides with oversized neutral typography, obsidian and glass sculpture. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-mono-designer-portfolio": {
+  "title": "Mono Designer Portfolio: Claude Code Skill for Web Pages",
+  "description": "Build a monochrome graphic-design portfolio on faint, tilted grid paper: a huge black display title beside a — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-monochrome-studio-portrait": {
+  "title": "Monochrome Studio Portrait: Agent Skill for Image Generation",
+  "description": "Transform an authorized portrait into a refined black-and-white studio half portrait with soft directional light. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-neon-makers-deck": {
+  "title": "Neon Makers Deck: Claude Code Skill for Slide Decks",
+  "description": "Create vivid editorial presentation pages with retro workshop photography, thick rounded white frames. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-nike-style-og": {
+  "title": "Nike Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Nike-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-notion-style-localize-video": {
+  "title": "Notion Style Localize Video: Claude Code Skill for AI Video",
+  "description": "Turn a website into a short Notion style video that announces it now speaks many languages. Works with Claude Code, Codex and Cursor.",
+  "keyword": "video skill for claude code"
+ },
+ "bs-notion-style-og": {
+  "title": "Notion Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Notion-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-obsidian-cinema-landing": {
+  "title": "Obsidian Cinema Landing: Claude Code Skill for Web Pages",
+  "description": "A dark, cinematic launch page for a premium product that plays like a title sequence. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-ochre-editorial-deck": {
+  "title": "Ochre Editorial Deck: Claude Code Skill for Slide Decks",
+  "description": "Create an editorial presentation with cream paper, oversized compressed headlines, warm portrait collages. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-openai-style-og": {
+  "title": "OpenAI Style OG Image: Agent Skill for Image Generation",
+  "description": "Create OpenAI-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-openai-style-poster": {
+  "title": "OpenAI Style Poster: Claude Code Skill for Image Generation",
+  "description": "Create an OpenAI Style promotional poster from approved copy, a logo, and optional product visuals using eight — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-opsdeck-admin-kit": {
+  "title": "Opsdeck Admin Kit: Claude Code Skill for Web Pages",
+  "description": "A calm, slate-toned back-office console your team could adopt as-is: a collapsible sidebar with workspace switcher. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-optical-bench-diagram": {
+  "title": "Optical Bench Diagram: Agent Skill for Image Generation",
+  "description": "Creates a presentation-ready optical apparatus diagram with a verified component order, beam path. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-orbit-admin-dashboard": {
+  "title": "Orbit Admin Dashboard: Claude Code Skill for Web Pages",
+  "description": "Build a working operations console for revenue, customers, campaigns and team workflows: dense modular panels on a —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-orbit-startup-landing": {
+  "title": "Orbit Startup Landing: Claude Code Skill for Web Pages",
+  "description": "Build a startup landing page with visible personality: a warm off-white page where orange-gold light beams fall — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-orbital-workshop-deck": {
+  "title": "Orbital Workshop Deck: Claude Code Skill for Slide Decks",
+  "description": "Create cheerful design-workshop presentation pages with golden circular fields, orange badges, soft aqua backgrounds. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-paper-cut-science-explainer": {
+  "title": "Paper-Cut Science Explainer - Claude Code & Codex Skill",
+  "description": "Translates one verified scientific process, comparison, or classification into a layered paper-cut explainer. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-paper-texture-resume-site": {
+  "title": "Paper-Texture Resume Site: Claude Code Skill for Web Pages",
+  "description": "Build a resume site that looks like one real sheet of softly crumpled cream paper on a dark dotted board: a — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-paperline-content-illustrator": {
+  "title": "Paperline Content Illustrator - Claude Code & Codex Skill",
+  "description": "Turn a content brief into a spacious hand-drawn editorial illustration built around one clear visual metaphor. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-pastel-cutout-deck": {
+  "title": "Pastel Cutout Deck: Claude Code Skill for Slide Decks",
+  "description": "Create playful pastel presentation pages with oversized condensed headlines, blue pink cream and lavender fields. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-plaid-style-og": {
+  "title": "Plaid Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Plaid-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-playful-primary-classroom-deck": {
+  "title": "Playful Primary Classroom Deck: Agent Skill for Slide Decks",
+  "description": "Create an editable presentation with friendly bold headings with handwritten accents, ink-outline original children. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-playful-uiux-portfolio": {
+  "title": "Playful UI/UX Portfolio: Claude Code Skill for Web Pages",
+  "description": "Build a playful UI/UX portfolio with bouncing black display letters around an illustrated portrait. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-pop-motion-deck": {
+  "title": "Pop Motion Deck: Claude Code Skill for Slide Decks",
+  "description": "Create vivid playful presentation pages using saturated studio photography, cyan coral pink yellow and indigo fields. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-primary-doodle-deck": {
+  "title": "Primary Doodle Deck: Claude Code Skill for Slide Decks",
+  "description": "Create playful presentation pages with hand-lettered headings, original photo cutouts, cobalt-blue paper panels. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-prismatic-fashion-deck": {
+  "title": "Prismatic Fashion Deck: Claude Code Skill for Slide Decks",
+  "description": "Create fashion editorial presentation pages with cream layouts, saturated cobalt imagery, prismatic refractions. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-procreate-style-og": {
+  "title": "Procreate Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Procreate-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-project-knowledge-graph": {
+  "title": "Project Knowledge Graph: Claude Code Skill for Web Pages",
+  "description": "Create an offline project knowledge graph from Markdown, structured records, or a directory inventory. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-quartz-saas-landing": {
+  "title": "Quartz SaaS Landing: Claude Code Skill for Web Pages",
+  "description": "A complete AI SaaS marketing site in a quiet monochrome style with one restrained blue. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-ramp-style-og": {
+  "title": "Ramp Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Ramp-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-raw-ink-storyboard": {
+  "title": "Raw Ink Storyboard: Claude Code Skill for Image Generation",
+  "description": "Creates a sparse black-and-white storyboard with rough open lines, irregular panels, and strong negative space. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-raycast-style-og": {
+  "title": "Raycast Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Raycast-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-red-black-zine-deck": {
+  "title": "Red Black Zine Deck: Claude Code Skill for Slide Decks",
+  "description": "Generate a red-black culture-zine presentation as one self-contained HTML file with real page-by-page navigation — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-regional-flavor-map": {
+  "title": "Regional Flavor Map: Claude Code Skill for Image Generation",
+  "description": "Creates a sourced regional flavor map with restrained geography, comparable profile charts, legends. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-research-paper-deck": {
+  "title": "Research Paper Deck: Claude Code Skill for Slide Decks",
+  "description": "Convert a supplied research paper into a figure-first 16:9 HTML deck with traceable captions, explicit sources. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-research-project-homepage": {
+  "title": "Research Project Homepage: Claude Code Skill for Web Pages",
+  "description": "Turn a finished paper and its approved figures into a publishable project site: a quiet editorial masthead. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-research-talk-deck": {
+  "title": "Research Talk Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a projection-ready Beamer/metropolis-inspired 16:9 HTML research talk with equations, method cadence, results. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-retool-style-og": {
+  "title": "Retool Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Retool-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-revolut-style-og": {
+  "title": "Revolut Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Revolut-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-royal-blue-pet-store": {
+  "title": "Royal Blue Pet Store: Claude Code Skill for Web Pages",
+  "description": "Build a premium pet store with a royal-blue frame, blue serif headings, a golden-retriever hero. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-runway-style-og": {
+  "title": "Runway Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Runway-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-sage-sneaker-store": {
+  "title": "Sage Sneaker Store: Claude Code Skill for Web Pages",
+  "description": "Build a premium footwear or apparel store with a campaign feel: a sage hero with oversized white uppercase type. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-scattered-cards-magazine": {
+  "title": "Scattered-Cards Magazine: Claude Code Skill for Web Pages",
+  "description": "Build an independent magazine website on a white editorial ground: a hero fan of five rotated paper story cards. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-scrapbook-resume-site": {
+  "title": "Scrapbook Resume Site: Claude Code Skill for Web Pages",
+  "description": "A multi-page online resume in a scrapbook style: a lanyard ID badge, a taped contact card, a torn notepaper intro. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-shopify-style-og": {
+  "title": "Shopify Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Shopify-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-silver-robot-product-site": {
+  "title": "Silver Robot Product Site: Claude Code Skill for Web Pages",
+  "description": "A premium hardware-brand site built around silver studio photography and a giant thin model name. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-sketchnote-pricing": {
+  "title": "Sketchnote Pricing: Claude Code Skill for Web Pages",
+  "description": "Create a responsive pricing section with three notebook-inspired plan cards, clear feature choices. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-skin-mechanism-visual": {
+  "title": "Skin Mechanism Visual: Agent Skill for Image Generation",
+  "description": "Creates an evidence-bounded skin-layer mechanism visual with anatomy, pathway zones, citations. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-sky-glass-deck": {
+  "title": "Sky Glass Deck: Claude Code Skill for Slide Decks",
+  "description": "Create a presentation with luminous sky photography, translucent glass cards, and elegant mixed typography. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-sky-sports-club-landing": {
+  "title": "Sky Sports Club Landing: Claude Code Skill for Web Pages",
+  "description": "A premium multi-page site for a sports club, studio or venue: a white rounded shell on a pale court-blue frame. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-skyline-developer-journal": {
+  "title": "Skyline Developer Journal: Claude Code Skill for Web Pages",
+  "description": "Build a calm, content-first personal site for an independent developer: a sticky sidebar, one blue accent. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-slack-style-og": {
+  "title": "Slack Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Slack-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-slate-admin-console": {
+  "title": "Slate Admin Console: Claude Code Skill for Web Pages",
+  "description": "Build a product-grade SaaS admin console in a calm, near-monochrome style where colour is kept for data and status. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-slate-social-report-deck": {
+  "title": "Slate Social Report Deck: Claude Code Skill for Slide Decks",
+  "description": "Create an editable presentation with oversized blue headlines, cool gray pages, monochrome cut-out team photos. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-soft-gradient-deck": {
+  "title": "Soft Gradient Deck: Claude Code Skill for Slide Decks",
+  "description": "Generate a modern soft-gradient presentation as one self-contained HTML file with real page-by-page navigation — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-solana-style-og": {
+  "title": "Solana Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Solana-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-sorbet-window-deck": {
+  "title": "Sorbet Window Deck: Claude Code Skill for Slide Decks",
+  "description": "Create colorful editorial presentation pages with sherbet yellow, coral, cyan and lavender photography. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-spectrum-brand-strategy-deck": {
+  "title": "Spectrum Brand Strategy Deck: Agent Skill for Slide Decks",
+  "description": "Create an editable presentation with heavy cream headlines, deep black pages, and rounded green, blue, orange. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-split-frame-portfolio": {
+  "title": "Split Frame Portfolio: Claude Code Skill for Web Pages",
+  "description": "Build a photography portfolio where the work fills half the screen: a fixed full-height photo pane on the left. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-spotify-style-og": {
+  "title": "Spotify Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Spotify-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-square-style-og": {
+  "title": "Square Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Square-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-starlit-deck": {
+  "title": "Starlit Deck: Claude Code Skill for Slide Decks",
+  "description": "Generate a starlit night-sky presentation as one self-contained HTML file with real page-by-page navigation — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-steel-curve-profile-deck": {
+  "title": "Steel Curve Profile Deck: Claude Code Skill for Slide Decks",
+  "description": "Create an approachable company profile with steel-blue panels, curved image frames, and rounded metric cards. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-sticker-agency-landing": {
+  "title": "Sticker Agency Landing: Claude Code Skill for Web Pages",
+  "description": "Build a complete studio website on a warm cream ground: bold centred capitals. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-sticker-gifting-app-landing": {
+  "title": "Sticker Gifting App Landing: Claude Code Skill for Web Pages",
+  "description": "A warm, playful marketing site for a gifting or greeting-card app. Large black headlines sit on cream beside a phone… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-stillline-insight-card": {
+  "title": "Stillline Insight Card: Agent Skill for Image Generation",
+  "description": "Create a square social insight card that combines a confirmed message, accurate attribution. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-storybook-margin-deck": {
+  "title": "Storybook Margin Deck: Claude Code Skill for Slide Decks",
+  "description": "Create quiet editorial storybook presentation pages with ivory paper, original gouache portraits. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-stripe-style-og": {
+  "title": "Stripe Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Stripe-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-sunlit-structure-deck": {
+  "title": "Sunlit Structure Deck: Claude Code Skill for Slide Decks",
+  "description": "Create detailed construction and architecture presentation pages with mustard-yellow panels. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-supabase-style-og": {
+  "title": "Supabase Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Supabase-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-taskmuse-ai-landing": {
+  "title": "Taskmuse AI Landing: Claude Code Skill for Web Pages",
+  "description": "A warm, structured marketing site for a task-management, productivity or AI-assistant product: a sand-neutral ground. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-teenage-engineering-style-og": {
+  "title": "Teenage Engineering Style OG Image: AI image Skill",
+  "description": "Create Teenage Engineering-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-tessellated-editorial-still-life": {
+  "title": "Tessellated Editorial Still Life - Claude Code & Codex Skill",
+  "description": "Create editorial still-life illustrations blending mosaic-tile surfaces with painterly objects and crisp ink — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-testimonial-case-notes": {
+  "title": "Case Note Testimonials: Claude Code Skill for Web Pages",
+  "description": "Case Note Testimonials is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-colour-blocks": {
+  "title": "Colour Block Testimonials: Claude Code Skill for Web Pages",
+  "description": "Colour Block Testimonials is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-columns": {
+  "title": "Testimonial Columns: Claude Code Skill for Web Pages",
+  "description": "Testimonial Columns is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-compact-grid": {
+  "title": "Compact Testimonial Grid: Claude Code Skill for Web Pages",
+  "description": "Compact Testimonial Grid is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-dark-portraits": {
+  "title": "Dark Portrait Testimonials: Claude Code Skill for Web Pages",
+  "description": "Dark Portrait Testimonials is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-editorial-spread": {
+  "title": "Editorial Testimonial Spread: Agent Skill for Web Pages",
+  "description": "Editorial Testimonial Spread is a ready-to-paste testimonial section, delivered as editable source with its usage —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-fanned-deck": {
+  "title": "Fanned Testimonial Deck: Claude Code Skill for Web Pages",
+  "description": "Fanned Testimonial Deck is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-masonry-wall": {
+  "title": "Masonry Testimonial Wall: Claude Code Skill for Web Pages",
+  "description": "Masonry Testimonial Wall is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-minimal-carousel": {
+  "title": "Minimal Testimonial Carousel: Agent Skill for Web Pages",
+  "description": "Minimal Testimonial Carousel is a ready-to-paste testimonial section, delivered as editable source with its usage —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-mosaic": {
+  "title": "Feature Testimonial Mosaic: Claude Code Skill for Web Pages",
+  "description": "Feature Testimonial Mosaic is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-numbered-slider": {
+  "title": "Numbered Testimonial Slider: Claude Code Skill for Web Pages",
+  "description": "Numbered Testimonial Slider is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-orbiting-portraits": {
+  "title": "Orbiting Portrait Testimonials: Agent Skill for Web Pages",
+  "description": "Orbiting Portrait Testimonials is a ready-to-paste testimonial section. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-portrait-overlay": {
+  "title": "Portrait Overlay Testimonials: Agent Skill for Web Pages",
+  "description": "Portrait Overlay Testimonials is a ready-to-paste testimonial section, delivered as editable source with its usage —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-portrait-switcher": {
+  "title": "Portrait Switcher Testimonials: Agent Skill for Web Pages",
+  "description": "Portrait Switcher Testimonials is a ready-to-paste testimonial section. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-portrait-tiles": {
+  "title": "Portrait Tile Testimonials: Claude Code Skill for Web Pages",
+  "description": "Portrait Tile Testimonials is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-profile-reel": {
+  "title": "Profile Card Testimonial Reel: Agent Skill for Web Pages",
+  "description": "Profile Card Testimonial Reel is a ready-to-paste testimonial section, delivered as editable source with its usage —… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-rated-row": {
+  "title": "Rated Testimonial Row: Claude Code Skill for Web Pages",
+  "description": "Rated Testimonial Row is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-single-card": {
+  "title": "Single Testimonial Card: Claude Code Skill for Web Pages",
+  "description": "Single Testimonial Card is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-social-feed": {
+  "title": "Social Feed Testimonials: Claude Code Skill for Web Pages",
+  "description": "Social Feed Testimonials is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-ticker": {
+  "title": "Testimonial Ticker: Claude Code Skill for Web Pages",
+  "description": "Testimonial Ticker is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-tilted-card": {
+  "title": "Tilted Testimonial Card: Claude Code Skill for Web Pages",
+  "description": "Tilted Testimonial Card is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-tilted-stack": {
+  "title": "Tilted Photo Testimonials: Claude Code Skill for Web Pages",
+  "description": "Tilted Photo Testimonials is a ready-to-paste testimonial section, delivered as editable source with its usage — a… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-testimonial-typed-row": {
+  "title": "Typed Testimonial Row: Claude Code Skill for Web Pages",
+  "description": "Typed Testimonial Row is a ready-to-paste testimonial section, delivered as editable source with its usage example. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-tidal-service-playbook-deck": {
+  "title": "Tidal Service Playbook Deck: Agent Skill for Slide Decks",
+  "description": "Create a service training deck with ice-blue and navy pages, organic contours, and clear operational steps. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-todoist-style-og": {
+  "title": "Todoist Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Todoist-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-tracklane-devtool-landing": {
+  "title": "Tracklane Devtool Landing: Claude Code Skill for Web Pages",
+  "description": "Build a complete developer-tool marketing site with a warm sand canvas, mint section bands. Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-upwork-style-og": {
+  "title": "Upwork Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Upwork-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-vaultic-fintech-landing": {
+  "title": "Vaultic Fintech Landing: Claude Code Skill for Web Pages",
+  "description": "Build a polished, light-first fintech marketing site: a calm centered hero with one deep navy button above a working… Works with Claude Code, Codex and Cursor.",
+  "keyword": "web skill for claude code"
+ },
+ "bs-vehicle-anatomy-poster": {
+  "title": "Vehicle Anatomy Poster: Agent Skill for Image Generation",
+  "description": "Creates a classroom-ready vehicle anatomy poster with a fictional hero cutaway and organized system detail windows. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-vercel-style-og": {
+  "title": "Vercel Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Vercel-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-visual-canvas-deck": {
+  "title": "Visual Canvas Deck: Claude Code Skill for Slide Decks",
+  "description": "Create an exploratory presentation that turns a rough brief into editable spatial compositions and a coherent deck. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-webflow-style-og": {
+  "title": "Webflow Style OG Image: Agent Skill for Image Generation",
+  "description": "Create Webflow-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-whiteboard-concept-explainer": {
+  "title": "Whiteboard Concept Explainer - Claude Code & Codex Skill",
+  "description": "Converts a lesson explanation into a hand-rendered whiteboard composition with a clear reading path and exact labels. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-wise-style-og": {
+  "title": "Wise Style OG Image: Claude Code Skill for Image Generation",
+  "description": "Create Wise-style OG images. Use them for social media posts. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-wonky-cute-doodles": {
+  "title": "Wonky Cute Doodles: Claude Code Skill for Image Generation",
+  "description": "Create high-resolution illustrations with visible crayon and pencil marks, uneven contours, simple shapes. Works with Claude Code, Codex and Cursor.",
+  "keyword": "image skill for claude code"
+ },
+ "bs-yellow-balance-deck": {
+  "title": "Yellow Balance Deck: Claude Code Skill for Slide Decks",
+  "description": "Create airy presentation pages with white and pale grey fields, sunny yellow rounded cards, delicate typography. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ },
+ "bs-yellow-sketchnote-deck": {
+  "title": "Yellow Sketchnote Deck: Claude Code Skill for Slide Decks",
+  "description": "Create bold editorial presentation pages with oversized black and yellow typography, crisp white space. Works with Claude Code, Codex and Cursor.",
+  "keyword": "slides skill for claude code"
+ }
+}

@@ -98,6 +98,7 @@ export function aiVideoIndexPage(input: {
     description: "Creator-made AI videos, motion graphics and launch films.",
     body,
     scripts: ["/assets/site.js"],
+    path: "/ai-videos",
   });
 }
 
@@ -233,6 +234,7 @@ export function aiVideoCollectionPage(input: {
     description: collection.description ?? collection.title,
     body,
     scripts: ["/assets/site.js"],
+    path: `/ai-videos/${collection.slug}`,
   });
 }
 
@@ -311,5 +313,8 @@ export function aiVideoDetailPage(input: {
     description: video.description ?? video.title,
     body,
     scripts: ["/assets/site.js"],
+    path: `/ai-videos/${collection.slug}/${video.itemSlug}`,
+    image: video.remakePoster ?? video.originalPoster,
+    type: "article",
   });
 }

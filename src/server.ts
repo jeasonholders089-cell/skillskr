@@ -118,7 +118,6 @@ app.use(
 app.get("/terms", (_req, res) => res.sendFile(join(publicDir, "terms.html")));
 app.get("/privacy", (_req, res) => res.sendFile(join(publicDir, "privacy.html")));
 app.get("/aigc-policy", (_req, res) => res.sendFile(join(publicDir, "aigc-policy.html")));
-app.get("/learn", (_req, res) => res.sendFile(join(publicDir, "learn.html")));
 app.get("/install/agent.md", (_req, res) =>
   res.type("text/markdown").sendFile(join(publicDir, "install", "agent.md"))
 );

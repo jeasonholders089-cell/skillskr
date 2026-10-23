@@ -146,5 +146,6 @@ export function skillsPage(input: {
       "Browse every skillskr Agent Skill for Claude Code, Codex, Cursor and other SKILL.md agents.",
     body,
     scripts: ["/assets/site.js"],
+    path: "/skills",
   });
 }
