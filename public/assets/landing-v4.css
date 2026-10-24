@@ -1,0 +1,430 @@
+/* Landing v4: product-led, two-column hero and restrained catalog styling. */
+body.sk-landing-v4 {
+  background: #f5f2ea;
+}
+
+body.sk-landing-v4 .shell {
+  max-width: 1500px;
+}
+
+body.sk-landing-v4 .hero {
+  position: relative;
+  min-height: 600px;
+  margin: 1.25rem 0 2.25rem;
+  overflow: hidden;
+  border: 1px solid rgba(18, 19, 19, 0.12);
+  border-radius: 22px;
+  background: #fbfaf5;
+  color: #121313;
+}
+
+body.sk-landing-v4 .hero::before {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 90% 8%, rgba(233, 255, 115, 0.55), transparent 20rem),
+    linear-gradient(135deg, rgba(18, 19, 19, 0.018), transparent 45%);
+  content: "";
+}
+
+body.sk-landing-v4 .hero__glow {
+  display: none;
+}
+
+body.sk-landing-v4 .hero__inner {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 0.88fr) minmax(420px, 1.12fr);
+  grid-template-areas:
+    "title stage"
+    "metrics stage"
+    "ctas stage"
+    "agents stage";
+  align-items: start;
+  gap: 0 3rem;
+  max-width: none;
+  min-height: 600px;
+  padding: 3.1rem 3.25rem 2.4rem;
+}
+
+body.sk-landing-v4 .hero__title-wrap {
+  grid-area: title;
+  max-width: 650px;
+  text-align: left;
+}
+
+body.sk-landing-v4 .sk-v4-kicker {
+  margin: 0 0 0.9rem;
+  color: rgba(18, 19, 19, 0.46);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+body.sk-landing-v4 .hero__title {
+  max-width: 10.5ch;
+  margin: 0;
+  color: #121313;
+  font-family: var(--font-brand);
+  font-size: clamp(3.15rem, 4.9vw, 5.35rem);
+  font-weight: 600;
+  line-height: 0.93;
+  letter-spacing: -0.07em;
+  text-wrap: balance;
+  text-shadow: none;
+}
+
+body.sk-landing-v4 .hero__title em {
+  color: #607600;
+  font-style: normal;
+}
+
+body.sk-landing-v4 .sk-v4-lede {
+  max-width: 48ch;
+  margin: 1.15rem 0 0;
+  color: rgba(18, 19, 19, 0.58);
+  font-size: 14px;
+  line-height: 1.65;
+}
+
+body.sk-landing-v4 .sk-v4-metrics {
+  grid-area: metrics;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.3rem;
+  margin-top: 1.5rem;
+}
+
+body.sk-landing-v4 .sk-v4-metrics div {
+  display: flex;
+  align-items: baseline;
+  gap: 0.32rem;
+}
+
+body.sk-landing-v4 .sk-v4-metrics strong {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+body.sk-landing-v4 .sk-v4-metrics span {
+  color: rgba(18, 19, 19, 0.42);
+  font-size: 10px;
+}
+
+body.sk-landing-v4 .hero__ctas {
+  grid-area: ctas;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 0.55rem;
+  margin-top: 1.35rem;
+}
+
+body.sk-landing-v4 .hero__ctas .btn--dark {
+  border-color: #121313;
+  background: #121313;
+  color: #fffdf8;
+}
+
+body.sk-landing-v4 .hero__ctas .btn--outline {
+  border-color: rgba(18, 19, 19, 0.2);
+  color: #121313;
+}
+
+body.sk-landing-v4 .hero__agents {
+  grid-area: agents;
+  margin-top: 1.5rem;
+}
+
+body.sk-landing-v4 .hero__agents-label {
+  color: rgba(18, 19, 19, 0.38);
+}
+
+body.sk-landing-v4 .hero__agents .agent-pill {
+  border-color: rgba(18, 19, 19, 0.12);
+  background: rgba(255, 255, 255, 0.65);
+}
+
+body.sk-landing-v4 .hero__stage {
+  grid-area: stage;
+  position: relative;
+  left: auto;
+  align-self: stretch;
+  width: 100%;
+  max-width: 100%;
+  min-height: 500px;
+  margin: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 18px;
+  background: transparent;
+  transform: none;
+}
+
+body.sk-landing-v4 .hero__stage::before,
+body.sk-landing-v4 .hero__stage::after,
+body.sk-landing-v4 .hero__rows {
+  display: none;
+}
+
+body.sk-landing-v4 .sk-v4-bento {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+  gap: 0.72rem;
+  height: 100%;
+  min-height: 500px;
+}
+
+body.sk-landing-v4 .sk-v4-tile {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border: 1px solid rgba(18, 19, 19, 0.12);
+  border-radius: 14px;
+  background: #ddd8cd;
+}
+
+body.sk-landing-v4 .sk-v4-tile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 250ms ease;
+}
+
+body.sk-landing-v4 .sk-v4-tile:hover img {
+  transform: scale(1.025);
+}
+
+body.sk-landing-v4 .sk-v4-tile::after {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.72), transparent 50%);
+  content: "";
+}
+
+body.sk-landing-v4 .sk-v4-tile__copy {
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.75rem;
+  left: 0.8rem;
+  z-index: 1;
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 0.75rem;
+  color: #fff;
+}
+
+body.sk-landing-v4 .sk-v4-tile__copy strong {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+body.sk-landing-v4 .sk-v4-tile__copy small {
+  color: rgba(255, 255, 255, 0.66);
+  font-size: 9.5px;
+}
+
+body.sk-landing-v4 .shelves {
+  display: flex;
+  flex-direction: column;
+  gap: 4.25rem;
+}
+
+body.sk-landing-v4 .shelves > .shelf:nth-of-type(1) {
+  order: 1;
+}
+
+body.sk-landing-v4 .shelves > .shelf:nth-of-type(2) {
+  order: 3;
+}
+
+body.sk-landing-v4 .shelves > .shelf:nth-of-type(3) {
+  order: 2;
+}
+
+body.sk-landing-v4 .shelves > .shelf:nth-of-type(4) {
+  order: 4;
+}
+
+body.sk-landing-v4 .shelves > .shelf {
+  padding: 0;
+}
+
+body.sk-landing-v4 .shelf__header {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid rgba(18, 19, 19, 0.16);
+}
+
+body.sk-landing-v4 .shelf__title {
+  margin: 0;
+  font-size: clamp(1.45rem, 2.2vw, 2rem);
+  font-weight: 600;
+  letter-spacing: -0.045em;
+}
+
+body.sk-landing-v4 .shelf__subtitle {
+  max-width: 62ch;
+  margin-top: 0.35rem;
+  color: rgba(18, 19, 19, 0.48);
+  font-size: 11.5px;
+}
+
+body.sk-landing-v4 .shelf__viewall {
+  color: #121313;
+  font-size: 10.5px;
+  font-weight: 700;
+}
+
+body.sk-landing-v4 .rail-wrap {
+  margin-top: 1rem;
+  overflow: visible;
+}
+
+body.sk-landing-v4 .rail {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  width: 100%;
+  gap: 1.35rem 1rem;
+  overflow: visible;
+  transform: none !important;
+}
+
+body.sk-landing-v4 .rail__item {
+  width: auto;
+  min-width: 0;
+}
+
+body.sk-landing-v4 .rail-next {
+  display: none;
+}
+
+body.sk-landing-v4 .shelf__groups {
+  display: flex;
+  flex-direction: column;
+  gap: 2.8rem;
+  margin-top: 1.1rem;
+}
+
+body.sk-landing-v4 .shelf__group {
+  padding: 0;
+}
+
+body.sk-landing-v4 .shelf__group-title {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+body.sk-landing-v4 .shelf__group .rail {
+  margin-top: 0.65rem;
+}
+
+body.sk-landing-v4 .card {
+  border: 1px solid rgba(18, 19, 19, 0.1);
+  border-radius: 14px;
+  background: #fbfaf5;
+  box-shadow: none;
+}
+
+body.sk-landing-v4 .card:hover,
+body.sk-landing-v4 .card-wrap:hover .card {
+  border-color: rgba(18, 19, 19, 0.24);
+  transform: translateY(-3px);
+}
+
+body.sk-landing-v4 .card__media {
+  border: 0;
+  border-radius: 13px 13px 0 0;
+}
+
+body.sk-landing-v4 .card__caption {
+  padding: 0.62rem 0.7rem 0.72rem;
+}
+
+body.sk-landing-v4 .card__title {
+  font-size: 11.5px;
+  font-weight: 600;
+}
+
+body.sk-landing-v4 .made-by,
+body.sk-landing-v4 .install,
+body.sk-landing-v4 .pricing,
+body.sk-landing-v4 .faq,
+body.sk-landing-v4 .final-cta {
+  margin-top: 4rem;
+  padding: 2.5rem;
+  border: 1px solid rgba(18, 19, 19, 0.12);
+  border-radius: 18px;
+  background: #fbfaf5;
+}
+
+body.sk-landing-v4 .install {
+  background: #efffb0;
+}
+
+body.sk-landing-v4 .faq {
+  background: #e1dbff;
+}
+
+@media (max-width: 1120px) {
+  body.sk-landing-v4 .hero__inner {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "metrics"
+      "ctas"
+      "agents"
+      "stage";
+    padding: 2.5rem 2rem;
+  }
+  body.sk-landing-v4 .hero__stage {
+    min-height: 420px;
+    margin-top: 1.4rem;
+  }
+  body.sk-landing-v4 .sk-v4-bento {
+    min-height: 420px;
+  }
+  body.sk-landing-v4 .rail {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  body.sk-landing-v4 .hero {
+    margin-top: 0;
+    border-radius: 0 0 18px 18px;
+  }
+  body.sk-landing-v4 .hero__inner {
+    padding: 2.1rem 1.1rem 1.4rem;
+  }
+  body.sk-landing-v4 .hero__title {
+    max-width: 100%;
+    font-size: clamp(2.8rem, 12.5vw, 4rem);
+    overflow-wrap: anywhere;
+  }
+  body.sk-landing-v4 .hero__stage {
+    min-height: 330px;
+  }
+  body.sk-landing-v4 .sk-v4-bento {
+    min-height: 330px;
+  }
+  body.sk-landing-v4 .rail {
+    grid-template-columns: 1fr;
+  }
+  body.sk-landing-v4 .made-by,
+  body.sk-landing-v4 .install,
+  body.sk-landing-v4 .pricing,
+  body.sk-landing-v4 .faq,
+  body.sk-landing-v4 .final-cta {
+    margin-top: 2.75rem;
+    padding: 1.2rem;
+    border-radius: 15px;
+  }
+}
