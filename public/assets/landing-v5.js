@@ -1,9 +1,9 @@
-/* Landing v4: product-led storefront with a consistent category bento. */
+/* Landing v5: original-style playful hero, rearranged editorial catalog. */
 (function () {
   "use strict";
 
-  document.body.classList.add("sk-landing-v4");
-  document.documentElement.setAttribute("data-landing-version", "v4");
+  document.body.classList.add("sk-landing-v4", "sk-landing-v5");
+  document.documentElement.setAttribute("data-landing-version", "v5");
 
   function hash(value) {
     let h = 2166136261;
@@ -16,14 +16,14 @@
 
   var title = document.querySelector(".hero__title");
   if (title) {
-    title.innerHTML = "Skills for work<br>that looks <em>considered.</em>";
+    title.innerHTML = "Give your agent<br><em>better taste.</em>";
     title.insertAdjacentHTML(
       "beforebegin",
-      '<p class="sk-v4-kicker">skillskr / a curated agent skill studio</p>'
+      '<p class="sk-v5-kicker">skillskr / curated agent skills</p>'
     );
     title.insertAdjacentHTML(
       "afterend",
-      '<p class="sk-v4-lede">402 practical skills for web, decks, imagery and motion. Built to give the agent you already use a sharper visual instinct.</p>' +
+      '<p class="sk-v5-lede">A hand-picked library of skills for web, decks, imagery and motion—built to make AI output feel intentional, not generic.</p>' +
         '<div class="sk-v4-metrics">' +
         '<div><strong>402</strong><span>Skills</span></div>' +
         '<div><strong>43</strong><span>free</span></div>' +
@@ -36,21 +36,8 @@
   var ctas = document.querySelector(".hero__ctas");
   if (ctas) {
     ctas.innerHTML =
-      '<a class="btn btn--dark" href="/skills">Browse the catalog <span aria-hidden="true">↗</span></a>' +
+      '<a class="btn btn--dark" href="/skills">Browse 402 skills <span aria-hidden="true">↓</span></a>' +
       '<a class="btn btn--outline" href="/ai-videos">See AI videos</a>';
-  }
-
-  var stage = document.querySelector(".hero__stage");
-  if (stage && !stage.querySelector(".sk-v4-bento")) {
-    stage.insertAdjacentHTML(
-      "beforeend",
-      '<div class="sk-v4-bento">' +
-        '<a class="sk-v4-tile" href="/skills?output=Web"><img src="/assets/skills/bs-cadence-marketing-landing/media/preview-1.webp" alt="" loading="eager"><span class="sk-v4-tile__copy"><strong>Web systems</strong><small>114 skills</small></span></a>' +
-        '<a class="sk-v4-tile" href="/skills?output=Slides"><img src="/assets/skills/bs-brand-story-deck/media/preview-1.webp" alt="" loading="eager"><span class="sk-v4-tile__copy"><strong>Story decks</strong><small>60 skills</small></span></a>' +
-        '<a class="sk-v4-tile" href="/skills?output=Video"><img src="/assets/skills/bs-linear-agent-style-launch-video/media/preview-1.webp" alt="" loading="eager"><span class="sk-v4-tile__copy"><strong>Motion work</strong><small>146 skills</small></span></a>' +
-        '<a class="sk-v4-tile" href="/skills?output=Image"><img src="/assets/skills/bs-dot-avatar-maker/media/preview-1.webp" alt="" loading="eager"><span class="sk-v4-tile__copy"><strong>Visual systems</strong><small>82 skills</small></span></a>' +
-        "</div>"
-    );
   }
 
   document.querySelectorAll(".shelves > .shelf").forEach(function (shelf) {
@@ -83,7 +70,7 @@
         var href = item.querySelector("a")?.getAttribute("href") || "";
         return {
           item: item,
-          score: hash(label.trim() + "::" + href + "::v4::" + moduleIndex),
+          score: hash(label.trim() + "::" + href + "::v5::" + moduleIndex),
         };
       })
       .sort(function (a, b) {

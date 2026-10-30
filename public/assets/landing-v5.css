@@ -1,0 +1,188 @@
+/* Landing v5: keeps the original warm, playful skill language but changes the hero composition. */
+body.sk-landing-v5 .hero {
+  min-height: 730px;
+  border-radius: 26px;
+  background:
+    radial-gradient(circle at 50% 28%, rgba(255, 235, 200, 0.5), transparent 24rem),
+    radial-gradient(circle at 84% 12%, rgba(233, 255, 115, 0.34), transparent 18rem),
+    #f8f2e8;
+}
+
+body.sk-landing-v5 .hero::before {
+  background-image: none;
+}
+
+body.sk-landing-v5 .hero__inner {
+  display: flex;
+  min-height: 730px;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  padding: 4rem 2rem 2.75rem;
+}
+
+body.sk-landing-v5 .hero__title-wrap {
+  max-width: 900px;
+  text-align: center;
+}
+
+body.sk-landing-v5 .sk-v5-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 0 0 1rem;
+  padding: 0.36rem 0.58rem;
+  border: 1px solid rgba(18, 19, 19, 0.13);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.58);
+  color: rgba(18, 19, 19, 0.58);
+  font-size: 9.5px;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+body.sk-landing-v5 .sk-v5-kicker::before {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #121313;
+  content: "";
+}
+
+body.sk-landing-v5 .hero__title {
+  max-width: 14ch;
+  margin: 0 auto;
+  color: #121313;
+  font-size: clamp(3.6rem, 6.6vw, 6.4rem);
+  line-height: 0.9;
+  letter-spacing: -0.075em;
+  text-align: center;
+  text-wrap: balance;
+  text-shadow: 0.03em 0.04em #e9a78b;
+}
+
+body.sk-landing-v5 .hero__title em {
+  position: relative;
+  color: #121313;
+  font-style: normal;
+  white-space: nowrap;
+}
+
+body.sk-landing-v5 .hero__title em::after {
+  position: absolute;
+  right: 0.03em;
+  bottom: 0.04em;
+  left: 0.03em;
+  z-index: -1;
+  height: 0.22em;
+  border-radius: 999px;
+  background: #e9ff73;
+  content: "";
+  transform: rotate(-1deg);
+}
+
+body.sk-landing-v5 .sk-v5-lede {
+  max-width: 56ch;
+  margin: 1.25rem auto 0;
+  color: rgba(18, 19, 19, 0.58);
+  font-size: 14.5px;
+  line-height: 1.6;
+}
+
+body.sk-landing-v5 .sk-v4-metrics {
+  justify-content: center;
+  margin-top: 1.1rem;
+}
+
+body.sk-landing-v5 .hero__stage {
+  min-height: 0;
+  max-width: 1320px;
+  margin: 1.85rem auto 0;
+  overflow: visible;
+  border-radius: 0;
+  mask-image: linear-gradient(90deg, transparent, black 7%, black 93%, transparent);
+  transform: rotate(-1.6deg);
+}
+
+body.sk-landing-v5 .hero__stage::before,
+body.sk-landing-v5 .hero__stage::after {
+  display: none;
+}
+
+body.sk-landing-v5 .hero__rows {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 0.68rem;
+}
+
+body.sk-landing-v5 .marquee {
+  padding: 0;
+}
+
+body.sk-landing-v5 .marquee:first-child {
+  --hero-logo-size: 82px;
+  --hero-logo-gap: 0.72rem;
+}
+
+body.sk-landing-v5 .marquee--reverse {
+  --hero-logo-size: 62px;
+  --hero-logo-gap: 0.7rem;
+}
+
+body.sk-landing-v5 .marquee--reverse .marquee__group {
+  padding-top: 0.1rem;
+}
+
+body.sk-landing-v5 .skill-logo {
+  border-radius: 21%;
+  box-shadow: 0 8px 18px rgba(18, 19, 19, 0.07);
+}
+
+body.sk-landing-v5 .hero__ctas {
+  display: flex;
+  max-width: none;
+  justify-content: center;
+  margin-top: 1.65rem;
+}
+
+body.sk-landing-v5 .hero__agents {
+  margin-top: 1.55rem;
+  text-align: center;
+}
+
+body.sk-landing-v5 .hero__agents .agent-pills {
+  justify-content: center;
+}
+
+body.sk-landing-v5 .hero__agents .agent-pill {
+  border-color: rgba(18, 19, 19, 0.12);
+  background: rgba(255, 255, 255, 0.62);
+}
+
+@media (max-width: 760px) {
+  body.sk-landing-v5 .hero {
+    min-height: 0;
+  }
+  body.sk-landing-v5 .hero__inner {
+    min-height: 0;
+    padding: 2.4rem 1rem 1.7rem;
+  }
+  body.sk-landing-v5 .hero__title {
+    font-size: clamp(2.9rem, 13vw, 4.4rem);
+  }
+  body.sk-landing-v5 .hero__stage {
+    margin-top: 1.5rem;
+    transform: rotate(-1deg);
+  }
+  body.sk-landing-v5 .marquee:first-child {
+    --hero-logo-size: 68px;
+  }
+  body.sk-landing-v5 .marquee--reverse {
+    --hero-logo-size: 54px;
+  }
+  body.sk-landing-v5 .hero__agents {
+    margin-top: 1.25rem;
+  }
+}
