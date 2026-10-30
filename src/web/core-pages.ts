@@ -110,8 +110,8 @@ export function aboutPage(): string {
   <p>Every Skill carries a version number. When an agent changes its Skills format, affected Skills are re-tested and bumped. If a Skill stops working and cannot be fixed, it is unpublished rather than left up.</p>
 
   <h2>Contact</h2>
-  <p>Support: <a href="mailto:support@groclawa.com">support@groclawa.com</a><br>
-  Business: <a href="mailto:hello@groclawa.com">hello@groclawa.com</a></p>
+  <p>Support: <a href="mailto:jeasonholders089@gmail.com">jeasonholders089@gmail.com</a><br>
+  Business: <a href="mailto:jeasonholders089@gmail.com">jeasonholders089@gmail.com</a></p>
 </article></div>`;
 
   return renderPage({
@@ -131,7 +131,7 @@ export function refundPage(): string {
 
   <h2>How to request one</h2>
   <ol>
-    <li>Email <a href="mailto:support@groclawa.com">support@groclawa.com</a>.</li>
+    <li>Email <a href="mailto:jeasonholders089@gmail.com">jeasonholders089@gmail.com</a>.</li>
     <li>Include the email used at checkout and the Skill name, or "all".</li>
     <li>One line about what went wrong is optional, but it helps us fix the page.</li>
   </ol>
@@ -172,11 +172,11 @@ export function contactPage(): string {
   <h1>Contact</h1>
 
   <h2>Support</h2>
-  <p><a href="mailto:support@groclawa.com">support@groclawa.com</a> — install problems, access issues, refunds.</p>
+  <p><a href="mailto:jeasonholders089@gmail.com">jeasonholders089@gmail.com</a> — install problems, access issues, refunds.</p>
   <p>Include your agent and version (for example, "Claude Code 2.x on macOS"), the Skill name and the exact error. That is usually enough for a one-reply fix.</p>
 
   <h2>Custom Skills and partnerships</h2>
-  <p><a href="mailto:hello@groclawa.com">hello@groclawa.com</a> — team licenses, custom Skill development, partnerships.</p>
+  <p><a href="mailto:jeasonholders089@gmail.com">jeasonholders089@gmail.com</a> — team licenses, custom Skill development, partnerships.</p>
   <p>Tell us the output you need, the agent you use and the deadline. We answer within two business days.</p>
 
   <h2>Response times</h2>

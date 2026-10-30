@@ -40,6 +40,26 @@ const app = express();
 app.disable("x-powered-by");
 app.set("trust proxy", true);
 
+/* --------------------------------------------------------------- domains --
+ * skillskr.tech is the canonical public domain. Keep API, OAuth and ownership
+ * verification paths on the legacy host so existing webhooks, sessions and
+ * Pancake verification can finish during the transition.
+ */
+app.use((req, res, next) => {
+  const host = req.hostname.toLowerCase();
+  const staysOnLegacyHost =
+    req.path.startsWith("/api/") ||
+    req.path.startsWith("/auth/") ||
+    req.path.startsWith("/.well-known/");
+  const legacyHost =
+    host === "groclawa.com" || host === "www.groclawa.com" || host === "www.skillskr.tech";
+  if (legacyHost && !staysOnLegacyHost) {
+    res.redirect(301, `https://skillskr.tech${req.originalUrl}`);
+    return;
+  }
+  next();
+});
+
 /* ---------------------------------------------------------------- webhooks --
  * Registered BEFORE express.json(): the RSA signature covers the raw bytes, so
  * this route must receive a Buffer, never a parsed object.

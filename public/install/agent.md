@@ -1,7 +1,7 @@
 # Install skillskr Skills
 
-1. Browse the catalog at https://groclawa.com/skills.
-2. Sign in at https://groclawa.com.
+1. Browse the catalog at https://skillskr.tech/skills.
+2. Sign in at https://skillskr.tech.
 3. Choose a free Skill, or start a Pro subscription for premium Skills.
 4. Download the Skill pack from the Skill detail page.
 5. Unzip the pack and place the Skill folder in your AI agent's local skills directory.

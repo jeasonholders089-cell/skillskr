@@ -6,7 +6,7 @@ const here = dirname(fileURLToPath(import.meta.url));
 
 export const SITE = {
   name: "skillskr",
-  url: (process.env.SITE_URL || "https://groclawa.com").replace(/\/+$/, ""),
+  url: (process.env.SITE_URL || "https://skillskr.tech").replace(/\/+$/, ""),
   defaultImage: "/assets/og-default.png",
 };
 

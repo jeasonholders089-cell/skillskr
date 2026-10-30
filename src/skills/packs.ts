@@ -47,7 +47,7 @@ function normalizePackText(name: string, data: Buffer): Buffer {
   if (!TEXT_PACK_FILES.test(name)) return data;
   const text = data
     .toString("utf-8")
-    .replace(/https?:\/\/(?:www\.)?skillry\.dev/gi, "https://groclawa.com")
+    .replace(/https?:\/\/(?:www\.)?skillry\.dev/gi, "https://skillskr.tech")
     .replace(/skillry_slug/gi, "skillskr_slug")
     .replace(/skillry/gi, "skillskr");
   return Buffer.from(text, "utf-8");
@@ -62,7 +62,7 @@ function frontmatter(skill: PublicSkill): string {
     "license: commercial",
     "metadata:",
     `  skillskr_slug: ${skill.slug}`,
-    "  site: https://groclawa.com",
+    "  site: https://skillskr.tech",
     `  output: ${skill.output}`,
     `  tier: ${skill.free ? "free" : "pro"}`,
     "---",
@@ -108,7 +108,7 @@ function scaffoldManifest(skill: PublicSkill): string {
       version: PACK_VERSION,
       output: skill.output,
       tier: skill.free ? "free" : "pro",
-      site: "https://groclawa.com",
+      site: "https://skillskr.tech",
       tools: skill.tools.map((tool) => tool.name),
       generatedFrom: "catalog-metadata",
       generatedAt: new Date().toISOString(),
@@ -121,7 +121,7 @@ function scaffoldManifest(skill: PublicSkill): string {
 function scaffoldReadme(skill: PublicSkill): string {
   return `# ${skill.title}
 
-Part of the skillskr catalog: https://groclawa.com/skills/${skill.slug}
+Part of the skillskr catalog: https://skillskr.tech/skills/${skill.slug}
 
 ## Install
 
