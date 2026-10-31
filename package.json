@@ -20,7 +20,8 @@
     "test:api": "node scripts/smoke-api.mjs",
     "test:pack": "node scripts/test-pack.mjs",
     "google:check": "node --disable-warning=ExperimentalWarning --env-file=.env scripts/google-check.ts",
-    "test": "npm run test:billing && npm run test:google && npm run test:api && npm run test:pack"
+    "test": "npm run test:billing && npm run test:google && npm run test:api && npm run test:pack",
+    "indexnow": "node scripts/indexnow.mjs"
   },
   "dependencies": {
     "@waffo/pancake-ts": "^0.26.0",
