@@ -143,7 +143,7 @@ app.get("/install/agent.md", (_req, res) =>
 );
 // One-time Waffo domain-verification challenge. Kept inline because Zeabur's
 // upload ignores dot-directories; remove after verification if desired.
-const waffoDomainVerify = "55c5ace42ceb3f48a4a6bcac53415248";
+const waffoDomainVerify = "2099871ef5424cd551c4ba06a672d4c3";
 app.get("/.well-known/waffo-verify.txt", (_req, res) =>
   res.type("text/plain").send(waffoDomainVerify)
 );
