@@ -1588,3 +1588,45 @@
   line-height: 1.5;
   margin-top: 2px;
 }
+
+/* --- skill detail: guides and tools --------------------------------------- */
+
+.detail-next {
+  margin: 48px 0 8px;
+}
+
+.detail-next__list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+  padding: 0;
+  margin: 12px 0 0;
+}
+
+.detail-next__list a {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 100%;
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  text-decoration: none;
+  transition: background 120ms ease;
+}
+
+.detail-next__list a:hover {
+  background: var(--panel);
+}
+
+.detail-next__list strong {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.detail-next__list span {
+  color: var(--muted-fg);
+  font-size: 13.5px;
+  line-height: 1.5;
+}

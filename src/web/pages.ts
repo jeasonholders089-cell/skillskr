@@ -125,6 +125,79 @@ export function skillDetailPage(input: {
   const { skill, related, entitlements, signedIn } = input;
   const locked = skill.requiresSubscription && !entitlements.active;
 
+  const taskByOutput: Record<string, { href: string; label: string; desc: string }> = {
+    Web: {
+      href: "/skills/task/build-landing-page",
+      label: "Build a landing page",
+      desc: "Brief, structure, prompts and the checks before you ship.",
+    },
+    Slides: {
+      href: "/skills/task/create-pitch-deck",
+      label: "Create a pitch deck",
+      desc: "Build the storyline first, then render an editable deck.",
+    },
+    Image: {
+      href: "/skills/task/create-og-image",
+      label: "Create an OG image",
+      desc: "Safe areas, three prompts that survive the feed, and a checklist.",
+    },
+    Video: {
+      href: "/skills/task/create-launch-video",
+      label: "Make a launch video",
+      desc: "Script, storyboard and render a 15–30 second launch film.",
+    },
+  };
+  const useCaseLabels: Record<string, string> = {
+    "web-design": "Web design",
+    "product-launch": "Product launch",
+    "ecommerce-conversion": "Ecommerce",
+    "social-media": "Social media",
+    "education-explainers": "Education",
+    "sales-fundraising": "Sales and fundraising",
+  };
+  const task = taskByOutput[skill.output];
+  const useCase = skill.useCases.find((value) => useCaseLabels[value]);
+  const nextLinks = [
+    task
+      ? { href: task.href, label: task.label, desc: task.desc }
+      : null,
+    useCase
+      ? {
+          href: `/skills/use-case/${useCase}`,
+          label: `${useCaseLabels[useCase]} asset checklist`,
+          desc: "See how this fits into the rest of the work.",
+        }
+      : null,
+    {
+      href: "/learn/how-to-install-claude-skills",
+      label: "How to install a skill",
+      desc: "Exact folders for Claude Code, project vs global, and how to verify.",
+    },
+    {
+      href: "/learn/claude-skill-not-loading",
+      label: "Skill not loading?",
+      desc: "Five checks that fix almost every install problem.",
+    },
+    {
+      href: "/tools/skill-md-validator",
+      label: "Validate a SKILL.md",
+      desc: "Check frontmatter, name rules and description quality.",
+    },
+  ].filter(Boolean) as Array<{ href: string; label: string; desc: string }>;
+  const nextSteps = `<div class="detail-next">
+    <h2 class="detail-related-title">Guides and tools</h2>
+    <ul class="detail-next__list">
+      ${nextLinks
+        .map(
+          (link) =>
+            `<li><a href="${link.href}"><strong>${escapeHtml(
+              link.label
+            )}</strong><span>${escapeHtml(link.desc)}</span></a></li>`
+        )
+        .join("")}
+    </ul>
+  </div>`;
+
   const cta = locked
     ? `<button type="button" class="btn btn--dark btn--block" data-subscribe-plan="pro_monthly">Subscribe to install</button>
        <p class="detail-hint">Pro Skills need an active subscription. You can cancel any time.</p>`
@@ -215,6 +288,7 @@ export function skillDetailPage(input: {
       </div>
     </aside>
   </div>
+  ${nextSteps}
   ${
     related.length
       ? `<div class="detail-related">
