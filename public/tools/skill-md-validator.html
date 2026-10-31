@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>SKILL.md Validator — check frontmatter before you install</title>
+<meta name="description" content="Paste a SKILL.md and check name, description length, trigger words and structure against the Agent Skills format. Runs locally in your browser." />
+<link rel="canonical" href="https://skillskr.tech/tools/skill-md-validator" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="SKILL.md Validator" />
+<meta property="og:description" content="Check frontmatter, name rules and description quality before you install a skill." />
+<meta property="og:url" content="https://skillskr.tech/tools/skill-md-validator" />
+<meta property="og:image" content="https://skillskr.tech/assets/og-default.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<style>
+  :root{--bg:#0b0b0c;--panel:#141416;--line:#26262b;--text:#f4f1ea;--muted:#9b9a95;
+    --ok:#8ee08e;--warn:#ffcc66;--bad:#ff7b72;--accent:#d7ff3e}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font:15px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+  header{max-width:1180px;margin:0 auto;padding:28px 24px 8px}
+  h1{margin:0 0 6px;font-size:clamp(24px,3vw,34px);letter-spacing:-.02em}
+  header p{margin:0;color:var(--muted);max-width:72ch}
+  main{max-width:1180px;margin:0 auto;padding:24px;display:grid;
+    grid-template-columns:1fr 380px;gap:24px;align-items:start}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px}
+  textarea{width:100%;min-height:520px;background:#0f0f11;color:#eae7df;border:1px solid var(--line);
+    border-radius:10px;padding:14px;font:13px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;resize:vertical}
+  .actions{display:flex;gap:10px;margin-top:12px;flex-wrap:wrap}
+  button{cursor:pointer;border-radius:999px;padding:10px 16px;font:inherit;font-weight:600;
+    border:1px solid var(--line);background:#1c1c20;color:var(--text)}
+  button.primary{background:var(--accent);color:#111;border-color:var(--accent)}
+  .score{display:flex;align-items:baseline;gap:10px;margin-bottom:6px}
+  .score b{font-size:44px;line-height:1}
+  .score span{color:var(--muted);font-size:13px}
+  ul{list-style:none;padding:0;margin:14px 0 0}
+  li{display:grid;grid-template-columns:20px 1fr;gap:10px;padding:9px 0;border-top:1px solid var(--line);font-size:14px}
+  li i{font-style:normal}
+  .ok i{color:var(--ok)} .warn i{color:var(--warn)} .bad i{color:var(--bad)}
+  .detail{color:var(--muted);font-size:12.5px;margin-top:3px}
+  .tip{margin-top:14px;color:var(--muted);font-size:12.5px}
+  @media(max-width:960px){main{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <h1>SKILL.md Validator</h1>
+  <p>Paste a skill file and check the parts an agent actually reads: frontmatter, name rules, description length and trigger words. Nothing leaves your browser. <a href="/skills" style="color:var(--accent)">Browse the catalog →</a></p>
+</header>
+<main>
+  <div class="panel">
+    <textarea id="input" spellcheck="false">---
+name: og-image
+description: Create 1200x630 social preview images from a title and optional screenshot. Use when the user asks for an OG image, social card, or link preview.
+---
+
+# OG Image
+
+1. Read the title and page URL.
+2. Pick a layout from references/layouts.md.
+3. Render at 1200x630 with 80px safe margins.
+4. Export a PNG under 300 KB.
+</textarea>
+    <div class="actions">
+      <button class="primary" id="run" type="button">Validate</button>
+      <button id="sample" type="button">Load sample</button>
+      <button id="clear" type="button">Clear</button>
+    </div>
+    <p class="tip">Required fields: <code>name</code> and <code>description</code>. Name ≤ 64 chars, lowercase letters, numbers and hyphens. Description ≤ 1024 chars.</p>
+  </div>
+
+  <aside class="panel">
+    <div class="score"><b id="score">—</b><span id="verdict">paste a file and validate</span></div>
+    <ul id="results"></ul>
+  </aside>
+</main>
+
+<script>
+const input = document.getElementById('input');
+const results = document.getElementById('results');
+const scoreEl = document.getElementById('score');
+const verdict = document.getElementById('verdict');
+
+function parseFrontmatter(text) {
+  const match = text.match(/^\uFEFF?---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
+  if (!match) return null;
+  const fields = {};
+  let currentKey = null;
+  for (const rawLine of match[1].split(/\r?\n/)) {
+    if (!rawLine.trim()) continue;
+    const kv = rawLine.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
+    if (kv) {
+      currentKey = kv[1];
+      fields[currentKey] = kv[2].replace(/^["']|["']$/g, '').trim();
+    } else if (currentKey && /^\s+/.test(rawLine)) {
+      fields[currentKey] += ' ' + rawLine.trim();
+    }
+  }
+  return { fields, body: match[2] };
+}
+
+function check(condition, label, detail, weight) {
+  return { type: condition ? 'ok' : 'bad', label, detail, weight };
+}
+
+function warn(condition, label, detail, weight) {
+  return { type: condition ? 'ok' : 'warn', label, detail, weight };
+}
+
+function validate() {
+  const text = input.value;
+  const parsed = parseFrontmatter(text);
+  const items = [];
+
+  if (!parsed) {
+    scoreEl.textContent = '0';
+    verdict.textContent = 'no frontmatter found';
+    results.innerHTML = `<li class="bad"><i>✕</i><div>Missing frontmatter<div class="detail">The file must start with --- on its own line, then name and description, then a closing ---.</div></div></li>`;
+    return;
+  }
+
+  const { fields, body } = parsed;
+  const name = (fields.name || '').trim();
+  const desc = (fields.description || '').trim();
+
+  items.push(check(!!name, 'name is present', 'Required. It is also the folder name.', 15));
+  items.push(
+    check(
+      !!name && /^[a-z0-9]+(-[a-z0-9]+)*$/.test(name),
+      'name uses lowercase letters, numbers and hyphens',
+      name ? `Got: ${name}` : 'Example: og-image',
+      10
+    )
+  );
+  items.push(check(name.length > 0 && name.length <= 64, 'name is 64 characters or fewer', `${name.length} chars`, 5));
+  items.push(check(!!desc, 'description is present', 'Required. The agent reads this before loading the body.', 20));
+  items.push(check(desc.length > 0 && desc.length <= 1024, 'description is 1024 characters or fewer', `${desc.length} chars`, 5));
+  items.push(
+    warn(
+      desc.length >= 60 && desc.length <= 300,
+      'description length is practical (60–300 chars)',
+      'Too short gives the agent nothing to match; too long gets truncated in some UIs.',
+      10
+    )
+  );
+  items.push(
+    warn(
+      /use when|use for|when the user|trigger/i.test(desc),
+      'description says when to use it',
+      'Add a trigger clause: "Use when the user asks for …".',
+      12
+    )
+  );
+  items.push(
+    warn(
+      (desc.match(/[,]/g) || []).length >= 1 || desc.split(/\s+/).length >= 8,
+      'description contains concrete nouns or phrases',
+      'Name the artifact: OG image, slide deck, landing page.',
+      6
+    )
+  );
+  items.push(check(body.trim().length > 0, 'body has instructions', 'At least a short numbered workflow.', 12));
+  items.push(
+    warn(
+      /^\s*1[.)]\s/m.test(body),
+      'body uses numbered steps',
+      'Ordered steps are easier for an agent to follow than prose.',
+      5
+    )
+  );
+  items.push(
+    warn(
+      /references\/|assets\/|scripts\//.test(body) ? true : true,
+      'referenced files are declared (if any)',
+      'If the body mentions references/ or assets/, make sure those files ship in the folder.',
+      0
+    )
+  );
+
+  const total = items.reduce((sum, i) => sum + (i.weight || 0), 0);
+  const earned = items.reduce((sum, i) => sum + (i.type === 'ok' ? i.weight || 0 : 0), 0);
+  const score = Math.round((earned / total) * 100);
+
+  scoreEl.textContent = String(score);
+  verdict.textContent = score >= 90 ? 'ready to install' : score >= 70 ? 'works, but fix the warnings' : 'likely to be ignored';
+
+  results.innerHTML = items
+    .filter((i) => i.weight > 0)
+    .map(
+      (i) => `<li class="${i.type}"><i>${i.type === 'ok' ? '✓' : i.type === 'warn' ? '!' : '✕'}</i>
+        <div>${i.label}<div class="detail">${i.detail}</div></div></li>`
+    )
+    .join('');
+}
+
+document.getElementById('run').addEventListener('click', validate);
+document.getElementById('clear').addEventListener('click', () => {
+  input.value = '';
+  results.innerHTML = '';
+  scoreEl.textContent = '—';
+  verdict.textContent = 'paste a file and validate';
+});
+document.getElementById('sample').addEventListener('click', () => {
+  input.value = `---
+name: landing-page
+description: Build a responsive landing page from a product brief, including hero, proof, pricing and FAQ. Use when the user asks for a landing page, marketing page, or product page.
+---
+
+# Landing Page
+
+1. Ask for audience, outcome, proof and price.
+2. Propose a section outline and wait for approval.
+3. Build one self-contained HTML file with a 1120px max width.
+4. Review at 375px and fix overflow, tap targets and contrast.
+`;
+  validate();
+});
+
+validate();
+</script>
+</body>
+</html>

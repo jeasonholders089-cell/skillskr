@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The State of Agent Skills — 2026 Q3 data snapshot</title>
+<meta name="description" content="36,028 GitHub repositories tagged agent-skills, 63% created after July 2026. A reproducible snapshot of the Agent Skills ecosystem, with method and raw data.">
+<link rel="canonical" href="https://skillskr.tech/research/state-of-agent-skills">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The State of Agent Skills — 2026 Q3 snapshot">
+<meta property="og:description" content="36,028 repos, 1.87M stars across the top 20, and 63% created in one quarter.">
+<meta property="og:url" content="https://skillskr.tech/research/state-of-agent-skills">
+<meta property="og:image" content="https://skillskr.tech/assets/og-default.png">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+:root{--bg:#f4f1e9;--fg:#121313;--muted:#666962;--border:rgba(18,19,19,.12);--accent:#f4ff71}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.7 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:72ch;margin:0 auto;padding:40px 24px 96px}
+.top{display:flex;gap:18px;align-items:center;margin-bottom:40px;font-size:14px}
+.top a{color:var(--muted);text-decoration:none}
+.top a:hover{color:var(--fg)}
+.brand{font-weight:800;letter-spacing:-.02em;color:var(--fg)!important}
+h1{font-size:clamp(32px,5vw,46px);line-height:1.08;letter-spacing:-.02em;margin:8px 0 14px}
+h2{font-size:25px;margin:44px 0 12px;letter-spacing:-.01em}
+h3{font-size:19px;margin:28px 0 8px}
+p{margin:14px 0}
+ul,ol{padding-left:1.25em}
+li{margin:.35em 0}
+a{color:inherit;text-underline-offset:3px}
+code{font:13px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;background:rgba(18,19,19,.06);padding:.15em .35em;border-radius:4px}
+pre{background:#141416;color:#f4f1ea;padding:16px;border-radius:12px;overflow:auto}
+pre code{background:none;color:inherit;padding:0}
+table{width:100%;border-collapse:collapse;margin:24px 0;font-size:.95em}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:top}
+blockquote{margin:24px 0;padding:12px 18px;border-left:3px solid var(--accent);background:rgba(244,255,113,.16)}
+hr{border:0;border-top:1px solid var(--border);margin:40px 0}
+.lede{font-size:19px;color:var(--muted)}
+.cta{margin-top:48px;padding:22px;border:1px solid var(--border);border-radius:14px;background:rgba(255,255,255,.4)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav class="top">
+  <a class="brand" href="/">skillskr</a>
+  <a href="/skills">Catalog</a>
+  <a href="/learn">Guides</a>
+  <a href="/tools/og-image-generator">Tools</a>
+</nav>
+<h1>The State of Agent Skills — 2026 Q3</h1>
+<p class="lede">A reproducible snapshot of the public Agent Skills ecosystem on GitHub. Collected 20 October 2026.</p>
+
+<p><strong>Published by groclawa · data collected 2026-10-20</strong></p>
+<p>This is a reproducible snapshot of the public Agent Skills ecosystem on GitHub. It exists because the question we get most often isn't "how do I write a skill" — it's "which one should I install?" That's a discovery problem, and discovery problems need numbers.</p>
+<p><strong>Cite this page</strong> if you use the figures: <code>groclawa, "The State of Agent Skills — 2026 Q3 snapshot", 20 October 2026, groclawa.com/research/state-of-agent-skills</code>.</p>
+<hr>
+<h2>Headline numbers</h2>
+<table><thead><tr><th>Measure</th><th>Value</th></tr></thead><tbody><tr><td>Repositories tagged <code>agent-skills</code></td><td><strong>36,028</strong></td></tr><tr><td>Repositories tagged <code>claude-skills</code></td><td><strong>12,548</strong></td></tr><tr><td>Repositories tagged <code>claude-code</code></td><td><strong>101,543</strong></td></tr><tr><td>Repositories whose metadata mentions <code>SKILL.md</code></td><td><strong>4,332</strong></td></tr><tr><td>Stars across the top 20 <code>agent-skills</code> repos</td><td><strong>1,867,707</strong></td></tr><tr><td><code>agent-skills</code> repos created since 2026-07-20</td><td><strong>22,576 (63%)</strong></td></tr><tr><td><code>SKILL.md</code> repos created since 2026-07-20</td><td><strong>1,993 (46%)</strong></td></tr></tbody></table>
+<p>The last two rows are the story. Nearly two-thirds of the tagged ecosystem appeared in a single quarter. Supply is not the constraint anymore; selection is.</p>
+<h2>Method</h2>
+<ul><li>Source: GitHub REST search API (<code>/search/repositories</code>), unauthenticated, 20 results per query, sorted by stars.</li><li>Queries: <code>topic:agent-skills</code>, <code>topic:claude-skills</code>, <code>topic:claude-code</code>, <code>"SKILL.md"</code>, plus <code>created:&gt;2026-07-20</code> variants for the growth figures.</li><li>Counting rule: <code>total_count</code> from the API, which counts repositories matching the query — not individual skills inside them. A monorepo with 200 skills counts once.</li><li>Star totals are for the top 20 results of each query, not the whole population.</li><li>Raw data: <code>top-agent-skill-repos.csv</code> in this folder.</li></ul>
+<p><strong>Limits.</strong> Topic tags are self-assigned, so the population is noisy in both directions: repos with skills but no tag are missed, and repos with the tag but no <code>SKILL.md</code> are included. Treat the numbers as an order-of-magnitude signal, not a census.</p>
+<h2>What the top of the ecosystem looks like</h2>
+<table><thead><tr><th>Repo</th><th>Stars</th><th>What it is</th></tr></thead><tbody><tr><td><code>morluto/rea</code></td><td>335,933</td><td>Reverse-engineering agent toolkit</td></tr><tr><td><code>anthropics/skills</code></td><td>182,216</td><td>The official Agent Skills repository</td></tr><tr><td><code>DietrichGebert/ponytail</code></td><td>168,030</td><td>"Laziest senior dev" reasoning skill</td></tr><tr><td><code>addyosmani/agent-skills</code></td><td>108,601</td><td>Production engineering skills</td></tr><tr><td><code>paperclipai/paperclip</code></td><td>104,689</td><td>Agent management app</td></tr><tr><td><code>nexu-io/open-design</code></td><td>102,510</td><td>Collaborative design agent workspace</td></tr><tr><td><code>Leonxlnx/taste-skill</code></td><td>99,326</td><td>Art direction and reference skills</td></tr><tr><td><code>tt-a1i/archify</code></td><td>85,828</td><td>Idea/codebase → interactive diagram</td></tr></tbody></table>
+<p>Two patterns worth noting:</p>
+<ol><li><strong>The official repo is not the biggest.</strong> Community collections outrank it, which means discovery happens in lists, not in docs.</li><li><strong>"Taste" repos are huge.</strong> Three of the top eight sell design judgement rather than engineering capability. That's the same thesis our catalog is built on.</li></ol>
+<h2>What this means if you sell skills</h2>
+<p><strong>1. A catalog is not a moat; curation is.</strong> With 36k repos, "we have 400 skills" is not a value proposition. "We tested 400 and kept 60" is.</p>
+<p><strong>2. Install counts beat star counts for buyers.</strong> Stars measure developer attention. A buyer wants to know whether the thing runs on their agent version. Publish both, and publish the failure cases.</p>
+<p><strong>3. Comparison pages will outperform list pages.</strong> In a crowded category, "X vs Y" and "best for Z" queries carry the intent. Lists get skimmed; comparisons get read.</p>
+<p><strong>4. The long tail is agent-specific.</strong> Skills that work in Claude Code may not load in Windsurf, and the folder layout differs. Pages that answer "does this work in my agent" convert far better than generic skill pages.</p>
+<h2>Reproducing this</h2>
+<pre><code>curl -s "https://api.github.com/search/repositories?q=topic:agent-skills&amp;sort=stars&amp;per_page=20"
+curl -s "https://api.github.com/search/repositories?q=topic:agent-skills+created:%3E2026-07-20&amp;per_page=1"</code></pre>
+<p>Re-run quarterly. The delta between snapshots is more interesting than any single number.</p>
+<h2>Suggested citation formats</h2>
+<blockquote>There are more than 36,000 repositories tagged <code>agent-skills</code> on GitHub, and 63% of them were created after July 2026 (groclawa, State of Agent Skills, Oct 2026).</blockquote>
+<blockquote>The official <code>anthropics/skills</code> repository has 182k stars, but community collections outrank it — discovery happens in lists, not documentation (groclawa, Oct 2026).</blockquote>
+<div class="cta">
+  <strong>Want the raw data?</strong>
+  <p>The 60-row repo table behind this report is available as CSV. Cite the figures with the date and URL above.</p>
+  <p><a href="/research/top-agent-skill-repos.csv">Download the CSV →</a> · <a href="/skills">Browse tested skills →</a></p>
+</div>
+</div>
+</body>
+</html>

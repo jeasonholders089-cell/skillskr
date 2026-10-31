@@ -181,6 +181,24 @@ webRouter.get("/learn", (_req: Request, res: Response) => {
   res.type("html").send(learnIndexPage());
 });
 
+/* ------------------------------------------------------------ free tools -- */
+
+const staticPages: Record<string, string> = {
+  "/tools/og-image-generator": "tools/og-image-generator.html",
+  "/tools/skill-md-validator": "tools/skill-md-validator.html",
+  "/research/state-of-agent-skills": "research/state-of-agent-skills.html",
+};
+for (const [route, file] of Object.entries(staticPages)) {
+  webRouter.get(route, (_req: Request, res: Response) => {
+    const full = join(publicDir, file);
+    if (!existsSync(full)) {
+      res.status(404).send("Not found");
+      return;
+    }
+    res.sendFile(full);
+  });
+}
+
 /* ------------------------------------------------------------------ seo --- */
 
 webRouter.get("/robots.txt", (_req: Request, res: Response) => {

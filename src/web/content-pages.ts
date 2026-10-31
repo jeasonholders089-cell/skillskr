@@ -131,11 +131,22 @@ export function learnIndexPage(): string {
     })
     .join("");
 
+  const extras = `<section class="learn-group">
+<h2>Free tools</h2>
+<p class="learn-blurb">Useful without an account, and useful before you buy anything.</p>
+<ul class="learn-list">
+<li><a href="/tools/og-image-generator">OG image generator</a><span>Three layouts, safe-area guides, PNG export, entirely in the browser.</span></li>
+<li><a href="/tools/skill-md-validator">SKILL.md validator</a><span>Check frontmatter, name rules and description quality before installing a skill.</span></li>
+<li><a href="/research/state-of-agent-skills">State of Agent Skills 2026</a><span>How many repositories, how fast they appeared, and what it means for buyers.</span></li>
+</ul>
+</section>`;
+
   const body = `<div class="page-shell"><article class="prose">
 <span class="eyebrow">Learn</span>
 <h1>Agent Skills, explained and installed</h1>
 <p>Short, practical guides: what Skills are, where each agent looks for them, and which ones are worth installing for a given job.</p>
 ${sections}
+${extras}
 </article></div>`;
 
   return renderPage({
